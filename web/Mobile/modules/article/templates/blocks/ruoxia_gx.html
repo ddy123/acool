@@ -1,0 +1,21 @@
+{?section name=i loop=$articlerows?}
+<tr>
+<td><a class="tag" href="{?function jieqi_geturl:article:articlelist:1:$articlerows[i].sortid?}" target="_blank">[{?$articlerows[i].sort|truncate:4:''?}]</a></td>
+													<td>
+														<div class="rangy">
+														    {?if $articlerows[i].isvip_n > 0?}
+														    <img src="/sink/image/icon-chapter-vip.png" alt="vip">
+															{?/if?}
+															<a data-collect-index="1" href="{?$articlerows[i].url_articleinfo?}" class="name" target="_blank">{?$articlerows[i].articlename?}</a>
+															{?if $articlerows[i].vipchapterid > 0?}<a href="{?$articlerows[i].url_vipchapter?}" class="chapter" target="_blank"> {?$articlerows[i].vipvolume?} {?$articlerows[i].vipchapter?}</a>{?else?}<a href="{?$articlerows[i].url_lastchapter?}" class="chapter" target="_blank"> {?$articlerows[i].lastvolume?} {?$articlerows[i].lastchapter?}</a>{?/if?}
+														</div>
+													</td>
+													<td>
+														<div class="range"><a href="{?function jieqi_geturl:'system':'user':$articlerows[i].authorid?}" class="author" target="_blank">{?$articlerows[i].author?}</a></div>
+													</td>
+													<td>
+														<span class="time">{?$articlerows[i].lastupdate|date:'Y-m-d'?}</span>
+													</td>
+													</tr>
+
+													{?/section?}

@@ -1,0 +1,529 @@
+[ 2018-02-11T10:51:58+08:00 ] 106.11.153.249 /Article/readChapter/chapter_id/581794/book_id/1909.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: channel C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 175 行.
+NOTIC: [8] Undefined index: usercode C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 91 行.
+NOTIC: [8] Undefined index: allvisit C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 169 行.
+NOTIC: [8] Undefined index: uid C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 704 行.
+NOTIC: [8] Undefined index: uid C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 735 行.
+NOTIC: [8] Undefined index: uname C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 737 行.
+ERR: 1048:Column 'userid' cannot be null
+ [ SQL语句 ] : INSERT INTO `jieqi_distribution_article_bookcase` (`articleid`,`articlename`,`userid`,`username`,`chapterid`,`chaptername`,`chapterorder`,`joindate`) VALUES ('1909','超级猎艳高手',NULL,NULL,'581794','第7章-兽医','7','1518317518')
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031250s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-02-11T13:06:30+08:00 ] 106.11.154.229 /Article/readChapter/chapter_id/581793/book_id/1909.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: channel C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 175 行.
+NOTIC: [8] Undefined index: usercode C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 91 行.
+NOTIC: [8] Undefined index: allvisit C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 169 行.
+NOTIC: [8] Undefined index: uid C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 704 行.
+NOTIC: [8] Undefined index: uid C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 735 行.
+NOTIC: [8] Undefined index: uname C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 737 行.
+ERR: 1048:Column 'userid' cannot be null
+ [ SQL语句 ] : INSERT INTO `jieqi_distribution_article_bookcase` (`articleid`,`articlename`,`userid`,`username`,`chapterid`,`chaptername`,`chapterorder`,`joindate`) VALUES ('1909','超级猎艳高手',NULL,NULL,'581793','第6章-下山','6','1518325590')
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-02-11T13:06:30+08:00 ] 106.11.152.245 /Article/readChapter/chapter_id/581795/book_id/1909.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: channel C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 175 行.
+NOTIC: [8] Undefined index: usercode C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 91 行.
+NOTIC: [8] Undefined index: allvisit C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 169 行.
+NOTIC: [8] Undefined index: uid C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 704 行.
+NOTIC: [8] Undefined index: uid C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 735 行.
+NOTIC: [8] Undefined index: uname C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 737 行.
+ERR: 1048:Column 'userid' cannot be null
+ [ SQL语句 ] : INSERT INTO `jieqi_distribution_article_bookcase` (`articleid`,`articlename`,`userid`,`username`,`chapterid`,`chaptername`,`chapterorder`,`joindate`) VALUES ('1909','超级猎艳高手',NULL,NULL,'581795','第8章-石寡妇','8','1518325590')
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-02-11T13:32:51+08:00 ] 42.120.160.42 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: usercode C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 91 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\article_wap\ThinkPHP\Library\Think\Db\Driver.class.php 第 546 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031250s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-02-11T13:41:00+08:00 ] 106.11.157.239 /Article/readChapter/chapter_id/582519/book_id/1911.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: channel C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 175 行.
+NOTIC: [8] Undefined index: usercode C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 91 行.
+NOTIC: [8] Undefined index: allvisit C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 169 行.
+NOTIC: [8] Undefined index: uid C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 704 行.
+NOTIC: [8] Undefined index: uid C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 735 行.
+NOTIC: [8] Undefined index: uname C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 737 行.
+ERR: 1048:Column 'userid' cannot be null
+ [ SQL语句 ] : INSERT INTO `jieqi_distribution_article_bookcase` (`articleid`,`articlename`,`userid`,`username`,`chapterid`,`chaptername`,`chapterorder`,`joindate`) VALUES ('1911','青春期',NULL,NULL,'582519','第20章阴谋真相','20','1518327660')
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-02-11T14:16:01+08:00 ] 106.11.155.246 /Article/readChapter/chapter_id/581792/book_id/1909.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: channel C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 175 行.
+NOTIC: [8] Undefined index: usercode C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 91 行.
+NOTIC: [8] Undefined index: allvisit C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 169 行.
+NOTIC: [8] Undefined index: uid C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 704 行.
+NOTIC: [8] Undefined index: uid C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 735 行.
+NOTIC: [8] Undefined index: uname C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 737 行.
+ERR: 1048:Column 'userid' cannot be null
+ [ SQL语句 ] : INSERT INTO `jieqi_distribution_article_bookcase` (`articleid`,`articlename`,`userid`,`username`,`chapterid`,`chaptername`,`chapterorder`,`joindate`) VALUES ('1909','超级猎艳高手',NULL,NULL,'581792','第5章-摸','5','1518329760')
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-02-11T14:29:31+08:00 ] 106.11.156.248 /Article/readChapter/chapter_id/581796/book_id/1909.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: channel C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 175 行.
+NOTIC: [8] Undefined index: usercode C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 91 行.
+NOTIC: [8] Undefined index: allvisit C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 169 行.
+NOTIC: [8] Undefined index: uid C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 704 行.
+NOTIC: [8] Undefined index: uid C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 735 行.
+NOTIC: [8] Undefined index: uname C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 737 行.
+ERR: 1048:Column 'userid' cannot be null
+ [ SQL语句 ] : INSERT INTO `jieqi_distribution_article_bookcase` (`articleid`,`articlename`,`userid`,`username`,`chapterid`,`chaptername`,`chapterorder`,`joindate`) VALUES ('1909','超级猎艳高手',NULL,NULL,'581796','第9章-白的晃眼','9','1518330571')
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-02-11T14:30:03+08:00 ] 218.30.113.35 /LoginApi/callback/oauth/weibo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: usercode C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 91 行.
+NOTIC: [8] Undefined offset: 1 C:\article_wap\plugins\login\weibo\weibo.class.php 第 126 行.
+NOTIC: [8] Undefined index: code C:\article_wap\plugins\login\weibo\weibo.class.php 第 56 行.
+
+[ 2018-02-11T14:37:31+08:00 ] 106.11.153.249 /Article/readChapter/chapter_id/582518/book_id/1911.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: channel C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 175 行.
+NOTIC: [8] Undefined index: usercode C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 91 行.
+NOTIC: [8] Undefined index: allvisit C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 169 行.
+NOTIC: [8] Undefined index: uid C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 704 行.
+NOTIC: [8] Undefined index: uid C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 735 行.
+NOTIC: [8] Undefined index: uname C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 737 行.
+ERR: 1048:Column 'userid' cannot be null
+ [ SQL语句 ] : INSERT INTO `jieqi_distribution_article_bookcase` (`articleid`,`articlename`,`userid`,`username`,`chapterid`,`chaptername`,`chapterorder`,`joindate`) VALUES ('1911','青春期',NULL,NULL,'582518','第19章察觉端倪','19','1518331051')
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-02-11T14:37:31+08:00 ] 106.11.154.229 /Article/readChapter/chapter_id/582520/book_id/1911.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: channel C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 175 行.
+NOTIC: [8] Undefined index: usercode C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 91 行.
+NOTIC: [8] Undefined index: allvisit C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 169 行.
+NOTIC: [8] Undefined index: uid C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 704 行.
+NOTIC: [8] Undefined index: uid C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 735 行.
+NOTIC: [8] Undefined index: uname C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 737 行.
+ERR: 1048:Column 'userid' cannot be null
+ [ SQL语句 ] : INSERT INTO `jieqi_distribution_article_bookcase` (`articleid`,`articlename`,`userid`,`username`,`chapterid`,`chaptername`,`chapterorder`,`joindate`) VALUES ('1911','青春期',NULL,NULL,'582520','第21章苦逼的生活','21','1518331051')
+ERR: 1146:Table 'acool.jieqi_article' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `jieqi_article`
+NOTIC: [8] Undefined index: uid C:\article_wap\Application\Mobile\Logic\ArticleLogic.class.php 第 56 行.
+NOTIC: [8] Undefined index: uid C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 646 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-02-11T14:46:01+08:00 ] 106.11.152.245 /Article/readChapter/chapter_id/581791/book_id/1909.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: channel C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 175 行.
+NOTIC: [8] Undefined index: usercode C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 91 行.
+NOTIC: [8] Undefined index: allvisit C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 169 行.
+NOTIC: [8] Undefined index: uid C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 704 行.
+NOTIC: [8] Undefined index: uid C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 735 行.
+NOTIC: [8] Undefined index: uname C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 737 行.
+ERR: 1048:Column 'userid' cannot be null
+ [ SQL语句 ] : INSERT INTO `jieqi_distribution_article_bookcase` (`articleid`,`articlename`,`userid`,`username`,`chapterid`,`chaptername`,`chapterorder`,`joindate`) VALUES ('1909','超级猎艳高手',NULL,NULL,'581791','第4章-透视','4','1518331561')
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031251s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031251s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-02-11T16:17:32+08:00 ] 106.11.157.239 /Article/readChapter/chapter_id/581790/book_id/1909.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: channel C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 175 行.
+NOTIC: [8] Undefined index: usercode C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 91 行.
+NOTIC: [8] Undefined index: allvisit C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 169 行.
+NOTIC: [8] Undefined index: uid C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 704 行.
+NOTIC: [8] Undefined index: uid C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 735 行.
+NOTIC: [8] Undefined index: uname C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 737 行.
+ERR: 1048:Column 'userid' cannot be null
+ [ SQL语句 ] : INSERT INTO `jieqi_distribution_article_bookcase` (`articleid`,`articlename`,`userid`,`username`,`chapterid`,`chaptername`,`chapterorder`,`joindate`) VALUES ('1909','超级猎艳高手',NULL,NULL,'581790','第3章-疼死了','3','1518337052')
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-02-11T16:17:32+08:00 ] 106.11.155.246 /Article/readChapter/chapter_id/581797/book_id/1909.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: channel C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 175 行.
+NOTIC: [8] Undefined index: usercode C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 91 行.
+NOTIC: [8] Undefined index: allvisit C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 169 行.
+NOTIC: [8] Undefined index: uid C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 704 行.
+NOTIC: [8] Undefined index: uid C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 735 行.
+NOTIC: [8] Undefined index: uname C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 737 行.
+ERR: 1048:Column 'userid' cannot be null
+ [ SQL语句 ] : INSERT INTO `jieqi_distribution_article_bookcase` (`articleid`,`articlename`,`userid`,`username`,`chapterid`,`chaptername`,`chapterorder`,`joindate`) VALUES ('1909','超级猎艳高手',NULL,NULL,'581797','第10章-还没完','10','1518337052')
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-02-11T16:17:32+08:00 ] 106.11.156.248 /Article/readChapter/chapter_id/582517/book_id/1911.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: channel C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 175 行.
+NOTIC: [8] Undefined index: usercode C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 91 行.
+NOTIC: [8] Undefined index: allvisit C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 169 行.
+NOTIC: [8] Undefined index: uid C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 704 行.
+NOTIC: [8] Undefined index: uid C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 735 行.
+NOTIC: [8] Undefined index: uname C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 737 行.
+ERR: 1048:Column 'userid' cannot be null
+ [ SQL语句 ] : INSERT INTO `jieqi_distribution_article_bookcase` (`articleid`,`articlename`,`userid`,`username`,`chapterid`,`chaptername`,`chapterorder`,`joindate`) VALUES ('1911','青春期',NULL,NULL,'582517','第18章让我娶李婷','18','1518337052')
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-02-11T16:55:32+08:00 ] 106.11.153.249 /Article/readChapter/chapter_id/581789/book_id/1909.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: channel C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 175 行.
+NOTIC: [8] Undefined index: usercode C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 91 行.
+NOTIC: [8] Undefined index: allvisit C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 169 行.
+NOTIC: [8] Undefined index: uid C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 704 行.
+NOTIC: [8] Undefined index: uid C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 735 行.
+NOTIC: [8] Undefined index: uname C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 737 行.
+ERR: 1048:Column 'userid' cannot be null
+ [ SQL语句 ] : INSERT INTO `jieqi_distribution_article_bookcase` (`articleid`,`articlename`,`userid`,`username`,`chapterid`,`chaptername`,`chapterorder`,`joindate`) VALUES ('1909','超级猎艳高手',NULL,NULL,'581789','第2章-又被踹','2','1518339332')
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031250s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-02-11T18:38:34+08:00 ] 106.11.154.229 /Article/readChapter/chapter_id/582516/book_id/1911.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: channel C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 175 行.
+NOTIC: [8] Undefined index: usercode C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 91 行.
+NOTIC: [8] Undefined index: allvisit C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 169 行.
+NOTIC: [8] Undefined index: uid C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 704 行.
+NOTIC: [8] Undefined index: uid C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 735 行.
+NOTIC: [8] Undefined index: uname C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 737 行.
+ERR: 1048:Column 'userid' cannot be null
+ [ SQL语句 ] : INSERT INTO `jieqi_distribution_article_bookcase` (`articleid`,`articlename`,`userid`,`username`,`chapterid`,`chaptername`,`chapterorder`,`joindate`) VALUES ('1911','青春期',NULL,NULL,'582516','第17章放荡的吴韵','17','1518345514')
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015624s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015624s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-02-11T19:16:34+08:00 ] 106.11.152.245 /Article/readChapter/chapter_id/582515/book_id/1911.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015626s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015626s ]
+NOTIC: [8] Undefined index: channel C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 175 行.
+NOTIC: [8] Undefined index: usercode C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 91 行.
+NOTIC: [8] Undefined index: allvisit C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 169 行.
+NOTIC: [8] Undefined index: uid C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 704 行.
+NOTIC: [8] Undefined index: uid C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 735 行.
+NOTIC: [8] Undefined index: uname C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 737 行.
+ERR: 1048:Column 'userid' cannot be null
+ [ SQL语句 ] : INSERT INTO `jieqi_distribution_article_bookcase` (`articleid`,`articlename`,`userid`,`username`,`chapterid`,`chaptername`,`chapterorder`,`joindate`) VALUES ('1911','青春期',NULL,NULL,'582515','第16章惨遭蹂躏','16','1518347794')
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-02-11T19:46:35+08:00 ] 106.11.157.239 /Article/readChapter/chapter_id/582514/book_id/1911.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: channel C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 175 行.
+NOTIC: [8] Undefined index: usercode C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 91 行.
+NOTIC: [8] Undefined index: allvisit C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 169 行.
+NOTIC: [8] Undefined index: uid C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 704 行.
+NOTIC: [8] Undefined index: uid C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 735 行.
+NOTIC: [8] Undefined index: uname C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 737 行.
+ERR: 1048:Column 'userid' cannot be null
+ [ SQL语句 ] : INSERT INTO `jieqi_distribution_article_bookcase` (`articleid`,`articlename`,`userid`,`username`,`chapterid`,`chaptername`,`chapterorder`,`joindate`) VALUES ('1911','青春期',NULL,NULL,'582514','第15章窗外的脚印','15','1518349595')
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-02-11T20:51:37+08:00 ] 106.38.241.145 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: usercode C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 91 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\article_wap\ThinkPHP\Library\Think\Db\Driver.class.php 第 546 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031250s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-02-11T21:08:52+08:00 ] 182.138.214.227 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: usercode C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 91 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\article_wap\ThinkPHP\Library\Think\Db\Driver.class.php 第 546 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+

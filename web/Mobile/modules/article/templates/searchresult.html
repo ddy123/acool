@@ -1,0 +1,16 @@
+{?set $jieqi_pagetitle = "搜索关键词“{$searchkey}”-{$jieqi_sitename}"?}{?set jieqi_page_rows = "20"?}
+<div class="container">
+	<h1 class="page-title">“{?$searchkey?}” 搜索结果，共有 {?$allresults?} 条结果</h1>
+	<div class="mod block book-all-list">
+		<div class="bd">
+			<ul class="item list cont">{?section name=i loop=$articlerows?}
+				<li class="column-2 over"><a href="{?$articlerows[i].url_articleinfo?}"><p class="book_title">{?$articlerows[i].articlename?}</p>{?if $articlerows[i].vipchapterid > 0?}
+				<p onclick="window.location='{?$articlerows[i].url_vipchapter?}'" style="color:#666">{?$articlerows[i].vipchapter?} ({?$articlerows[i].viptime|date:'m-d H:i'?})</p>{?else?}
+				<p onclick="window.location='{?$articlerows[i].url_lastchapter?}'" style="color:#666">{?$articlerows[i].lastchapter?} ({?$articlerows[i].lastupdate|date:'m-d H:i'?})</p>{?/if?}
+				<p><span class="status">{?$articlerows[i].fullflag?}</span>作者：{?$articlerows[i].author?} 字数：{?$articlerows[i].size?} 字</p></a>
+				</li>{?/section?}
+			</ul>
+			<div class="pages">{?$url_jumppage?}</div>
+		</div>
+	</div>
+</div>

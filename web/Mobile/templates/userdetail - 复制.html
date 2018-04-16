@@ -1,0 +1,151 @@
+{?set jieqi_blocks_module = "system"?}
+{?set jieqi_blocks_config = "userblocks"?}
+{?set $jieqi_pagetitle = "用户资料-{$jieqi_sitename}"?}
+
+{?block bid="0" blockname="用户设置" module="system" filename="block_userset_tab" classname="BlockSystemCustom" side="-1" title="" vars="" template="" contenttype="4" custom="1" publish="3" hasvars="0"?}
+<div class="form-base form-horizontal">
+   <table class="form-table">
+			<caption class="gridtop pianyi">用户资料</caption>								
+                                            <tr>
+												<td width="120" class="item-label"><label>会员头像：</label></td>
+												<td>
+													<div> 
+														<img src="{?function jieqi_geturl:'system':'avatar':$uid:'l':$avatar?}" alt="" width="100" height="100" />
+													</div>
+													<div class="space-10"></div>
+													<p>
+														<a href="{?$jieqi_url?}/setavatar.php" class="button-link">修改头像</a>
+													</p>
+												</td>
+											</tr>
+											<tr>
+													<td class="item-label"><label>会员昵称：</label></td>
+													<td class="pure-text">
+														{?$name?}
+													</td>
+												</tr>
+										       <tr>
+													<td class="item-label"><label>{?$egoldname?}：</label></td>
+													<td class="pure-text">
+														{?$egold?}
+													</td>
+												</tr>
+												<tr>
+													<td class="item-label"><label>月票：</label></td>
+													<td class="pure-text">
+														{?$setting['gift']['vipvote']|intval?}
+													</td>
+												</tr>
+												{?if $jieqi_group >= 6?}
+											<tr>
+													<td class="item-label"><label>当前收入分成：</label></td>
+													<td class="pure-text">
+														 {?$fc?}%
+													</td>
+												</tr>
+												{?/if?}
+											<tr>
+													<td class="item-label"><label>VIP等级：</label></td>
+													<td class="pure-text">
+														 <img alt="{?$vip?}" src="/sink/image/lco/{?$photo?}.gif">
+													</td>
+												</tr>
+												<tr>
+													<td class="item-label"><label>当前用户组：</label></td>
+													<td class="pure-text">
+														<i class="rk{?$honorid?}"></i>
+													</td>
+												</tr>
+											
+																								<tr>
+													<td class="item-label"><label>常用邮箱：</label></td>
+													<td class="pure-text">
+                                                        <a href="mailto:{?$email?}">{?$email?}</a>  {?if $verify['email'] > 0?}<span class="hot">&nbsp;&nbsp;已验证</span>{?elseif $sendemail > 0?}&nbsp;&nbsp;<span class="hot">验证邮件已发送！</span><a href="{?$email_link?}" target="_blank">[查看]</a>{?else?}<span class="hot">&nbsp;&nbsp;未验证</span> <a href="{?$jieqi_url?}/emailverify.php?sendemail=1">[发验证邮件]</a>{?/if?}
+													</td>
+												</tr>
+                                            <tr>
+													<td class="item-label"><label>常用性别：</label></td>
+													<td class="pure-text">
+														{?$sex?}
+													</td>
+												</tr>
+               
+
+										</table>
+										
+										   <table class="form-table">
+			<caption class="gridtop pianyi">其他信息</caption>								
+
+											<tr>
+													<td width="120" class="item-label"><label>注册日期：</label></td>
+													<td class="pure-text">
+														{?$regdate|date:'Y-m-d'?}
+													</td>
+												</tr>
+												<tr>
+													<td class="item-label"><label>会员积分：</label></td>
+													<td class="pure-text">
+														{?$isvip?}
+													</td>
+												</tr>	
+											<tr>
+													<td class="item-label"><label>书架最大收藏量：</label></td>
+													<td class="pure-text">
+														{?$right['article']['maxbookmarks']|intval?}
+													</td>
+												</tr>
+												<tr>
+													<td class="item-label"><label>每天允许推荐次数：</label></td>
+													<td class="pure-text">
+														{?$right['article']['dayvotes']|intval?}
+													</td>
+												</tr>
+												{?if $tuijianpiao > 0?}
+												<tr>
+													<td class="item-label"><label>VIP额外推荐次数：</label></td>
+													<td class="pure-text">
+														{?$tuijianpiao?}
+													</td>
+												</tr>
+												{?/if?}
+												<tr>
+													<td class="item-label"><label>每天允许评分次数：</label></td>
+													<td class="pure-text">
+														{?$right['article']['dayrates']|intval?}
+													</td>
+												</tr>
+											<tr>
+													<td class="item-label"><label>贡献值：</label></td>
+													<td class="pure-text">
+														 {?$credit?}
+													</td>
+												</tr>
+												
+												<tr>
+													<td class="item-label"><label>最多好友数：</label></td>
+													<td class="pure-text">
+														{?$right['system']['maxfriends']|intval?}
+													</td>
+												</tr>
+												<tr>
+													<td class="item-label"><label>包月到期：</label></td>
+													<td class="pure-text">
+														{?if $overtime > 0?}{?$overtime|date:'Y-m-d'?}{?else?}尚未包月{?/if?} &nbsp; &nbsp; 【<a id="a_monthly" href="javascript:;" onclick="openDialog('{?$jieqi_modules['article']['url']?}/monthlybuy.php?id={?$uid?}&ajax_gets=jieqi_contents', false);">购买包月</a>】
+													</td>
+												</tr>
+																								<tr>
+													<td class="item-label"><label>个人签名：</label></td>
+													<td class="pure-text">
+                                                       {?$sign?}
+													</td>
+												</tr>
+                                            <tr>
+													<td class="item-label"><label>个人简介：</label></td>
+													<td class="pure-text">
+														{?$intro?}
+													</td>
+												</tr>
+               
+
+										</table>
+</div>

@@ -1,0 +1,236 @@
+[ 2018-01-05T03:48:38+08:00 ] 220.181.108.91 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015625s ]
+NOTIC: [8] Undefined index: usercode C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 91 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\article_wap\ThinkPHP\Library\Think\Db\Driver.class.php 第 546 行.
+NOTIC: [8] Undefined variable: resultBookList C:\article_wap\Application\Common\Common\function.php 第 741 行.
+NOTIC: [8] Undefined variable: resultBookList C:\article_wap\Application\Common\Common\function.php 第 741 行.
+NOTIC: [8] Undefined variable: resultBookList C:\article_wap\Application\Common\Common\function.php 第 741 行.
+NOTIC: [8] Undefined variable: resultBookList C:\article_wap\Application\Common\Common\function.php 第 741 行.
+NOTIC: [8] Undefined variable: resultBookList C:\article_wap\Application\Common\Common\function.php 第 741 行.
+NOTIC: [8] Undefined variable: resultBookList C:\article_wap\Application\Common\Common\function.php 第 741 行.
+NOTIC: [8] Undefined variable: resultBookList C:\article_wap\Application\Common\Common\function.php 第 741 行.
+NOTIC: [8] Undefined variable: resultBookList C:\article_wap\Application\Common\Common\function.php 第 741 行.
+NOTIC: [8] Undefined variable: bannerBookList C:\article_wap\Application\Mobile\Controller\IndexController.class.php 第 46 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046874s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046874s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.015625s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015625s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-01-05T09:50:55+08:00 ] 182.119.194.40 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1146:Table 'acool.jieqi_users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `jieqi_users`
+NOTIC: [8] Undefined index: usercode C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 91 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\article_wap\ThinkPHP\Library\Think\Db\Driver.class.php 第 546 行.
+NOTIC: [8] Undefined variable: resultBookList C:\article_wap\Application\Common\Common\function.php 第 741 行.
+NOTIC: [8] Undefined variable: resultBookList C:\article_wap\Application\Common\Common\function.php 第 741 行.
+NOTIC: [8] Undefined variable: resultBookList C:\article_wap\Application\Common\Common\function.php 第 741 行.
+NOTIC: [8] Undefined variable: resultBookList C:\article_wap\Application\Common\Common\function.php 第 741 行.
+NOTIC: [8] Undefined variable: resultBookList C:\article_wap\Application\Common\Common\function.php 第 741 行.
+NOTIC: [8] Undefined variable: resultBookList C:\article_wap\Application\Common\Common\function.php 第 741 行.
+NOTIC: [8] Undefined variable: resultBookList C:\article_wap\Application\Common\Common\function.php 第 741 行.
+NOTIC: [8] Undefined variable: resultBookList C:\article_wap\Application\Common\Common\function.php 第 741 行.
+NOTIC: [8] Undefined variable: bannerBookList C:\article_wap\Application\Mobile\Controller\IndexController.class.php 第 46 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-01-05T09:51:03+08:00 ] 123.151.77.90 /Index/getHotCommendBookList/show_id/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: channel C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 175 行.
+ERR: 1146:Table 'acool.jieqi_users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `jieqi_users`
+NOTIC: [8] Undefined index: usercode C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 91 行.
+NOTIC: [8] Undefined variable: resultBookList C:\article_wap\Application\Common\Common\function.php 第 741 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-01-05T09:51:07+08:00 ] 123.151.77.90 /Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: channel C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 175 行.
+ERR: 1146:Table 'acool.jieqi_users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `jieqi_users`
+NOTIC: [8] Undefined index: usercode C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 91 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\article_wap\ThinkPHP\Library\Think\Db\Driver.class.php 第 546 行.
+NOTIC: [8] Undefined variable: resultBookList C:\article_wap\Application\Common\Common\function.php 第 741 行.
+NOTIC: [8] Undefined variable: resultBookList C:\article_wap\Application\Common\Common\function.php 第 741 行.
+NOTIC: [8] Undefined variable: resultBookList C:\article_wap\Application\Common\Common\function.php 第 741 行.
+NOTIC: [8] Undefined variable: resultBookList C:\article_wap\Application\Common\Common\function.php 第 741 行.
+NOTIC: [8] Undefined variable: resultBookList C:\article_wap\Application\Common\Common\function.php 第 741 行.
+NOTIC: [8] Undefined variable: resultBookList C:\article_wap\Application\Common\Common\function.php 第 741 行.
+NOTIC: [8] Undefined variable: resultBookList C:\article_wap\Application\Common\Common\function.php 第 741 行.
+NOTIC: [8] Undefined variable: resultBookList C:\article_wap\Application\Common\Common\function.php 第 741 行.
+NOTIC: [8] Undefined variable: bannerBookList C:\article_wap\Application\Mobile\Controller\IndexController.class.php 第 46 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-01-05T09:51:09+08:00 ] 123.151.77.90 /Index/getHotCommendBookList/show_id/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: channel C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 175 行.
+ERR: 1146:Table 'acool.jieqi_users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `jieqi_users`
+NOTIC: [8] Undefined index: usercode C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 91 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-01-05T09:51:11+08:00 ] 123.151.77.90 /Article/index/id/1904.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: channel C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 175 行.
+ERR: 1146:Table 'acool.jieqi_users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `jieqi_users`
+NOTIC: [8] Undefined index: usercode C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 91 行.
+NOTIC: [8] Undefined index: allvisit C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 27 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+ERR: 1146:Table 'acool.jieqi_article' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `jieqi_article`
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2018-01-05T09:51:12+08:00 ] 123.151.77.90 /Article/readChapter/chapter_id/581626/book_id/1904.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: channel C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 175 行.
+ERR: 1146:Table 'acool.jieqi_users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `jieqi_users`
+NOTIC: [8] Undefined index: usercode C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 91 行.
+NOTIC: [8] Undefined index: subscribe C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 774 行.
+NOTIC: [8] Undefined index: channel_id C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 776 行.
+NOTIC: [8] Undefined index: allvisit C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 169 行.
+NOTIC: [8] Undefined index: uid C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 704 行.
+NOTIC: [8] Undefined index: uid C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 735 行.
+NOTIC: [8] Undefined index: uname C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 737 行.
+ERR: 1048:Column 'userid' cannot be null
+ [ SQL语句 ] : INSERT INTO `jieqi_distribution_article_bookcase` (`articleid`,`articlename`,`userid`,`username`,`chapterid`,`chaptername`,`chapterorder`,`joindate`) VALUES ('1904','许你余后半生',NULL,NULL,'581626','第一章和我结婚','1','1515117072')
+NOTIC: [8] Undefined offset: 0 C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 350 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-01-05T17:55:29+08:00 ] 121.42.241.59 /Article/readChapter/chapter_id/581626/book_id/1904.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: channel C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 175 行.
+NOTIC: [8] Undefined index: usercode C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 91 行.
+NOTIC: [8] Undefined index: allvisit C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 169 行.
+NOTIC: [8] Undefined index: uid C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 704 行.
+NOTIC: [8] Undefined index: uid C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 735 行.
+NOTIC: [8] Undefined index: uname C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 737 行.
+ERR: 1048:Column 'userid' cannot be null
+ [ SQL语句 ] : INSERT INTO `jieqi_distribution_article_bookcase` (`articleid`,`articlename`,`userid`,`username`,`chapterid`,`chaptername`,`chapterorder`,`joindate`) VALUES ('1904','许你余后半生',NULL,NULL,'581626','第一章和我结婚','1','1515146129')
+NOTIC: [8] Undefined offset: 0 C:\article_wap\Application\Mobile\Controller\ArticleController.class.php 第 350 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031250s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+

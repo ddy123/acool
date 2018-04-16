@@ -1,0 +1,53 @@
+[ 2018-03-26T12:43:42+08:00 ] 115.60.184.106 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant PLUGIN_PATH - assumed 'PLUGIN_PATH' C:\channel\Application\Admin\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant PLUGIN_PATH - assumed 'PLUGIN_PATH' C:\channel\Application\Admin\Conf\config.php 第 6 行.
+NOTIC: [8] Use of undefined constant PLUGIN_PATH - assumed 'PLUGIN_PATH' C:\channel\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant PLUGIN_PATH - assumed 'PLUGIN_PATH' C:\channel\Application\Admin\Conf\config.php 第 8 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1146:Table 'acool.jieqi_config' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `jieqi_config`
+ERR: 1146:Table 'acool.jieqi_config' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `jieqi_config` 
+NOTIC: [2] Invalid argument supplied for foreach() C:\channel\Application\Admin\Controller\BaseController.class.php 第 74 行.
+NOTIC: [8] Undefined index: index C:\channel\Application\Admin\Common\function.php 第 47 行.
+NOTIC: [8] Undefined index: index C:\channel\Application\Admin\Common\function.php 第 48 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-03-26T12:43:43+08:00 ] 115.60.184.106 /index.php?s=/Admin/vertify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant PLUGIN_PATH - assumed 'PLUGIN_PATH' C:\channel\Application\Admin\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant PLUGIN_PATH - assumed 'PLUGIN_PATH' C:\channel\Application\Admin\Conf\config.php 第 6 行.
+NOTIC: [8] Use of undefined constant PLUGIN_PATH - assumed 'PLUGIN_PATH' C:\channel\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant PLUGIN_PATH - assumed 'PLUGIN_PATH' C:\channel\Application\Admin\Conf\config.php 第 8 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1146:Table 'acool.jieqi_config' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `jieqi_config`
+ERR: 1146:Table 'acool.jieqi_config' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `jieqi_config` 
+NOTIC: [2] Invalid argument supplied for foreach() C:\channel\Application\Admin\Controller\BaseController.class.php 第 74 行.
+NOTIC: [8] Undefined index: admin C:\channel\Application\Admin\Common\function.php 第 47 行.
+NOTIC: [8] Undefined index: admin C:\channel\Application\Admin\Common\function.php 第 48 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+

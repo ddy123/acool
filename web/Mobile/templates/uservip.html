@@ -1,0 +1,149 @@
+{?set jieqi_blocks_module = "system"?}
+{?set jieqi_blocks_config = "userblocks"?}
+{?set $jieqi_pagetitle = "VIP成长体系-{$jieqi_sitename}"?}
+
+{?block bid="0" blockname="用户设置" module="system" filename="block_uservip_tab" classname="BlockSystemCustom" side="-1" title="" vars="" template="" contenttype="4" custom="1" publish="3" hasvars="0"?}
+<div class="gridtop pianyi">您当前为VIP级别为<span>{?$viplove?}</span>会员，当前成长值<span>{?$isvip?}</span>分</div>
+<div class="c-left">
+						<h1 class="page-title">
+							VIP成长体系
+						</h1>
+						<div class="left fl">
+							<div class="left-bd">
+								<div class="mod fans-levels">
+									<div class="bd">
+										<table class="fixed-table table table-hover table-striped table-bordered" width="100%">
+											<thead>
+												<tr>
+													<th width="13%">vip等级</th>
+													{?section name=i loop=$vipgrade?}
+                                                       <th width="13%">
+													   <div class="range">
+															<img src="/sink/image/lco/{?$vipgrade[i].photo?}.gif">
+															</div>
+													   </th>
+                                                    {?/section?}
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+														<td width="13%">成长值</td>
+    {?section name=i loop=$vipgrade?}
+    <td>{? if $vipgrade[i].minscore >0?} {?$vipgrade[i].minscore?}{?else?}0{?/if?}</td>
+    {?/section?}
+													</tr>
+													  <tr>
+    <td colspan="10"><span>如何获得VIP成长值？</span> </br>每充值1{?$egoldname?}获得1点VIP成长值。</td>
+  </tr>
+												</tbody>
+										</table>
+										<div class="sp-20"></div>
+									</div>
+								</div><!-- end mod -->
+							</div>
+						</div><!-- end left layout -->
+					</div>
+					
+<div class="c-left">
+						<h1 class="page-title">
+							等 级 特 权
+						</h1>
+						<div class="left fl">
+							<div class="left-bd">
+								<div class="mod fans-levels">
+									<div class="bd">
+										<table class="fixed-table table table-hover table-striped table-bordered" width="100%">
+          <tr>
+            <th width="16%">&nbsp;</th>
+            <th width="12%">vip0</th>
+            <th width="12%">vip1</th>
+            <th width="12%">vip2</th>
+            <th width="12%">vip3</th>
+            <th width="12%">vip4</th>
+            <th width="12%">vip5</th>
+            <th width="12%">vip6</th>
+			<th width="12%">vip7</th>
+          </tr>
+          <tr>
+            <td>会员积分加速</td>
+             <td>{?if $vip['0']['jifenjiasu']==0?}无{?else?}{?eval echo $vip[0]['jifenjiasu']*100;?}%{?/if?}</td> 
+             <td>{?if $vip['1']['jifenjiasu']==0?}无{?else?}{?eval echo $vip['1']['jifenjiasu']*100;?}%{?/if?}</td>
+             <td>{?if $vip['2']['jifenjiasu']==0?}无{?else?}{?eval echo $vip['2']['jifenjiasu']*100;?}%{?/if?}</td>
+             <td>{?if $vip['3']['jifenjiasu']==0?}无{?else?}{?eval echo $vip['3']['jifenjiasu']*100;?}%{?/if?}</td>
+             <td>{?if $vip['4']['jifenjiasu']==0?}无{?else?}{?eval echo $vip['4']['jifenjiasu']*100;?}%{?/if?}</td>
+             <td>{?if $vip['5']['jifenjiasu']==0?}无{?else?}{?eval echo $vip['5']['jifenjiasu']*100;?}%{?/if?}</td>
+			 <td>{?if $vip['6']['jifenjiasu']==0?}无{?else?}{?eval echo $vip['6']['jifenjiasu']*100;?}%{?/if?}</td>
+			 <td>{?if $vip['7']['jifenjiasu']==0?}无{?else?}{?eval echo $vip['7']['jifenjiasu']*100;?}%{?/if?}</td>
+          </tr>
+          <tr>
+            <td>订阅折扣</td>
+          	 <td>{?if $vip['0']['dingyuezhekou']==0?}无{?else?}{?eval echo $vip[0]['dingyuezhekou']*10;?}折{?/if?}</td> 
+             <td>{?if $vip['1']['dingyuezhekou']==0?}无{?else?}{?eval echo $vip['1']['dingyuezhekou']*10;?}折{?/if?}</td>
+             <td>{?if $vip['2']['dingyuezhekou']==0?}无{?else?}{?eval echo $vip['2']['dingyuezhekou']*10;?}折{?/if?}</td>
+             <td>{?if $vip['3']['dingyuezhekou']==0?}无{?else?}{?eval echo $vip['3']['dingyuezhekou']*10;?}折{?/if?}</td>
+             <td>{?if $vip['4']['dingyuezhekou']==0?}无{?else?}{?eval echo $vip['4']['dingyuezhekou']*10;?}折{?/if?}</td>
+             <td>{?if $vip['5']['dingyuezhekou']==0?}无{?else?}{?eval echo $vip['5']['dingyuezhekou']*10;?}折{?/if?}</td>
+			 <td>{?if $vip['6']['dingyuezhekou']==0?}无{?else?}{?eval echo $vip['6']['dingyuezhekou']*10;?}折{?/if?}</td>
+			 <td>{?if $vip['7']['dingyuezhekou']==0?}无{?else?}{?eval echo $vip['7']['dingyuezhekou']*10;?}折{?/if?}</td>
+          </tr>
+          <tr>
+            <td>保底月票</td>
+               <td>{?if $vip['0']['baodiyuepiao']==0?}无{?else?}{?$vip[0]['baodiyuepiao']?}张{?/if?}</td> 
+              <td>{?if $vip['1']['baodiyuepiao']==0?}无{?else?}{?$vip['1']['baodiyuepiao']?}张{?/if?}</td>
+              <td>{?if $vip['2']['baodiyuepiao']==0?}无{?else?}{?$vip['2']['baodiyuepiao']?}张{?/if?}</td>
+              <td>{?if $vip['3']['baodiyuepiao']==0?}无{?else?}{?$vip['3']['baodiyuepiao']?}张{?/if?}</td>
+              <td>{?if $vip['4']['baodiyuepiao']==0?}无{?else?}{?$vip['4']['baodiyuepiao']?}张{?/if?}</td>
+              <td>{?if $vip['5']['baodiyuepiao']==0?}无{?else?}{?$vip['5']['baodiyuepiao']?}张{?/if?}</td>
+			  <td>{?if $vip['6']['baodiyuepiao']==0?}无{?else?}{?$vip['6']['baodiyuepiao']?}张{?/if?}</td>
+			  <td>{?if $vip['7']['baodiyuepiao']==0?}无{?else?}{?$vip['7']['baodiyuepiao']?}张{?/if?}</td>
+          </tr>
+          <tr>
+            <td>消费月票</td>
+               <td>{?if $vip['0']['xiaofeiyuepiao']==0?}无{?else?}{?$vip[0]['xiaofeiyuepiao']?}张{?/if?}</td> 
+               <td>{?if $vip['1']['xiaofeiyuepiao']==0?}无{?else?}{?$vip['1']['xiaofeiyuepiao']?}张{?/if?}</td>
+               <td>{?if $vip['2']['xiaofeiyuepiao']==0?}无{?else?}{?$vip['2']['xiaofeiyuepiao']?}张{?/if?}</td>
+               <td>{?if $vip['3']['xiaofeiyuepiao']==0?}无{?else?}{?$vip['3']['xiaofeiyuepiao']?}张{?/if?}</td>
+               <td>{?if $vip['4']['xiaofeiyuepiao']==0?}无{?else?}{?$vip['4']['xiaofeiyuepiao']?}张{?/if?}</td>
+               <td>{?if $vip['5']['xiaofeiyuepiao']==0?}无{?else?}{?$vip['5']['xiaofeiyuepiao']?}张{?/if?}</td>
+			   <td>{?if $vip['6']['xiaofeiyuepiao']==0?}无{?else?}{?$vip['6']['xiaofeiyuepiao']?}张{?/if?}</td>
+			   <td>{?if $vip['7']['xiaofeiyuepiao']==0?}无{?else?}{?$vip['7']['xiaofeiyuepiao']?}张{?/if?}</td>
+          </tr>
+          <tr>
+            <td>VIP专属图标</td>
+            <td>无</td>
+            <td colspan="7">不同VIP等级会员，拥有各自专属炫酷图标哦！</td>
+          </tr>
+          <tr>
+            <td>每天赠送推荐票</td>
+               <td>{?if $vip['0']['tuijianpiao']==0?}无{?else?}{?$vip[0]['tuijianpiao']?}张{?/if?}</td> 
+               <td>{?if $vip['1']['tuijianpiao']==0?}无{?else?}{?$vip['1']['tuijianpiao']?}张{?/if?}</td>
+               <td>{?if $vip['2']['tuijianpiao']==0?}无{?else?}{?$vip['2']['tuijianpiao']?}张{?/if?}</td>
+               <td>{?if $vip['3']['tuijianpiao']==0?}无{?else?}{?$vip['3']['tuijianpiao']?}张{?/if?}</td>
+               <td>{?if $vip['4']['tuijianpiao']==0?}无{?else?}{?$vip['4']['tuijianpiao']?}张{?/if?}</td>
+               <td>{?if $vip['5']['tuijianpiao']==0?}无{?else?}{?$vip['5']['tuijianpiao']?}张{?/if?}</td>
+			   <td>{?if $vip['6']['tuijianpiao']==0?}无{?else?}{?$vip['6']['tuijianpiao']?}张{?/if?}</td>
+			   <td>{?if $vip['7']['tuijianpiao']==0?}无{?else?}{?$vip['7']['tuijianpiao']?}张{?/if?}</td>
+          </tr>
+          <tr>
+            <td>更多神秘特权</td>
+            <td>?</td>
+            <td>?</td>
+            <td>?</td>
+            <td>?</td>
+            <td>?</td>
+            <td>?</td>
+            <td>?</td>
+			<td>?</td>
+          </tr>
+          <tr>
+            <td colspan="9"><span>注：</span>保底月票
+：上月消费满{?$xiaofei['vipvotes']?}{?$egoldname?}可获得，1次/月；消费月票：
+每消费满{?$xiaofei['outaddvipvote']?}{?$egoldname?}可得，无上限。</td>
+          </tr>
+										</table>
+										<div class="sp-20"></div>
+									</div>
+								</div><!-- end mod -->
+							</div>
+						</div><!-- end left layout -->
+					</div>

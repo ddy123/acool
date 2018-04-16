@@ -1,0 +1,79 @@
+<include file="Public/min-header"/>
+<div class="wrapper">
+    <include file="Public/breadcrumb"/>
+    <style>#search-form > .form-group{margin-left: 10px;}</style>
+    <!-- Main content -->
+    <section class="content">
+        <div class="container-fluid">
+            <div class="pull-right">
+                <a href="javascript:history.go(-1)" data-toggle="tooltip" title="" class="btn btn-default" data-original-title="返回">
+                    <i class="fa fa-reply">
+                    </i>
+                </a>
+            </div>
+
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h3 class="panel-title">
+                        <i class="fa fa-list"></i>
+                        小说详细分类列表
+                    </h3>
+                </div>
+
+                <div class="panel-body">
+                    <form method="post" enctype="multipart/form-data" target="_blank" id="form-goodsType">
+                        <div class="table-responsive">
+                            <table class="table table-bordered table-hover">
+                                <thead>
+                                <tr>
+                                    <th class="sorting text-center">
+                                        ID
+                                    </th>
+
+                                    <th class="sorting text-center">
+                                        名称
+                                    </th>
+
+                                    <th class="sorting text-center">
+                                        所属频道
+                                    </th>
+
+                                    <th class="sorting text-center">
+                                        所属小说分类
+                                    </th>
+                                </tr>
+                                </thead>
+
+                                <tbody>
+                                <volist name="sortList" id="list">
+                                    <tr>
+                                        <td class="text-center">
+                                            {$list.id}
+                                        </td>
+
+                                        <td class="text-center">
+                                            {$list.name}
+                                        </td>
+
+                                        <td class="text-center">
+                                            {$list.channel}
+                                        </td>
+
+                                        <td class="text-center">
+                                            {$list.sort}
+                                        </td>
+                                    </tr>
+                                </volist>
+                                </tbody>
+                            </table>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <!-- /.row -->
+    </section>
+    <!-- /.content -->
+</div>
+</body>
+</html>

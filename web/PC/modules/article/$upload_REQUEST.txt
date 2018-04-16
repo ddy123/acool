@@ -1,0 +1,8 @@
+Array
+(
+    [Filename] => 1.jpg
+    [type] => cover
+    [token] => YTo0OntzOjY6InVzZXJpZCI7aToxO3M6MjoiaXAiO3M6MTM6IjExNS42MC4xODcuNDYiO3M6NDoidGltZSI7ZDoxNTE0NDQzNTI1LjA0MjUyNTE7czo0OiJzaWduIjtzOjMyOiJiNDZhNmRiMTE2NWE2NDRmZjAzZDk3NWMxOTM5ZWFlZiI7fQ
+    [userid] => 1
+    [Upload] => Submit Query
+)

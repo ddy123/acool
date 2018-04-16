@@ -1,0 +1,1 @@
+SELECT * FROM jieqi_article_upload WHERE id=131 AND type='cover' AND sign='563752ae58e38ec5b4f1c42c52ab045a' AND status=0

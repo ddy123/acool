@@ -1,0 +1,12 @@
+Array
+(
+    [cover] => Array
+        (
+            [name] => 1.jpg
+            [type] => application/octet-stream
+            [tmp_name] => C:\Huweishen.com\PHPWEB\php\temp\php35BF.tmp
+            [error] => 0
+            [size] => 497368
+        )
+
+)

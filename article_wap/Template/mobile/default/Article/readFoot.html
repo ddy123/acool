@@ -1,0 +1,201 @@
+<div class="read_vf_nav tborder" style=" margin-top:30px;margin-bottom:30px;">
+
+    <!--
+    <div>
+	<div align="center">
+					<p style="font-size:14px;color:black;">关注微信公众号: nhjuzi ，方便下次阅读</p>
+					<img style="margin:20px;" src="/Template/mobile/default/Static/images/weixin.jpg" width="200" height="200" title="" />
+					<p style="font-size:14px;color:black;">微信内可长按扫码识别</p>
+					<p style="font-size:14px;color:black;">客服QQ：1573526519</p>
+					<p style="font-size:14px;color:black;">客服电话：17316923047</p>
+				</div>
+        <if condition="$chapter['prechapter'] neq -1">
+            <span url="{:U('Article/readChapter',array('chapter_id' => $chapter['prechapter'],'book_id' => $chapter['articleid']))}">
+                上一章
+            </span>
+        <else/>
+            <span >
+                已经是第一章
+            </span>
+        </if>
+    </div>
+    <div class="catalogue">
+        <span url="{:U('Article/getDirectory',array('id' => $chapter['articleid']))}">目录</span>
+    </div>-->
+    <a style="text-align: center; border: solid #666 1px;padding-top: 5px;margin-left: 20px;border-radius: 5px;width: 70%;" href="{:U('Article/readChapter',array('chapter_id' => $chapter['nextchapter'],'book_id' => $chapter['articleid']))}">
+
+        <if condition="$chapter['nextchapter'] neq -1">
+            <span url="{:U('Article/readChapter',array('chapter_id' => $chapter['nextchapter'],'book_id' => $chapter['articleid']))}">
+                下一章
+            </span>
+        <else/>
+            <span >
+                已经是最后一章
+            </span>
+        </if>
+    </a>
+
+    <a id="menu" href="javascript:void(0)" onclick="menudisplay()" style="text-align: center;border: solid #666 1px;padding-top: 5px;margin:0 20px;border-radius: 5px;width: 15%;">
+            <span >
+               菜单
+            </span>
+    </a>
+</div>
+<!--菜单项-->
+<div  id='menu_nav' style="display: none">
+
+    <div class="read_vf_nav tborder" style="margin: 40px 10px 10px ;">
+
+        <if condition="$chapter['prechapter'] neq -1">
+            <a  href="{:U('Article/readChapter',array('chapter_id' => $chapter['prechapter'],'book_id' => $chapter['articleid']))}" class="read_foot_a"  >
+                上一章  </a>
+            <else/>
+            <a  href="javascript:void:(0)"  class="read_foot_a" onclick="alert('当前章节已经是第一章! ')" style="color:#999">
+                上一章
+            </a>
+        </if>
+
+        <a  href="{:U('Article/index',array('id' => $chapter['articleid']))}" class="read_foot_a"  >
+            返回封面
+            </a>
+            <a href="{:U('Article/getDirectory',array('id' => $chapter['articleid']))}" class="read_foot_a"  >
+                           返回目录
+            </a>
+            <a href="/" class="read_foot_a"  >
+                           返回首页
+            </a>
+
+    </div>
+    <!--
+        <div class="read_vf_nav tborder" style="margin: 10px;">
+
+            <a  class="read_foot_a"  style="">
+                签到送礼
+            </a>
+            <a  class="read_foot_a"  style="">
+                评论
+            </a>
+            <a  class="read_foot_a"  style="">
+               打赏
+            </a>
+            <a  class="read_foot_a"  style="">
+                书架
+            </a>
+
+        </div>-->
+    </div>
+
+        <div class="read_set" style="display: none" >
+            <li style="">
+                <label >字体</label>
+                    <label class="set_size" onclick="fontAdd();">A+</label>
+                    <label class="set_size"  onclick="fontrev();">默认</label>
+                    <label class="set_size"  onclick="fontdef();">A—</label>
+            </li>
+                <li>
+                    <label style="color: #FFFFff">背景</label>
+                    <label style="background-color:#f0f0f0" class="set_color" onclick="setcolor(1);"></label>
+                    <label style="background-color:#e8dfc0" class="set_color" onclick="setcolor(2);"></label>
+                    <label style="background-color:#c7edcc"  class="set_color"  onclick="setcolor(3);"></label>
+                    <label style="background-color:#e0a5b4" class="set_color" onclick="setcolor(4);"></label>
+                    <label style="background-color:#E7F4FE"  class="set_color"  onclick="setcolor(5);"></label>
+                    </li>
+        </div>
+
+    <script>
+        $(".read_vf_nav div span").click(function () {
+            if(typeof($(this).attr("url"))=="undefined")
+            {
+            }
+            else
+            {
+                window.location.replace($(this).attr("url"));
+            }
+        })
+
+        var flag=false;
+        function menudisplay(){
+            flag=!flag;
+            console.log(flag);
+            if(flag){
+                $('#menu_nav').css("display","block");
+                var h = $(document).height()-$(window).height();
+                $(document).scrollTop(h);
+            }else{
+                $('#menu_nav').css("display","none");
+            }
+        }
+
+        //弹出设置菜单
+        $(".chapter_content").click(
+            function () {
+                $(".read_set").slideToggle('fast');
+            }
+        );
+
+
+
+        var _content = $("[data-act=read_content]");
+        var _change=4;
+
+        //设置字体加
+        function fontAdd() {
+            var _cont_size = $("[data-act=read_content]").children("p:first").css("font-size");
+            var _cont_marg = $("[data-act=read_content]").children("p:first").css("margin");
+            var _last_size = parseInt(_cont_size)+_change;
+            var _chan_marg = parseInt(_cont_marg)+_change;
+            console.log(_cont_size,_cont_marg);
+            if (_last_size>=36) {
+                _last_size = 36;
+                _chan_marg = 20;
+            }
+            setFontsize(_last_size,_chan_marg);
+        }
+
+        //设置字体减
+        function fontdef() {
+            var _cont_size = $("[data-act=read_content]").children("p:first").css("font-size");
+            var _cont_marg = $("[data-act=read_content]").children("p:first").css("margin");
+            var _last_size = parseInt(_cont_size)-_change;
+            var _chan_marg = parseInt(_cont_marg)-_change;
+            if (_last_size<=12){
+                _last_size=12;
+                _chan_marg=6;
+            }
+
+            setFontsize(_last_size,_chan_marg);
+
+        }
+
+
+        //设置默认字体
+        function fontrev () {
+            _last_size=16;
+            _chan_marg=6;
+            setFontsize(_last_size,_chan_marg);
+
+        }
+
+
+        //设置字体
+        function setFontsize(_last_size,_chan_marg) {
+            console.log(_last_size,_chan_marg);
+            var _last_lh = _last_size + _change*2;
+            _content.children("p").css({"font-size":_last_size + "px","line-height":_last_lh + "px","margin":_chan_marg + "px 0"});
+            var _read_str = '{\"fs\":\"'+_last_size + '\",\"lh\":\"'+_last_lh + '\",\"pm\":\"' +_chan_marg + '\"}';
+            $.cookie('shuhai_read_fs',_read_str,{expires:30,path:"/"});
+
+        }
+
+        //设置背景色
+        function setcolor(num){
+            var _color={"bodybg":"url(/Template/mobile/default/Static/images/readbg_0"+num+".jpg)","nightcolor":"#333","conn":"#353434","conan":"#ffffff"};
+            $("body").css("background",_color.bodybg);
+            $(".read_vf_nav").css("background",_color.bodybg);
+            $(".chapter_content p").css("color",_color.nightcolor);
+            $(".read_vf_nav a").css("color",_color.nightcolor);
+            _read_str = '{\"bodybg\":\"'+_color.bodybg + '\",\"con\":\"'+_color.con + '\",\"conan\":\"'+_color.cona + '\",\"mode\":\"day\",\"fontColor\":\"'+_color.nightcolor + '\"}';
+            $.cookie('shuhai_read_mod',_read_str,{expires:30,path:"/"});
+        }
+
+    </script>

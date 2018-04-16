@@ -1,0 +1,363 @@
+[ 2018-01-19T06:00:32+08:00 ] 180.149.143.153 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: usercode C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 91 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\article_wap\ThinkPHP\Library\Think\Db\Driver.class.php 第 546 行.
+NOTIC: [8] Undefined variable: bannerBookList C:\article_wap\Application\Mobile\Controller\IndexController.class.php 第 46 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031250s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-01-19T09:51:41+08:00 ] 220.181.51.74 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: usercode C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 91 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\article_wap\ThinkPHP\Library\Think\Db\Driver.class.php 第 546 行.
+NOTIC: [8] Undefined variable: bannerBookList C:\article_wap\Application\Mobile\Controller\IndexController.class.php 第 46 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031250s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-01-19T11:49:11+08:00 ] 123.125.67.214 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: usercode C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 91 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\article_wap\ThinkPHP\Library\Think\Db\Driver.class.php 第 546 行.
+NOTIC: [8] Undefined variable: bannerBookList C:\article_wap\Application\Mobile\Controller\IndexController.class.php 第 46 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031250s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-01-19T12:40:18+08:00 ] 115.60.184.215 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015625s ]
+NOTIC: [8] Undefined index: usercode C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 91 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\article_wap\ThinkPHP\Library\Think\Db\Driver.class.php 第 546 行.
+NOTIC: [8] Undefined variable: bannerBookList C:\article_wap\Application\Mobile\Controller\IndexController.class.php 第 46 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031250s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-01-19T12:44:34+08:00 ] 221.15.215.20 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015625s ]
+NOTIC: [8] Undefined index: usercode C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 91 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\article_wap\ThinkPHP\Library\Think\Db\Driver.class.php 第 546 行.
+NOTIC: [8] Undefined variable: bannerBookList C:\article_wap\Application\Mobile\Controller\IndexController.class.php 第 46 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015625s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2018-01-19T12:44:52+08:00 ] 221.15.215.20 /Index/getSortList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: channel C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 175 行.
+NOTIC: [8] Undefined index: usercode C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 91 行.
+NOTIC: [8] Undefined offset: 0 C:\article_wap\Application\Mobile\Controller\IndexController.class.php 第 103 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\article_wap\Application\Common\Common\function.php 第 721 行.
+NOTIC: [8] Undefined variable: resultBookList C:\article_wap\Application\Common\Common\function.php 第 741 行.
+NOTIC: [8] Undefined offset: 0 C:\article_wap\Application\Mobile\Controller\IndexController.class.php 第 103 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\article_wap\Application\Common\Common\function.php 第 721 行.
+NOTIC: [8] Undefined variable: resultBookList C:\article_wap\Application\Common\Common\function.php 第 741 行.
+NOTIC: [8] Undefined offset: 0 C:\article_wap\Application\Mobile\Controller\IndexController.class.php 第 103 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\article_wap\Application\Common\Common\function.php 第 721 行.
+NOTIC: [8] Undefined variable: resultBookList C:\article_wap\Application\Common\Common\function.php 第 741 行.
+NOTIC: [8] Undefined offset: 0 C:\article_wap\Application\Mobile\Controller\IndexController.class.php 第 103 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\article_wap\Application\Common\Common\function.php 第 721 行.
+NOTIC: [8] Undefined variable: resultBookList C:\article_wap\Application\Common\Common\function.php 第 741 行.
+NOTIC: [8] Undefined offset: 0 C:\article_wap\Application\Mobile\Controller\IndexController.class.php 第 103 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\article_wap\Application\Common\Common\function.php 第 721 行.
+NOTIC: [8] Undefined variable: resultBookList C:\article_wap\Application\Common\Common\function.php 第 741 行.
+NOTIC: [8] Undefined offset: 0 C:\article_wap\Application\Mobile\Controller\IndexController.class.php 第 103 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\article_wap\Application\Common\Common\function.php 第 721 行.
+NOTIC: [8] Undefined variable: resultBookList C:\article_wap\Application\Common\Common\function.php 第 741 行.
+NOTIC: [8] Undefined offset: 0 C:\article_wap\Application\Mobile\Controller\IndexController.class.php 第 103 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\article_wap\Application\Common\Common\function.php 第 721 行.
+NOTIC: [8] Undefined variable: resultBookList C:\article_wap\Application\Common\Common\function.php 第 741 行.
+NOTIC: [8] Undefined offset: 0 C:\article_wap\Application\Mobile\Controller\IndexController.class.php 第 103 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\article_wap\Application\Common\Common\function.php 第 721 行.
+NOTIC: [8] Undefined variable: resultBookList C:\article_wap\Application\Common\Common\function.php 第 741 行.
+NOTIC: [8] Undefined offset: 0 C:\article_wap\Application\Mobile\Controller\IndexController.class.php 第 103 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\article_wap\Application\Common\Common\function.php 第 721 行.
+NOTIC: [8] Undefined variable: resultBookList C:\article_wap\Application\Common\Common\function.php 第 741 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-01-19T12:44:58+08:00 ] 221.15.215.20 /Index/getTopicList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: channel C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 175 行.
+NOTIC: [8] Undefined index: usercode C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 91 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\article_wap\ThinkPHP\Library\Think\Db\Driver.class.php 第 546 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\article_wap\ThinkPHP\Library\Think\Db\Driver.class.php 第 546 行.
+NOTIC: [8] Undefined index: is_ajax C:\article_wap\Application\Mobile\Controller\IndexController.class.php 第 234 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-01-19T12:45:01+08:00 ] 221.15.215.20 /User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: channel C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 175 行.
+NOTIC: [8] Undefined index: usercode C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 91 行.
+NOTIC: [8] Undefined index: uid C:\article_wap\Application\Mobile\Controller\UserController.class.php 第 121 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: tpshop_config C:\article_wap\Application\Runtime\Cache\Mobile\c03ffd2cf875d578e3e4a868c7520c0c.php 第 9 行.
+NOTIC: [8] Undefined variable: tpshop_config C:\article_wap\Application\Runtime\Cache\Mobile\c03ffd2cf875d578e3e4a868c7520c0c.php 第 10 行.
+NOTIC: [8] Undefined variable: referurl C:\article_wap\Application\Runtime\Cache\Mobile\c03ffd2cf875d578e3e4a868c7520c0c.php 第 51 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-01-19T12:45:34+08:00 ] 112.65.193.14 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: usercode C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 91 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\article_wap\ThinkPHP\Library\Think\Db\Driver.class.php 第 546 行.
+NOTIC: [8] Undefined variable: bannerBookList C:\article_wap\Application\Mobile\Controller\IndexController.class.php 第 46 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-01-19T12:45:52+08:00 ] 223.167.152.126 /Index/getSortList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: channel C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 175 行.
+NOTIC: [8] Undefined index: usercode C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 91 行.
+NOTIC: [8] Undefined offset: 0 C:\article_wap\Application\Mobile\Controller\IndexController.class.php 第 103 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\article_wap\Application\Common\Common\function.php 第 721 行.
+NOTIC: [8] Undefined variable: resultBookList C:\article_wap\Application\Common\Common\function.php 第 741 行.
+NOTIC: [8] Undefined offset: 0 C:\article_wap\Application\Mobile\Controller\IndexController.class.php 第 103 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\article_wap\Application\Common\Common\function.php 第 721 行.
+NOTIC: [8] Undefined variable: resultBookList C:\article_wap\Application\Common\Common\function.php 第 741 行.
+NOTIC: [8] Undefined offset: 0 C:\article_wap\Application\Mobile\Controller\IndexController.class.php 第 103 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\article_wap\Application\Common\Common\function.php 第 721 行.
+NOTIC: [8] Undefined variable: resultBookList C:\article_wap\Application\Common\Common\function.php 第 741 行.
+NOTIC: [8] Undefined offset: 0 C:\article_wap\Application\Mobile\Controller\IndexController.class.php 第 103 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\article_wap\Application\Common\Common\function.php 第 721 行.
+NOTIC: [8] Undefined variable: resultBookList C:\article_wap\Application\Common\Common\function.php 第 741 行.
+NOTIC: [8] Undefined offset: 0 C:\article_wap\Application\Mobile\Controller\IndexController.class.php 第 103 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\article_wap\Application\Common\Common\function.php 第 721 行.
+NOTIC: [8] Undefined variable: resultBookList C:\article_wap\Application\Common\Common\function.php 第 741 行.
+NOTIC: [8] Undefined offset: 0 C:\article_wap\Application\Mobile\Controller\IndexController.class.php 第 103 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\article_wap\Application\Common\Common\function.php 第 721 行.
+NOTIC: [8] Undefined variable: resultBookList C:\article_wap\Application\Common\Common\function.php 第 741 行.
+NOTIC: [8] Undefined offset: 0 C:\article_wap\Application\Mobile\Controller\IndexController.class.php 第 103 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\article_wap\Application\Common\Common\function.php 第 721 行.
+NOTIC: [8] Undefined variable: resultBookList C:\article_wap\Application\Common\Common\function.php 第 741 行.
+NOTIC: [8] Undefined offset: 0 C:\article_wap\Application\Mobile\Controller\IndexController.class.php 第 103 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\article_wap\Application\Common\Common\function.php 第 721 行.
+NOTIC: [8] Undefined variable: resultBookList C:\article_wap\Application\Common\Common\function.php 第 741 行.
+NOTIC: [8] Undefined offset: 0 C:\article_wap\Application\Mobile\Controller\IndexController.class.php 第 103 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\article_wap\Application\Common\Common\function.php 第 721 行.
+NOTIC: [8] Undefined variable: resultBookList C:\article_wap\Application\Common\Common\function.php 第 741 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015625s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2018-01-19T12:45:58+08:00 ] 58.247.212.139 /Index/getTopicList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: channel C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 175 行.
+NOTIC: [8] Undefined index: usercode C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 91 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\article_wap\ThinkPHP\Library\Think\Db\Driver.class.php 第 546 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\article_wap\ThinkPHP\Library\Think\Db\Driver.class.php 第 546 行.
+NOTIC: [8] Undefined index: is_ajax C:\article_wap\Application\Mobile\Controller\IndexController.class.php 第 234 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-01-19T12:46:01+08:00 ] 223.167.152.126 /User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: channel C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 175 行.
+NOTIC: [8] Undefined index: usercode C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 91 行.
+NOTIC: [8] Undefined index: uid C:\article_wap\Application\Mobile\Controller\UserController.class.php 第 121 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: tpshop_config C:\article_wap\Application\Runtime\Cache\Mobile\c03ffd2cf875d578e3e4a868c7520c0c.php 第 9 行.
+NOTIC: [8] Undefined variable: tpshop_config C:\article_wap\Application\Runtime\Cache\Mobile\c03ffd2cf875d578e3e4a868c7520c0c.php 第 10 行.
+NOTIC: [8] Undefined variable: referurl C:\article_wap\Application\Runtime\Cache\Mobile\c03ffd2cf875d578e3e4a868c7520c0c.php 第 51 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-01-19T12:49:24+08:00 ] 112.65.193.14 /Index/getTopicList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: channel C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 175 行.
+NOTIC: [8] Undefined index: usercode C:\article_wap\Application\Mobile\Controller\MobileBaseController.class.php 第 91 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\article_wap\ThinkPHP\Library\Think\Db\Driver.class.php 第 546 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\article_wap\ThinkPHP\Library\Think\Db\Driver.class.php 第 546 行.
+NOTIC: [8] Undefined index: is_ajax C:\article_wap\Application\Mobile\Controller\IndexController.class.php 第 234 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+

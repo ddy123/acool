@@ -1,0 +1,89 @@
+<?php
+$jieqiTag['article'] = array (
+  6 => 
+  array (
+    'caption' => 'ÒìÊÀ´óÂ½',
+  ),
+  7 => 
+  array (
+    'caption' => 'Ðþ»Ã´ò¶·',
+  ),
+  8 => 
+  array (
+    'caption' => 'ÎÞÏÞÁ÷',
+  ),
+  9 => 
+  array (
+    'caption' => 'Ñ§Ôº',
+  ),
+  10 => 
+  array (
+    'caption' => 'Å°Áµ',
+  ),
+  11 => 
+  array (
+    'caption' => 'ÊÕ¼¯',
+  ),
+  12 => 
+  array (
+    'caption' => 'ÁéÒì',
+  ),
+  13 => 
+  array (
+    'caption' => '¿Ö²À',
+  ),
+  14 => 
+  array (
+    'caption' => 'µÀÊõ',
+  ),
+  15 => 
+  array (
+    'caption' => 'ËãØÔ',
+  ),
+  16 => 
+  array (
+    'caption' => 'Ð£Ô°',
+  ),
+  17 => 
+  array (
+    'caption' => '½­ºþ',
+  ),
+  18 => 
+  array (
+    'caption' => 'ÈÈÑª',
+  ),
+  19 => 
+  array (
+    'caption' => 'Õù¶·',
+  ),
+  21 => 
+  array (
+    'caption' => 'Ä±ÂÔ',
+  ),
+  20 => 
+  array (
+    'caption' => '¹ÅÑÔ',
+  ),
+  26 => 
+  array (
+    'caption' => '´©Ô½',
+  ),
+  27 => 
+  array (
+    'caption' => 'ÌðÃÛ³èÎÄ',
+  ),
+  28 => 
+  array (
+    'caption' => 'Ú¶Ð³ÎÂÜ°',
+  ),
+  31 => 
+  array (
+    'caption' => '¶¼ÊÐ',
+  ),
+  32 => 
+  array (
+    'caption' => '¶·Ä§',
+  ),
+);
+
+?>

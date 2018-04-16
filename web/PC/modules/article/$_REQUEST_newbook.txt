@@ -1,0 +1,22 @@
+Array
+(
+    [rgroupid] => 1
+    [sortid] => 1
+    [typeid] => 2
+    [articlename] => 2
+    [backupname] => 2
+    [keywords] => 2
+    [agent] => admin
+    [allowtrans] => 1
+    [author] => 2
+    [authorflag] => 0
+    [permission] => 0
+    [firstflag] => 1
+    [intro] => 2
+    [notice] => 3
+    [cover] => 131
+    [ebook] => 131
+    [token] => YTo0OntzOjY6InVzZXJpZCI7aToxO3M6MjoiaXAiO3M6MTM6IjExNS42MC4xODcuNDYiO3M6NDoidGltZSI7ZDoxNTE0NDQzMzE4LjQ0MjE2Mzk7czo0OiJzaWduIjtzOjMyOiI1NjM3NTJhZTU4ZTM4ZWM1YjRmMWM0MmM1MmFiMDQ1YSI7fQ
+    [action] => check
+    [submit] => Ìב ½»
+)

@@ -1,0 +1,14 @@
+{?if $articlerows|count > 0?}
+<div class="blocks other-books">
+	<h4>该作者的其它作品</h4>
+	<ul data-collect-id="204">
+	{?section name=i loop=$articlerows?}
+		<li title="{?$articlerows[i].articlename?}"><a data-collect-index="2" href="{?$articlerows[i].url_articleinfo?}" target="_blank"><img width="50" height="70" src="{?$articlerows[i].url_image?}" alt="{?$articlerows[i].articlename?}"></a>
+		<p class="name">
+			<a data-collect-index="2" href="{?$articlerows[i].url_articleinfo?}" target="_blank">{?$articlerows[i].articlename?}</a>
+		</p>
+		</li>
+		{?/section?} 
+	</ul>
+</div>
+ {?/if?}

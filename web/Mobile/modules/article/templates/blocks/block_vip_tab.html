@@ -1,0 +1,10 @@
+<ul class="ultab">
+  <li><a href="{?$article_dynamic_url?}/newdraft.php"{?if $jieqi_thisfile|basename == 'newdraft.php'?} class="selected"{?/if?}>新建草稿</a></li>
+  <li><a href="{?$article_dynamic_url?}/draft.php"{?if $jieqi_thisfile|basename == 'draft.php'?} class="selected"{?/if?}>管理草稿</a></li>
+  {?if $jieqi_thisfile|basename == 'draft.php'?}
+  <li><a href="{?$jieqi_modules['article']['url']?}/draft.php"{?if $_request['type'] == 0?} class="selected"{?/if?}>全部草稿</a></li>
+  <li><a href="{?$jieqi_modules['article']['url']?}/draft.php?type=1"{?if $_request['type'] == 1?} class="selected"{?/if?}>私人草稿</a></li>
+  <li><a href="{?$jieqi_modules['article']['url']?}/draft.php?type=2"{?if $_request['type'] == 2?} class="selected"{?/if?}>定时章节</a></li>
+  <li><a href="{?$jieqi_modules['article']['url']?}/draft.php?type=3"{?if $_request['type'] == 3?} class="selected"{?/if?}>待审章节</a></li>
+  {?/if?}
+</ul>

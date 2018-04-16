@@ -1,0 +1,729 @@
+{?set jieqi_blocks_module = "article"?}
+{?set $jieqi_pagetitle = "{$articlename}-{$chaptername}-{$sortname}-{$jieqi_sitename}"?}
+{?set $meta_keywords = "{$article_title}最新章节"?}
+
+<script type="text/javascript">
+<!--
+var url_previous = "{?$page_previous?}";
+var url_next = "{?$page_next?}";
+var url_index = "{?$page_index?}";
+var articleid = "{?$articleid?}";
+var chapterid = "{?$chapterid?}";
+function jumpPage() {
+  var event = document.all ? window.event : arguments[0];
+  if (event.keyCode == 37) document.location = url_previous;
+  if (event.keyCode == 39) document.location = url_next;
+  if (event.keyCode == 13) document.location = url_index;
+}
+document.onkeydown=jumpPage;
+-->
+</script>
+<style type="text/css">
+
+
+.c-center .mod {
+	margin-bottom: 50px
+}
+
+.mod-page {
+	background: #f3f3f3;
+	_box-shadow: 0 1px 3px 2px #5A5A5A
+}
+
+.mod-page .bd {
+	margin: 0 6px;
+	padding: 70px 96px 30px;
+	border-bottom: 1px solid #e4e4e4
+}
+
+.mod-page .info,.mod-page h1 {
+	text-align: center;
+	padding: 0 30px
+}
+
+.mod-page h1 {
+	font-size: 36px;
+	font-weight: 700;
+	color: #261d0d;
+	margin-bottom: 10px;
+	font-family: '黑体'
+}
+
+.mod-page h1 .icon-hb {
+	display: inline-block;
+	width: 25px;
+	height: 40px;
+	overflow: hidden;
+	background-position: -74px -278px;
+	vertical-align: -6px;
+	margin-right: 5px
+}
+
+.mod-page h1 .icon-hb-disabled {
+	background-position: -74px -324px
+}
+
+.mod-page .info {
+	font-size: 12px
+}
+
+.mod-page .info,.mod-page .info a {
+	color: #666
+}
+
+.mod-page .info .divide {
+	margin: 0 5px;
+	color: #afafaf
+}
+
+.mod-page .previou {
+	float: right;
+	display: inline;
+	width: 21px;
+	height: 23px;
+	overflow: hidden;
+	margin: 16px -45px 0 20px;
+	background-position: -49px -300px
+}
+
+.mod-page .author-say {
+	zoom: 1;
+	padding: 10px 20px;
+	background: #FFFAE5;
+	border: 1px solid #CACAA6;
+	color: #333;
+	font-size: 14px;
+	line-height: 2em;
+	width: 76%;
+	margin: 0 0 50px 10%
+}
+
+.mod-page .author-say .name,.mod-page .author-say a {
+	color: #06c
+}
+
+.mod-page .author-say .name:hover,.mod-page .author-say a:hover {
+	text-decoration: underline
+}
+
+.mod-page .page-content {
+	padding: 60px 15px 72px;
+	position: relative
+}
+
+.mod-page .page-content p {
+	line-height: 28px;
+	padding-bottom: 24px;
+	font-size: 16px;
+	text-indent: 2em;
+	color: #333;
+	word-break: break-all;
+	word-wrap: break-word
+}
+
+.mod-page .unload {
+	visibility: hidden;
+	zoom: 1
+}
+
+.mod-page .ft {
+	background: #f9fefe
+}
+
+.mod-page .ft .ft-bd {
+	margin: 0 6px
+}
+
+.mod-page .ft .app {
+	float: left;
+	font-size: 14px;
+	margin: 3px 0 0 10px
+}
+
+.mod-page .ft .app a {
+	color: #19948C
+}
+
+.mod-page .ft .app img {
+	vertical-align: -5px;
+	margin: 0 5px
+}
+
+.mod-page .ft .control {
+	height: 40px;
+	padding-top: 10px;
+	padding-right: 24px;
+	text-align: right
+}
+
+.mod-page .ft .control i {
+	float: left;
+	display: inline;
+	margin: 2px 3px 0 0
+}
+
+.mod-page .ft .control a {
+	color: #666;
+	display: inline-block;
+	height: 26px;
+	line-height: 26px
+}
+
+.mod-page .ft .control span a {
+	margin-left: 10px
+}
+
+.mod-page .ft .control .hongbao b {
+	color: #f60
+}
+
+.mod-page .ft .control .divide {
+	color: #b6b6b6
+}
+
+.mod-page .ft .control .report {
+	float: left
+}
+
+.mod-page .ft .control .report i {
+	width: 22px;
+	height: 22px;
+	background-position: -27px -300px
+}
+
+.mod-page .ft .control .comment i {
+	width: 23px;
+	height: 21px;
+	background-position: -1px -300px
+}
+
+.mod-page .ft .control .good {
+	color: #f60
+}
+
+.mod-page .ft .control .good i {
+	width: 17px;
+	height: 18px;
+	background-position: -3px -273px
+}
+
+.mod-page .ft .control .bad {
+	color: #666
+}
+
+.mod-page .ft .control .bad i {
+	width: 17px;
+	height: 18px;
+	background-position: -29px -273px
+}
+
+.mod-page .hd {
+	height: 8px;
+	overflow: hidden;
+	background-position: 0 0
+}
+
+.mod-page .comments {
+	zoom: 1;
+	position: relative;
+	background: #E2E2E2
+}
+
+.mod-page .comments .right {
+	padding-right: 0
+}
+
+.mod-page .comments .close {
+	position: absolute;
+	right: 20px;
+	bottom: 0;
+	display: block;
+	width: 41px;
+	height: 31px;
+	overflow: hidden;
+	cursor: pointer;
+	background-position: -30px -284px
+}
+
+.mod-page .comments h4 {
+	padding: 10px 0 20px 0;
+	font-size: 22px
+}
+
+.mod-page .comments .form {
+	padding: 0 30px 0;
+	margin-bottom: 30px
+}
+
+.mod-page .comments .form .left {
+	text-align: left;
+	width: 35px
+}
+
+.mod-page .comments .mini-form {
+	padding: 0
+}
+
+.mod-page .comments .mini-form form {
+	padding-top: 10px
+}
+
+.mod-page .comments ul {
+	padding: 0 4px
+}
+
+.mod-page .comments li {
+	padding: 20px 26px;
+	margin-bottom: 0;
+	border-top: 1px solid #eee;
+	border-bottom: none
+}
+
+.mod-page .comments-level-2 {
+	background-image: none;
+	border-bottom: none
+}
+
+.vip-preview {
+	display: none
+}
+
+.dialog-pay-chapter .num {
+	color: #f60
+}
+
+.dialog-pay-chapter .hd {
+	color: #666
+}
+
+.dialog-pay-chapter .hd .pocket {
+	float: right;
+	font-size: 12px
+}
+
+.dialog-pay-chapter .hd .divide {
+	color: #ccc;
+	margin: 0 8px
+}
+
+.dialog-pay-chapter .bd {
+	padding: 0 0 10px!important;
+	font-size: 12px
+}
+
+.dialog-pay-chapter .info {
+	line-height: 58px;
+	text-align: center;
+	background: #e7f2e7
+}
+
+.dialog-pay-chapter .info .name {
+	font-size: 16px
+}
+
+.dialog-pay-chapter .no-money-to-pay {
+	line-height: 1.8em;
+	font-size: 14px;
+	padding: 20px
+}
+
+.dialog-pay-chapter .no-money-to-pay p {
+	color: #666;
+	padding: 10px 15px;
+	font-size: 12px
+}
+
+.dialog-pay-chapter .no-money-to-pay div {
+	background: #FFEDE0;
+	border: 1px solid #f60;
+	padding: 10px 15px;
+	line-height: 2em
+}
+
+.dialog-pay-chapter .no-money-to-pay .go-pay {
+	color: #f60;
+	font-weight: 700
+}
+
+.dialog-pay-chapter ul {
+	padding: 10px 0
+}
+
+.dialog-pay-chapter ul li {
+	float: left;
+	width: 28%;
+	padding: 10px;
+	text-align: center;
+	border-right: 1px solid #e9e9e9
+}
+
+.dialog-pay-chapter ul li.last {
+	border: none
+}
+
+.dialog-pay-chapter ul li div {
+	height: 64px
+}
+
+.dialog-pay-chapter ul li p {
+	text-align: center;
+	line-height: 2em;
+	color: #333
+}
+
+.dialog-pay-chapter ul li p.desc {
+	padding-bottom: 10px;
+	color: #666
+}
+
+.dialog-pay-chapter ul li .single {
+	width: 100%;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	overflow: hidden
+}
+
+.dialog-hongbao {
+	height: 469px
+}
+
+.dialog-hongbao .bg {
+	position: absolute;
+	z-index: -1;
+	width: 100%;
+	height: 100%;
+	background-image: url(../image/chapter-hongbao-dialog-bg.png)
+}
+
+html.ie6 .dialog-hongbao .bg {
+	background: 0 0;
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod='crop', src='image/chapter-hongbao-dialog-bg.png')
+}
+
+.dialog-hongbao .close {
+	position: absolute;
+	right: 40px;
+	top: 220px;
+	display: block;
+	width: 34px;
+	height: 34px;
+	cursor: pointer;
+	background: url(../image/field.gif) no-repeat;
+	background-image: url(../image/field.gif)
+}
+
+.dialog-hongbao .count {
+	padding-top: 280px;
+	font-family: Arial;
+	font-size: 90px;
+	color: #fff885;
+	font-weight: 700;
+	text-align: center
+}
+
+.dialog-hongbao .count span {
+	font-family: "黑体";
+	font-size: 18px
+}
+
+.dialog-hongbao .word {
+	padding-top: 18px;
+	margin: 0 80px
+}
+
+.dialog-hongbao .word img {
+	border: 1px solid #850000;
+	box-shadow: 0 0 3px 0 #070707
+}
+
+.dialog-hongbao .word .left {
+	padding-right: 15px
+}
+
+.dialog-hongbao .word .right {
+	height: 3em;
+	line-height: 1.5em;
+	overflow: hidden;
+	color: #fff885
+}
+
+.winner-list {
+	width: 300px;
+	padding: 0;
+	box-shadow: 0 0 4px 0 #969595;
+	border: none;
+	background: #f5f5f5
+}
+
+.winner-list ul {
+	padding: 10px
+}
+
+.winner-list i {
+	position: absolute;
+	bottom: -10px;
+	_bottom: -16px;
+	left: 50%;
+	display: block;
+	width: 16px;
+	height: 10px;
+	margin-left: -10px;
+	background-position: -95px -303px
+}
+
+.winner-list li {
+	font-size: 12px;
+	padding: 5px 0;
+	border-bottom: 1px dotted #EBE4CE
+}
+
+.winner-list li .left {
+	padding-right: 10px
+}
+
+.winner-list li .right {
+	line-height: 30px;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	overflow: hidden
+}
+
+.winner-list li span {
+	color: #f60
+}
+
+.winner-list .ft {
+	height: 38px;
+	background: #e7e7e7
+}
+
+.winner-list .pages {
+	padding: 10px 0 0
+}
+
+.load-status {
+	height: 49px;
+	color: #ddd;
+	overflow: hidden
+}
+
+.load-status .status {
+	text-align: center;
+	font-weight: 700
+}
+
+.loadFirstPage {
+	margin-top: 550px
+}
+
+.when-loading {
+	background: #e5cd98;
+	border-radius: 10px;
+	margin: 0 20px;
+	height: 80px;
+	line-height: 80px;
+	color: #fff;
+	text-shadow: none;
+	border: 3px solid #c8955e;
+	font-size: 60px;
+	cursor: pointer
+}
+
+.get-next {
+	height: 60px;
+	cursor: pointer;
+	line-height: 60px;
+	font-size: 16px;
+	font-weight: 700;
+	text-align: center
+}
+
+.get-next,.get-next a {
+	color: #B6B6B6
+}
+
+.loading {
+	text-indent: -9999px;
+	background: url(../image/bg-chapter-loading-fullscreen.gif) no-repeat center center
+}
+
+.read-setting {
+	_position: absolute;
+	left: 0;
+	top: 0;
+	z-index: 1;
+	display: none;
+	_width: 954px;
+	padding: 0 20px;
+	_height: 35px;
+	line-height: 35px;
+	background: #fbefd7;
+	color: #666;
+	text-align: right
+}
+
+.read-setting span {
+	float: left;
+	margin-right: 25px;
+	color: #a88f59
+}
+
+.read-setting a {
+	_margin: 5px 0 0 5px
+}
+
+.show-config {
+	display: block
+}
+
+.hide-config {
+	display: none
+}
+
+.bottom-tools {
+	z-index: 20;
+	width: 48px
+}
+
+.bottom-tools ul {
+	overflow: hidden;
+	margin-bottom: 10px;
+	border-radius: 10px 0 0 10px
+}
+
+.bottom-tools ul li {
+	vertical-align: top
+}
+
+.bottom-tools ul li a {
+	display: block;
+	text-align: center;
+	width: 48px;
+	height: 53px;
+	background: #fff;
+	box-shadow: inset -2px 0 2px 0 #c5c5c5
+}
+
+.bottom-tools ul li a:hover {
+	background: #e6e6e6
+}
+
+.bottom-tools ul .icon {
+	display: inline-block;
+	width: auto;
+	height: auto;
+	overflow: hidden
+}
+
+.bottom-tools ul .to-index .icon {
+	width: 27px;
+	height: 22px;
+	margin-top: 16px;
+	background-position: -33px -413px
+}
+
+.bottom-tools ul .to-shelf .icon {
+	width: 22px;
+	height: 23px;
+	margin-top: 14px;
+	background-position: -3px -413px
+}
+
+.isBookFinished,.isLastChapter {
+	background: #FFFBE1;
+	color: #666;
+	height: auto!important;
+	border-radius: 3px
+}
+
+.isBookFinished .chapter-recommend,.isLastChapter .chapter-recommend {
+	display: block
+}
+
+.isBookFinished .status,.isLastChapter .status {
+	line-height: 40px;
+	height: 40px
+}
+
+.chapter-recommend {
+	padding: 30px
+}
+
+.chapter-recommend li {
+	float: left;
+	width: 309px;
+	height: 130px;
+	font-size: 12px
+}
+
+.chapter-recommend .left {
+	padding-right: 15px
+}
+
+.chapter-recommend .right {
+	padding-right: 15px
+}
+
+.chapter-recommend h5 {
+	padding: 5px 0 3px;
+	font-size: 14px
+}
+
+.chapter-recommend h5 a {
+	color: #000
+}
+
+.chapter-recommend .summary {
+	line-height: 1.6em;
+	height: 3.2em;
+	overflow: hidden;
+	margin: 5px 0;
+	word-break: break-all;
+	word-wrap: break-word
+}
+
+.chapter-recommend .info {
+	line-height: 1.6em
+}
+
+.chapter-recommend .info .author {
+	color: #09c
+}
+
+</style>
+
+				<div class="c-center">
+					<div id="main">
+					<div class="read-setting show-config">
+							<script type="text/javascript" src="{?$static_url?}/scripts/pagetop.js"></script>
+						</div>
+
+						<div class="mod mod-page " id="chapter924915" data-chapter-id="924915" data-is-free="true" data-title="{?$articlename?}-{?$chaptername?}-{?$sortname?}-{?$jieqi_sitename?}"> 
+						<div class="hd">
+						
+						</div>
+						     <div class="bd" id="chapter_bd_924915">
+							      <a href="{?$page_previous?}" class="previou" data-chapter-id="924835" title="上一章"></a>
+								       <h1 id="chapter_title_924915">{?$chaptername?}</h1>
+									   <p class="info" id="chapter_author_924915">作者：<a class="blue" href="{?function jieqi_geturl:'system':'user':$authorid?}">{?$author?}</a>
+									      <span class="divide">|
+										  </span>发布时间：{?$chaptertime|date:'Y-m-d H:i'?}
+										  <span class="divide">|</span>字数：{?$chaptersize_c?}</p>
+										  </p>
+							<div class="page-body">
+							      <div class="page-content " id="ChapterContent924915">
+								      {?$content?}
+							   </div>
+							   {?if $notice != ''?}
+							   <div class="author-say"><p><a href="{?function jieqi_geturl:'system':'user':$authorid?}" class="name" target="_blank">{?$author?}</a> 说：</p><div class="content"><p>{?$notice?}</div></div>{?/if?}
+							   </div>
+							   </div><div class="ft"><div class="ft-bd"><div class="control"><div class="app"><a class="androidUrl" href="">点击下载客户端<img src="/sink/image/android.png">，独享VIP作品限时免费阅读</a></div>
+							   <span id="chapter_numbers_924835">
+							   <a href="{?function jieqi_geturl:'article':'article':$articleid:'info'?}#write" class="comment"><i></i>回应</a>
+							   <a href="{?$page_index?}"><i></i>回目录</a>
+							   <a href="{?$page_previous?}"><i></i>上一章</a>
+							   <a href="{?$page_next?}"><i></i>下一章</a></span>
+							   
+							   
+							   </div></div></div></div>
+					</div></div>

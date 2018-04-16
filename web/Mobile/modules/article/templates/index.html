@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="{?$jieqi_charset?}"?>
+<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head> 
+    <title>{?$article_title?}-{?$sortname?}-{?$jieqi_sitename?}</title>
+    <meta content="zh-cn" http-equiv="Content-Language">
+    <meta name="keywords" content="{?$meta_keywords?}">
+	<meta name="description" content="{?$intro|truncate:500:'..'?}">
+    <meta http-equiv="Cache-Control" content="no-cache" />
+    <meta http-equiv="Content-Type" content="application/xhtml+xml; charset={?$jieqi_charset?}" />
+    <meta http-equiv="Cache-Control" content="no-cache" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="-1" />
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0, maximum-scale=1.0, user-scalable=1" />
+    <meta name="format-detection" content="telephone=no" />
+	<link rel="shortcut  icon" href="{?$jieqi_url?}/favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" type="text/css" href="/_res/css/heiyan/mobile/base.css?bust=20151021003" media="all" />
+    <link rel="stylesheet" href="/_res/components/swiper/dist/css/swiper.min.css?1" media="all" />
+	<script src="http://cdn.bootcss.com/jquery/2.1.4/jquery.min.js"></script>
+    <script type="text/javascript" src="/_res/layer/jquery.js"></script>
+	<script type="text/javascript" src="/_res/layer/layer.m.js"></script>
+    <script type="text/javascript" src="/_res/layer/bootstrap.min.js"></script>
+    <script type="text/javascript" src="/_res/layer/pagewap.js"></script>
+    <style>
+	.chapter-list h5 {
+				padding: 10px 0;
+				font-size: 1em;
+			}
+    </style>
+    
+    <script type="text/javascript">
+        var _Profile = {
+            id: "0",
+            type: "basic",
+            icon: "",
+		    name: '',
+		    site: "{?$jieqi_url|str_replace:'http://':''?}"
+	    }
+        var _inlineCodes = [];
+        var _inlineRun = function (fn) {
+            _inlineCodes.push(fn);
+        };
+        var isLogin = false;
+		   {?if $jieqi_userid > 0?}isLogin = true;{?/if?}
+
+		
+		function checkLogin(){
+			if(!isLogin){
+				//alert("请先登录");
+				location.href="{?$jieqi_url?}/login.php";
+			}
+			return isLogin;
+		}
+		
+    </script>
+    </head>
+{?include file="tpl/header.html"?} 
+      <div class="container">
+
+			<h1 class="page-title">{?$articlename?}</h1>
+			<div class="mod block tab chapter-list">
+                <div class="hd tab-switch">
+                </div>
+
+								<div class="bd">
+					<h5>全部章节</h5>
+								<ul class="list">
+
+{?section name=i loop=$chapterrows?}
+	{?if $chapterrows[i].chaptertype > 0?}
+	{?else?}
+		{?if $chapterrows[i].isvip > 0?}
+		<li class="" id="chapter915844" createdate="{?$chapterrows[i].lastupdate|date:'Y-m-d H:i'?}更新，共{?$chapterrows[i].size_c?}字，价格：{?$chapterrows[i].saleprice?}">
+		<img src="/_res/css/heiyan/img/vip.png" alt="vip">
+			<a href="{?$chapterrows[i].url_chapter?}" class="isvip name">{?$chapterrows[i].chaptername?}</a>
+		</li>
+		{?else?}
+		<li class="" id="chapter915844" createdate="{?$chapterrows[i].lastupdate|date:'Y-m-d H:i'?}">
+			<a href="{?$chapterrows[i].url_chapter?}" class="name">{?$chapterrows[i].chaptername?}</a>
+		</li>
+		{?/if?}
+	{?/if?}
+{?/section?}
+											</ul>
+									</div>
+												
+							</div>
+{?$url_jumppage?}
+<div class="mod mod-back">
+				<div class="bd">
+					<a href="/" class="home"></a>
+					<span class="divide"></span>
+					<a href="{?$url_articleinfo?}">{?$articlename?}</a>
+				</div>
+			</div>
+
+      </div>
+
+{?include file="tpl/footer.html"?} 
+
+<script>
+$.get("/extends/api/allvisit/allvisit.php", { articleid:{?$article_id?}, number:1 } );
+</script>
+</body>
+</html>

@@ -1,0 +1,23 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js ie6 oldie" lang="zh" xmlns:wb="http://open.weibo.com/wb"><![endif]-->
+<!--[if IE 7]><html class="no-js ie7 oldie" lang="zh" xmlns:wb="http://open.weibo.com/wb"><![endif]-->
+<!--[if IE 8]><html class="no-js ie8 oldie" lang="zh" xmlns:wb="http://open.weibo.com/wb"><![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js" lang="zh" xmlns:wb="http://open.weibo.com/wb"><!--<![endif]-->
+<head>
+<title>{?if $jieqi_thisfile|basename == 'login.php'?}µÇÂ¼{?elseif $jieqi_thisfile|basename == 'register.php'?}×¢²á{?else?}Íü¼ÇÃÜÂë{?/if?}_{?$jieqi_sitename?}</title>
+<meta http-equiv="Content-Type" content="text/html; charset={?$jieqi_charset?}">
+<meta http-equiv="Cache-Control" content="no-transform">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1"/>
+<![endif]-->
+<link rel="stylesheet" href="/sink/css/base.css?bust=201604081520" media="all">{?if $jieqi_thisfile|basename == 'login.php'?}
+<style>
+.stop-register {
+	line-height: 1.5em;
+	margin-bottom: 15px!important;
+}
+</style>
+<body class="mini-page sign-form signin-form">{?else?}<body class="mini-page sign-form">{?/if?}
+{?if $jieqi_contents != ""?}{?$jieqi_contents?}{?/if?}
+</body>
+</html>

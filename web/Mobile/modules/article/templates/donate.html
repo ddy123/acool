@@ -1,0 +1,108 @@
+{?set jieqi_blocks_module = "article"?}
+{?set jieqi_blocks_config = "infoblocks"?}
+{?set $jieqi_pagetitle = "{$articlename}小说互动记录"?}
+<h1 class="page-title">{?$articlename?}的捧场记录</h1>
+			<div class="mod block tab-switch comments donate-list">
+				<div class="hd green">
+					<span class="item active">捧场记录</span>
+					</div>
+				<div class="bd">
+					<ul>
+								{?section name=i loop=$actlogrows?}
+								{?if $actlogrows[i].actname == 'redrose'||$actlogrows[i].actname == 'yellowrose'||$actlogrows[i].actname == 'greenrose'||$actlogrows[i].actname == 'bluerose'||$actlogrows[i].actname == 'whiterose'||$actlogrows[i].actname == 'blackrose'?}
+		    	                	<li class="column-2" data-role="item" data-feed-storage="true" data-feed-id="458063" data-feed-type="22">
+		    	                			<div class="left">
+		    	                				<p>
+		    	                					<a href="{?function jieqi_geturl:'system':'user':$actlogrows[i].uid?}" title="{?$actlogrows[i].uname?}">
+														<img alt="{?$actlogrows[i].uname?}" width="50" height="50" src="{?function jieqi_geturl:'system':'avatar':$actlogrows[i].uid:'l':$actlogrows[i].avatar?}">
+													</a>
+		    	                				</p>
+		    	                			</div>
+											{?if $actlogrows[i].actname == 'redrose'?}
+		    	                			<div class="right">
+		    	                				<h3>
+													<a href="{?function jieqi_geturl:'system':'user':$actlogrows[i].uid?}" class="name">{?$actlogrows[i].uname?}</a>
+													<span>为作品捧场了<em class="count">{?$actlogrows[i].actnum?}个</em></span>
+													<img src="{?$jieqi_url?}/images/liwu/nan-giv01.png" alt="红包" title="红包">
+												</h3>
+												<p class="summary">赏红包，望再接再厉，争取更大胜利！</p>
+												<div class="controls">
+													<span class="time">{?$actlogrows[i].addtime|date:'Y-m-d H:i:s'?}</span>
+												</div>
+		    	                			</div>
+											{?elseif $actlogrows[i].actname == 'yellowrose'?}
+											<div class="right">
+		    	                				<h3>
+													<a href="{?function jieqi_geturl:'system':'user':$actlogrows[i].uid?}" class="name">{?$actlogrows[i].uname?}</a>
+													<span>为作品捧场了<em class="count">{?$actlogrows[i].actnum?}杯</em></span>
+													<img src="{?$jieqi_url?}/images/liwu/nan-giv02.png" alt="美酒" title="美酒">
+												</h3>
+												<p class="summary">赏美酒，望再接再厉，争取更大胜利！</p>
+												<div class="controls">
+													<span class="time">{?$actlogrows[i].addtime|date:'Y-m-d H:i:s'?}</span>
+												</div>
+		    	                			</div>
+											{?elseif $actlogrows[i].actname == 'greenrose'?}
+											<div class="right">
+		    	                				<h3>
+													<a href="{?function jieqi_geturl:'system':'user':$actlogrows[i].uid?}" class="name">{?$actlogrows[i].uname?}</a>
+													<span>为作品捧场了<em class="count">{?$actlogrows[i].actnum?}顶</em></span>
+													<img src="{?$jieqi_url?}/images/liwu/nan-giv05.png" alt="桂冠" title="桂冠">
+												</h3>
+												<p class="summary">赏桂冠，望再接再厉，争取更大胜利！</p>
+												<div class="controls">
+													<span class="time">{?$actlogrows[i].addtime|date:'Y-m-d H:i:s'?}</span>
+												</div>
+		    	                			</div>
+											{?elseif $actlogrows[i].actname == 'bluerose'?}
+											<div class="right">
+		    	                				<h3>
+													<a href="{?function jieqi_geturl:'system':'user':$actlogrows[i].uid?}" class="name">{?$actlogrows[i].uname?}</a>
+													<span>为作品捧场了<em class="count">{?$actlogrows[i].actnum?}个</em></span>
+													<img src="{?$jieqi_url?}/images/liwu/nv-giv01.png" alt="香囊" title="香囊">
+												</h3>
+												<p class="summary">赏香囊，望再接再厉，争取更大胜利！</p>
+												<div class="controls">
+													<span class="time">{?$actlogrows[i].addtime|date:'Y-m-d H:i:s'?}</span>
+												</div>
+		    	                			</div>
+											{?elseif $actlogrows[i].actname == 'whiterose'?}
+											<div class="right">
+		    	                				<h3>
+													<a href="{?function jieqi_geturl:'system':'user':$actlogrows[i].uid?}" class="name">{?$actlogrows[i].uname?}</a>
+													<span>为作品捧场了<em class="count">{?$actlogrows[i].actnum?}枚</em></span>
+													<img src="{?$jieqi_url?}/images/liwu/nan-giv03.png" alt="钻石" title="钻石">
+												</h3>
+												<p class="summary">赏钻石，望再接再厉，争取更大胜利！</p>
+												<div class="controls">
+													<span class="time">{?$actlogrows[i].addtime|date:'Y-m-d H:i:s'?}</span>
+												</div>
+		    	                			</div>
+											{?elseif $actlogrows[i].actname == 'blackrose'?}
+											<div class="right">
+		    	                				<h3>
+													<a href="{?function jieqi_geturl:'system':'user':$actlogrows[i].uid?}" class="name">{?$actlogrows[i].uname?}</a>
+													<span>为作品捧场了<em class="count">{?$actlogrows[i].actnum?}辆</em></span>
+													<img src="{?$jieqi_url?}/images/liwu/nan-giv04.png" alt="超跑" title="超跑">
+												</h3>
+												<p class="summary">赏超跑，望再接再厉，争取更大胜利！</p>
+												<div class="controls">
+													<span class="time">{?$actlogrows[i].addtime|date:'Y-m-d H:i:s'?}</span>
+												</div>
+		    	                			</div>
+											{?/if?}
+		    	                		</li>
+										{?/if?}
+									{?/section?}
+                        </ul>
+                    </div>
+			</div>
+<div class="pages">{?$url_jumppage?}</div>
+<div class="mod mod-back">
+				<div class="bd">
+					<a href="/" class="home"></a>
+					<span class="divide"></span>
+					<a href="{?function jieqi_geturl:'article':'article':$actlogrows[i].articleid:'info'?}">{?$articlename?}</a>
+				</div>
+			</div>
+

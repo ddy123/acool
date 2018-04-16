@@ -1,0 +1,310 @@
+
+BlockArticleUbookcase Object
+(
+    [module] => article
+    [template] => block_ubookcase.html
+    [exevars] => Array
+        (
+            [field] => lastupdate
+            [listnum] => 5
+            [asc] => 0
+            [uid] => $uid
+            [flag] => 0
+        )
+
+    [blockvars] => Array
+        (
+            [bid] => 0
+            [blockname] => 我的书架
+            [module] => article
+            [filename] => block_ubookcase
+            [classname] => BlockArticleUbookcase
+            [side] => -1
+            [title] => 
+            [vars] => lastupdate,5,0,$uid,0
+            [template] => block_ubookcase.html
+            [contenttype] => 4
+            [custom] => 0
+            [publish] => 3
+            [hasvars] => 1
+            [showtype] => 0
+            [tlpfile] => C:/virtualhost/bacoolread/modules/article/templates/blocks/block_ubookcase.html
+            [cachetime] => 3600
+            [overtime] => 0
+            [cacheid] => 1
+            [compileid] => 
+        )
+
+    [cachetime] => 3600
+    [vars] => Array
+        (
+        )
+
+    [errors] => Array
+        (
+        )
+
+)
+
+BlockSystemUserbox Object
+(
+    [module] => system
+    [template] => block_tool.html
+    [blockvars] => Array
+        (
+            [bid] => 0
+            [blockname] => 我的工具箱
+            [module] => system
+            [filename] => block_userbox
+            [classname] => BlockSystemUserbox
+            [side] => -1
+            [title] => 
+            [vars] => 
+            [template] => block_tool.html
+            [contenttype] => 4
+            [custom] => 0
+            [publish] => 3
+            [hasvars] => 1
+            [showtype] => 0
+            [tlpfile] => C:/virtualhost/bacoolread/templates/blocks/block_tool.html
+            [cachetime] => 3600
+            [overtime] => 0
+            [cacheid] => 
+            [compileid] => 
+        )
+
+    [cachetime] => 3600
+    [vars] => Array
+        (
+        )
+
+    [errors] => Array
+        (
+        )
+
+)
+
+BlockSystemUserstatus Object
+(
+    [module] => system
+    [template] => block_userstatus.html
+    [cachetime] => -1
+    [blockvars] => Array
+        (
+            [template] => block_userstatus.html
+            [tlpfile] => C:/virtualhost/bacoolread/templates/blocks/block_userstatus.html
+            [cachetime] => -1
+            [overtime] => 0
+            [cacheid] => 1
+            [compileid] => 
+        )
+
+    [vars] => Array
+        (
+        )
+
+    [errors] => Array
+        (
+        )
+
+)
+
+BlockArticleUbookcase Object
+(
+    [module] => article
+    [template] => block_shujia.html
+    [exevars] => Array
+        (
+            [field] => lastupdate
+            [listnum] => 5
+            [asc] => 0
+            [uid] => $jieqi_userid
+            [flag] => 0
+        )
+
+    [blockvars] => Array
+        (
+            [bid] => 24
+            [module] => article
+            [filename] => block_ubookcase
+            [classname] => BlockArticleUbookcase
+            [side] => 1
+            [title] => �ҵ����
+            [vars] => lastupdate,5,0,$jieqi_userid,0
+            [template] => block_shujia.html
+            [contenttype] => 4
+            [custom] => 0
+            [publish] => 3
+            [hasvars] => 1
+            [tlpfile] => C:/virtualhost/bacoolread/modules/article/templates/blocks/block_shujia.html
+            [cachetime] => 3600
+            [overtime] => 0
+            [cacheid] => 1
+            [compileid] => 
+        )
+
+    [cachetime] => 3600
+    [vars] => Array
+        (
+        )
+
+    [errors] => Array
+        (
+        )
+
+)
+
+BlockArticleUbookcase Object
+(
+    [module] => article
+    [template] => block_ubookcase.html
+    [exevars] => Array
+        (
+            [field] => lastupdate
+            [listnum] => 5
+            [asc] => 0
+            [uid] => $uid
+            [flag] => 0
+        )
+
+    [blockvars] => Array
+        (
+            [bid] => 0
+            [blockname] => 我的书架
+            [module] => article
+            [filename] => block_ubookcase
+            [classname] => BlockArticleUbookcase
+            [side] => -1
+            [title] => 
+            [vars] => lastupdate,5,0,$uid,0
+            [template] => block_ubookcase.html
+            [contenttype] => 4
+            [custom] => 0
+            [publish] => 3
+            [hasvars] => 1
+            [showtype] => 0
+            [tlpfile] => C:/virtualhost/bacoolread/modules/article/templates/blocks/block_ubookcase.html
+            [cachetime] => 3600
+            [overtime] => 0
+            [cacheid] => 1
+            [compileid] => 
+        )
+
+    [cachetime] => 3600
+    [vars] => Array
+        (
+        )
+
+    [errors] => Array
+        (
+        )
+
+)
+
+BlockSystemUserbox Object
+(
+    [module] => system
+    [template] => block_tool.html
+    [blockvars] => Array
+        (
+            [bid] => 0
+            [blockname] => 我的工具箱
+            [module] => system
+            [filename] => block_userbox
+            [classname] => BlockSystemUserbox
+            [side] => -1
+            [title] => 
+            [vars] => 
+            [template] => block_tool.html
+            [contenttype] => 4
+            [custom] => 0
+            [publish] => 3
+            [hasvars] => 1
+            [showtype] => 0
+            [tlpfile] => C:/virtualhost/bacoolread/templates/blocks/block_tool.html
+            [cachetime] => 3600
+            [overtime] => 0
+            [cacheid] => 
+            [compileid] => 
+        )
+
+    [cachetime] => 3600
+    [vars] => Array
+        (
+        )
+
+    [errors] => Array
+        (
+        )
+
+)
+
+BlockSystemUserstatus Object
+(
+    [module] => system
+    [template] => block_userstatus.html
+    [cachetime] => -1
+    [blockvars] => Array
+        (
+            [template] => block_userstatus.html
+            [tlpfile] => C:/virtualhost/bacoolread/templates/blocks/block_userstatus.html
+            [cachetime] => -1
+            [overtime] => 0
+            [cacheid] => 1
+            [compileid] => 
+        )
+
+    [vars] => Array
+        (
+        )
+
+    [errors] => Array
+        (
+        )
+
+)
+
+BlockArticleUbookcase Object
+(
+    [module] => article
+    [template] => block_shujia.html
+    [exevars] => Array
+        (
+            [field] => lastupdate
+            [listnum] => 5
+            [asc] => 0
+            [uid] => $jieqi_userid
+            [flag] => 0
+        )
+
+    [blockvars] => Array
+        (
+            [bid] => 24
+            [module] => article
+            [filename] => block_ubookcase
+            [classname] => BlockArticleUbookcase
+            [side] => 1
+            [title] => �ҵ����
+            [vars] => lastupdate,5,0,$jieqi_userid,0
+            [template] => block_shujia.html
+            [contenttype] => 4
+            [custom] => 0
+            [publish] => 3
+            [hasvars] => 1
+            [tlpfile] => C:/virtualhost/bacoolread/modules/article/templates/blocks/block_shujia.html
+            [cachetime] => 3600
+            [overtime] => 0
+            [cacheid] => 1
+            [compileid] => 
+        )
+
+    [cachetime] => 3600
+    [vars] => Array
+        (
+        )
+
+    [errors] => Array
+        (
+        )
+
+)

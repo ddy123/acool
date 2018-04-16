@@ -1,0 +1,84 @@
+{?if $jieqi_thisfile|basename == 'message.php'||$jieqi_thisfile|basename == 'login.php'?}<body class="index">{?elseif $jieqi_thisfile|basename == 'personedit.php'?}<body>{?else?}<body class="people">{?/if?}
+<div class="header">
+	<a href="/" class="logo"><img src="/_res/css/heiyan/mobile/img/logo.png" width="135px" alt="{?$jieqi_sitename?}" /></a>
+	<div class="top">
+		<div class="nav">
+			<a href="/">首页</a>	
+            <a href="{?$jieqi_modules['article']['url']?}/top.php">排行</a>
+<a href="{?$jieqi_modules['article']['url']?}/articlefilter.php" >书库</a>
+			<a href="http://wap.mianfeidushu.com/">男生</a>
+			<a href="{?$jieqi_modules['pay']['url']?}/buyegold.php" >充值</a>
+		</div>
+	</div>
+	    {?if $jieqi_userid == 0?}
+        <div class="bottom ">
+		<div class="accounts">
+			<span>
+				<a href="{?$jieqi_user_url?}/login.php">登录</a>
+                                <a href="{?$jieqi_url?}/api/weixin/login.php"><img src="/_res/css/heiyan/img/weixin.png" width="24" height="24" alt="微信登陆"></a>
+				<a href="{?$jieqi_url?}/api/weibo/login.php"><img src="/_res/css/heiyan/img/weibo.png" width="24" height="24" alt="微博登录"></a>
+				<a href="{?$jieqi_url?}/api/qq/login.php"><img src="/_res/css/heiyan/img/qq.png" width="24" height="24" alt="qq登录"></a>
+				<!--<a href="#"><img src="/_res/css/heiyan/img/baidu.png" width="24" height="24" alt="百度登录"></a>-->
+			</span>
+			</div>
+			</div>
+		{?else?}
+	<div class="bottom logined" id="jsunlogin">
+		<div class="accounts">
+			<a class="my-name" onclick='$("#jsuser").slideToggle(100);'>{?$jieqi_username?}</a>
+		</div>
+		<div class="nav">
+				<a href="{?$jieqi_modules['article']['url']?}/bookcase.php">我追的书</a>
+				<span class="divide">|</span>
+				<a href="{?$jieqi_url?}/message.php?box=inbox" style="">提醒</a>
+		</div>
+	</div>
+</div>{?/if?}{?if $jieqi_userid ==0?}
+	<div id="jsuser">
+		<div class="container">
+		</div>
+	</div>{?else?}
+	<div id="jsuser">
+		<div class="container">
+			<div id="jsLogined" class="mod block" style="margin: 0 10px 0px;">
+				<div class="bd" style="margin:0 10px;font-size:12px;line-height:20px">
+					[{?$jieqi_groupname?}]
+					<span id="jsusername">{?$jieqi_username?}</span> 您好！
+					<br/>可用{?$egoldname?}:{?$jieqi_egold?} ，当前积分：{?$jieqi_score?}
+				</div>
+				<div class="bd" style="margin:10px 10px 0">
+					<table class="accountbtn">
+					<tr>
+						<td>
+							<a href="/useredit.php">设置</a>
+						</td>
+						<td>
+							<a href="{?$jieqi_modules['pay']['url']?}/paylog.php">财务</a>
+						</td>
+
+					<td>
+							<a href="/personedit.php">实名认证</a>
+						</td>
+					</tr>
+					</table>
+				</div>
+				<div class="bd" style="margin:10px 10px 0">
+					<table class="accountbtn">
+					<tr>
+						<td>
+							<a href="{?$jieqi_modules['pay']['url']?}/buyegold.php">充值</a>
+						</td>
+						<td>
+							 {?if $jieqi_groupid >= 6 ||$jieqi_groupid ==2?}<a href="{?$jieqi_modules['article']['url']?}/myarticle.php">作家中心</a>
+                             {?else?} <a href="{?$jieqi_modules['article']['url']?}/applywriter.php">作家中心</a>
+							{?/if?}
+						</td>
+					<td>
+							<a href="/logout.php" onclick="return confirm('您确定要退出嘛？')">退出</a>
+						</td>
+					</tr>
+					</table>
+				</div>
+			</div>
+		</div>
+	</div>{?/if?}

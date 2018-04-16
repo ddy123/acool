@@ -1,0 +1,4888 @@
+jieqi_url_system_users
+$jieqiModules = Array
+(
+    [system] => Array
+        (
+            [caption] => 系统功能
+            [dir] => 
+            [path] => C:/virtualhost/bacoolread
+            [url] => http://www.mianfeidushu.com
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [article] => Array
+        (
+            [caption] => 小说连载
+            [dir] => /modules/article
+            [path] => C:/virtualhost/bacoolread/modules/article
+            [url] => http://www.mianfeidushu.com/modules/article
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [obook] => Array
+        (
+            [caption] => 在线电子书
+            [dir] => /modules/obook
+            [path] => C:/virtualhost/bacoolread/modules/obook
+            [url] => http://www.mianfeidushu.com/modules/obook
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [forum] => Array
+        (
+            [caption] => 交流论坛
+            [dir] => /modules/forum
+            [path] => C:/virtualhost/bacoolread/modules/forum
+            [url] => http://www.mianfeidushu.com/modules/forum
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [pay] => Array
+        (
+            [caption] => 在线支付
+            [dir] => /modules/pay
+            [path] => C:/virtualhost/bacoolread/modules/pay
+            [url] => http://www.mianfeidushu.com/modules/pay
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [link] => Array
+        (
+            [caption] => link
+            [dir] => /modules/link
+            [path] => C:/virtualhost/bacoolread/modules/link
+            [url] => http://www.mianfeidushu.com/modules/link
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [badge] => Array
+        (
+            [caption] => badge
+            [dir] => /modules/badge
+            [path] => C:/virtualhost/bacoolread/modules/badge
+            [url] => http://www.mianfeidushu.com/modules/badge
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [news] => Array
+        (
+            [caption] => news
+            [dir] => /modules/news
+            [path] => C:/virtualhost/bacoolread/modules/news
+            [url] => http://www.mianfeidushu.com/modules/news
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [fuli] => Array
+        (
+            [caption] => fuli
+            [dir] => /modules/fuli
+            [path] => C:/virtualhost/bacoolread/modules/fuli
+            [url] => http://www.mianfeidushu.com/modules/fuli
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+)
+jieqi_url_system_users
+$jieqiModules = Array
+(
+    [system] => Array
+        (
+            [caption] => 系统功能
+            [dir] => 
+            [path] => C:/virtualhost/bacoolread
+            [url] => http://www.mianfeidushu.com
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [article] => Array
+        (
+            [caption] => 小说连载
+            [dir] => /modules/article
+            [path] => C:/virtualhost/bacoolread/modules/article
+            [url] => http://www.mianfeidushu.com/modules/article
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [obook] => Array
+        (
+            [caption] => 在线电子书
+            [dir] => /modules/obook
+            [path] => C:/virtualhost/bacoolread/modules/obook
+            [url] => http://www.mianfeidushu.com/modules/obook
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [forum] => Array
+        (
+            [caption] => 交流论坛
+            [dir] => /modules/forum
+            [path] => C:/virtualhost/bacoolread/modules/forum
+            [url] => http://www.mianfeidushu.com/modules/forum
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [pay] => Array
+        (
+            [caption] => 在线支付
+            [dir] => /modules/pay
+            [path] => C:/virtualhost/bacoolread/modules/pay
+            [url] => http://www.mianfeidushu.com/modules/pay
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [link] => Array
+        (
+            [caption] => link
+            [dir] => /modules/link
+            [path] => C:/virtualhost/bacoolread/modules/link
+            [url] => http://www.mianfeidushu.com/modules/link
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [badge] => Array
+        (
+            [caption] => badge
+            [dir] => /modules/badge
+            [path] => C:/virtualhost/bacoolread/modules/badge
+            [url] => http://www.mianfeidushu.com/modules/badge
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [news] => Array
+        (
+            [caption] => news
+            [dir] => /modules/news
+            [path] => C:/virtualhost/bacoolread/modules/news
+            [url] => http://www.mianfeidushu.com/modules/news
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [fuli] => Array
+        (
+            [caption] => fuli
+            [dir] => /modules/fuli
+            [path] => C:/virtualhost/bacoolread/modules/fuli
+            [url] => http://www.mianfeidushu.com/modules/fuli
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+)
+jieqi_url_system_users
+$jieqiModules = Array
+(
+    [system] => Array
+        (
+            [caption] => 系统功能
+            [dir] => 
+            [path] => C:/virtualhost/bacoolread
+            [url] => http://www.mianfeidushu.com
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [article] => Array
+        (
+            [caption] => 小说连载
+            [dir] => /modules/article
+            [path] => C:/virtualhost/bacoolread/modules/article
+            [url] => http://www.mianfeidushu.com/modules/article
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [obook] => Array
+        (
+            [caption] => 在线电子书
+            [dir] => /modules/obook
+            [path] => C:/virtualhost/bacoolread/modules/obook
+            [url] => http://www.mianfeidushu.com/modules/obook
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [forum] => Array
+        (
+            [caption] => 交流论坛
+            [dir] => /modules/forum
+            [path] => C:/virtualhost/bacoolread/modules/forum
+            [url] => http://www.mianfeidushu.com/modules/forum
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [pay] => Array
+        (
+            [caption] => 在线支付
+            [dir] => /modules/pay
+            [path] => C:/virtualhost/bacoolread/modules/pay
+            [url] => http://www.mianfeidushu.com/modules/pay
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [link] => Array
+        (
+            [caption] => link
+            [dir] => /modules/link
+            [path] => C:/virtualhost/bacoolread/modules/link
+            [url] => http://www.mianfeidushu.com/modules/link
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [badge] => Array
+        (
+            [caption] => badge
+            [dir] => /modules/badge
+            [path] => C:/virtualhost/bacoolread/modules/badge
+            [url] => http://www.mianfeidushu.com/modules/badge
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [news] => Array
+        (
+            [caption] => news
+            [dir] => /modules/news
+            [path] => C:/virtualhost/bacoolread/modules/news
+            [url] => http://www.mianfeidushu.com/modules/news
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [fuli] => Array
+        (
+            [caption] => fuli
+            [dir] => /modules/fuli
+            [path] => C:/virtualhost/bacoolread/modules/fuli
+            [url] => http://www.mianfeidushu.com/modules/fuli
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+)
+jieqi_url_article_bookcase
+$jieqiModules = Array
+(
+    [system] => Array
+        (
+            [caption] => 系统功能
+            [dir] => 
+            [path] => C:/virtualhost/bacoolread
+            [url] => http://www.mianfeidushu.com
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [article] => Array
+        (
+            [caption] => 小说连载
+            [dir] => /modules/article
+            [path] => C:/virtualhost/bacoolread/modules/article
+            [url] => http://www.mianfeidushu.com/modules/article
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [obook] => Array
+        (
+            [caption] => 在线电子书
+            [dir] => /modules/obook
+            [path] => C:/virtualhost/bacoolread/modules/obook
+            [url] => http://www.mianfeidushu.com/modules/obook
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [forum] => Array
+        (
+            [caption] => 交流论坛
+            [dir] => /modules/forum
+            [path] => C:/virtualhost/bacoolread/modules/forum
+            [url] => http://www.mianfeidushu.com/modules/forum
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [pay] => Array
+        (
+            [caption] => 在线支付
+            [dir] => /modules/pay
+            [path] => C:/virtualhost/bacoolread/modules/pay
+            [url] => http://www.mianfeidushu.com/modules/pay
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [link] => Array
+        (
+            [caption] => link
+            [dir] => /modules/link
+            [path] => C:/virtualhost/bacoolread/modules/link
+            [url] => http://www.mianfeidushu.com/modules/link
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [badge] => Array
+        (
+            [caption] => badge
+            [dir] => /modules/badge
+            [path] => C:/virtualhost/bacoolread/modules/badge
+            [url] => http://www.mianfeidushu.com/modules/badge
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [news] => Array
+        (
+            [caption] => news
+            [dir] => /modules/news
+            [path] => C:/virtualhost/bacoolread/modules/news
+            [url] => http://www.mianfeidushu.com/modules/news
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [fuli] => Array
+        (
+            [caption] => fuli
+            [dir] => /modules/fuli
+            [path] => C:/virtualhost/bacoolread/modules/fuli
+            [url] => http://www.mianfeidushu.com/modules/fuli
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+)
+jieqi_url_system_avatar
+$jieqiModules = Array
+(
+    [system] => Array
+        (
+            [caption] => 系统功能
+            [dir] => 
+            [path] => C:/virtualhost/bacoolread
+            [url] => http://www.mianfeidushu.com
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [article] => Array
+        (
+            [caption] => 小说连载
+            [dir] => /modules/article
+            [path] => C:/virtualhost/bacoolread/modules/article
+            [url] => http://www.mianfeidushu.com/modules/article
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [obook] => Array
+        (
+            [caption] => 在线电子书
+            [dir] => /modules/obook
+            [path] => C:/virtualhost/bacoolread/modules/obook
+            [url] => http://www.mianfeidushu.com/modules/obook
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [forum] => Array
+        (
+            [caption] => 交流论坛
+            [dir] => /modules/forum
+            [path] => C:/virtualhost/bacoolread/modules/forum
+            [url] => http://www.mianfeidushu.com/modules/forum
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [pay] => Array
+        (
+            [caption] => 在线支付
+            [dir] => /modules/pay
+            [path] => C:/virtualhost/bacoolread/modules/pay
+            [url] => http://www.mianfeidushu.com/modules/pay
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [link] => Array
+        (
+            [caption] => link
+            [dir] => /modules/link
+            [path] => C:/virtualhost/bacoolread/modules/link
+            [url] => http://www.mianfeidushu.com/modules/link
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [badge] => Array
+        (
+            [caption] => badge
+            [dir] => /modules/badge
+            [path] => C:/virtualhost/bacoolread/modules/badge
+            [url] => http://www.mianfeidushu.com/modules/badge
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [news] => Array
+        (
+            [caption] => news
+            [dir] => /modules/news
+            [path] => C:/virtualhost/bacoolread/modules/news
+            [url] => http://www.mianfeidushu.com/modules/news
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [fuli] => Array
+        (
+            [caption] => fuli
+            [dir] => /modules/fuli
+            [path] => C:/virtualhost/bacoolread/modules/fuli
+            [url] => http://www.mianfeidushu.com/modules/fuli
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+)
+jieqi_url_article_bookcase
+$jieqiModules = Array
+(
+    [system] => Array
+        (
+            [caption] => 系统功能
+            [dir] => 
+            [path] => C:/virtualhost/bacoolread
+            [url] => http://www.mianfeidushu.com
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [article] => Array
+        (
+            [caption] => 小说连载
+            [dir] => /modules/article
+            [path] => C:/virtualhost/bacoolread/modules/article
+            [url] => http://www.mianfeidushu.com/modules/article
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [obook] => Array
+        (
+            [caption] => 在线电子书
+            [dir] => /modules/obook
+            [path] => C:/virtualhost/bacoolread/modules/obook
+            [url] => http://www.mianfeidushu.com/modules/obook
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [forum] => Array
+        (
+            [caption] => 交流论坛
+            [dir] => /modules/forum
+            [path] => C:/virtualhost/bacoolread/modules/forum
+            [url] => http://www.mianfeidushu.com/modules/forum
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [pay] => Array
+        (
+            [caption] => 在线支付
+            [dir] => /modules/pay
+            [path] => C:/virtualhost/bacoolread/modules/pay
+            [url] => http://www.mianfeidushu.com/modules/pay
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [link] => Array
+        (
+            [caption] => link
+            [dir] => /modules/link
+            [path] => C:/virtualhost/bacoolread/modules/link
+            [url] => http://www.mianfeidushu.com/modules/link
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [badge] => Array
+        (
+            [caption] => badge
+            [dir] => /modules/badge
+            [path] => C:/virtualhost/bacoolread/modules/badge
+            [url] => http://www.mianfeidushu.com/modules/badge
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [news] => Array
+        (
+            [caption] => news
+            [dir] => /modules/news
+            [path] => C:/virtualhost/bacoolread/modules/news
+            [url] => http://www.mianfeidushu.com/modules/news
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [fuli] => Array
+        (
+            [caption] => fuli
+            [dir] => /modules/fuli
+            [path] => C:/virtualhost/bacoolread/modules/fuli
+            [url] => http://www.mianfeidushu.com/modules/fuli
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+)
+jieqi_url_system_users
+$jieqiModules = Array
+(
+    [system] => Array
+        (
+            [caption] => 系统功能
+            [dir] => 
+            [path] => C:/virtualhost/bacoolread
+            [url] => http://www.mianfeidushu.com
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [article] => Array
+        (
+            [caption] => 小说连载
+            [dir] => /modules/article
+            [path] => C:/virtualhost/bacoolread/modules/article
+            [url] => http://www.mianfeidushu.com/modules/article
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [obook] => Array
+        (
+            [caption] => 在线电子书
+            [dir] => /modules/obook
+            [path] => C:/virtualhost/bacoolread/modules/obook
+            [url] => http://www.mianfeidushu.com/modules/obook
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [forum] => Array
+        (
+            [caption] => 交流论坛
+            [dir] => /modules/forum
+            [path] => C:/virtualhost/bacoolread/modules/forum
+            [url] => http://www.mianfeidushu.com/modules/forum
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [pay] => Array
+        (
+            [caption] => 在线支付
+            [dir] => /modules/pay
+            [path] => C:/virtualhost/bacoolread/modules/pay
+            [url] => http://www.mianfeidushu.com/modules/pay
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [link] => Array
+        (
+            [caption] => link
+            [dir] => /modules/link
+            [path] => C:/virtualhost/bacoolread/modules/link
+            [url] => http://www.mianfeidushu.com/modules/link
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [badge] => Array
+        (
+            [caption] => badge
+            [dir] => /modules/badge
+            [path] => C:/virtualhost/bacoolread/modules/badge
+            [url] => http://www.mianfeidushu.com/modules/badge
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [news] => Array
+        (
+            [caption] => news
+            [dir] => /modules/news
+            [path] => C:/virtualhost/bacoolread/modules/news
+            [url] => http://www.mianfeidushu.com/modules/news
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [fuli] => Array
+        (
+            [caption] => fuli
+            [dir] => /modules/fuli
+            [path] => C:/virtualhost/bacoolread/modules/fuli
+            [url] => http://www.mianfeidushu.com/modules/fuli
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+)
+jieqi_url_system_users
+$jieqiModules = Array
+(
+    [system] => Array
+        (
+            [caption] => 系统功能
+            [dir] => 
+            [path] => C:/virtualhost/bacoolread
+            [url] => http://www.mianfeidushu.com
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [article] => Array
+        (
+            [caption] => 小说连载
+            [dir] => /modules/article
+            [path] => C:/virtualhost/bacoolread/modules/article
+            [url] => http://www.mianfeidushu.com/modules/article
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [obook] => Array
+        (
+            [caption] => 在线电子书
+            [dir] => /modules/obook
+            [path] => C:/virtualhost/bacoolread/modules/obook
+            [url] => http://www.mianfeidushu.com/modules/obook
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [forum] => Array
+        (
+            [caption] => 交流论坛
+            [dir] => /modules/forum
+            [path] => C:/virtualhost/bacoolread/modules/forum
+            [url] => http://www.mianfeidushu.com/modules/forum
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [pay] => Array
+        (
+            [caption] => 在线支付
+            [dir] => /modules/pay
+            [path] => C:/virtualhost/bacoolread/modules/pay
+            [url] => http://www.mianfeidushu.com/modules/pay
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [link] => Array
+        (
+            [caption] => link
+            [dir] => /modules/link
+            [path] => C:/virtualhost/bacoolread/modules/link
+            [url] => http://www.mianfeidushu.com/modules/link
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [badge] => Array
+        (
+            [caption] => badge
+            [dir] => /modules/badge
+            [path] => C:/virtualhost/bacoolread/modules/badge
+            [url] => http://www.mianfeidushu.com/modules/badge
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [news] => Array
+        (
+            [caption] => news
+            [dir] => /modules/news
+            [path] => C:/virtualhost/bacoolread/modules/news
+            [url] => http://www.mianfeidushu.com/modules/news
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [fuli] => Array
+        (
+            [caption] => fuli
+            [dir] => /modules/fuli
+            [path] => C:/virtualhost/bacoolread/modules/fuli
+            [url] => http://www.mianfeidushu.com/modules/fuli
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+)
+jieqi_url_system_users
+$jieqiModules = Array
+(
+    [system] => Array
+        (
+            [caption] => 系统功能
+            [dir] => 
+            [path] => C:/virtualhost/bacoolread
+            [url] => http://www.mianfeidushu.com
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [article] => Array
+        (
+            [caption] => 小说连载
+            [dir] => /modules/article
+            [path] => C:/virtualhost/bacoolread/modules/article
+            [url] => http://www.mianfeidushu.com/modules/article
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [obook] => Array
+        (
+            [caption] => 在线电子书
+            [dir] => /modules/obook
+            [path] => C:/virtualhost/bacoolread/modules/obook
+            [url] => http://www.mianfeidushu.com/modules/obook
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [forum] => Array
+        (
+            [caption] => 交流论坛
+            [dir] => /modules/forum
+            [path] => C:/virtualhost/bacoolread/modules/forum
+            [url] => http://www.mianfeidushu.com/modules/forum
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [pay] => Array
+        (
+            [caption] => 在线支付
+            [dir] => /modules/pay
+            [path] => C:/virtualhost/bacoolread/modules/pay
+            [url] => http://www.mianfeidushu.com/modules/pay
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [link] => Array
+        (
+            [caption] => link
+            [dir] => /modules/link
+            [path] => C:/virtualhost/bacoolread/modules/link
+            [url] => http://www.mianfeidushu.com/modules/link
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [badge] => Array
+        (
+            [caption] => badge
+            [dir] => /modules/badge
+            [path] => C:/virtualhost/bacoolread/modules/badge
+            [url] => http://www.mianfeidushu.com/modules/badge
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [news] => Array
+        (
+            [caption] => news
+            [dir] => /modules/news
+            [path] => C:/virtualhost/bacoolread/modules/news
+            [url] => http://www.mianfeidushu.com/modules/news
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [fuli] => Array
+        (
+            [caption] => fuli
+            [dir] => /modules/fuli
+            [path] => C:/virtualhost/bacoolread/modules/fuli
+            [url] => http://www.mianfeidushu.com/modules/fuli
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+)
+jieqi_url_system_users
+$jieqiModules = Array
+(
+    [system] => Array
+        (
+            [caption] => 系统功能
+            [dir] => 
+            [path] => C:/virtualhost/bacoolread
+            [url] => http://www.mianfeidushu.com
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [article] => Array
+        (
+            [caption] => 小说连载
+            [dir] => /modules/article
+            [path] => C:/virtualhost/bacoolread/modules/article
+            [url] => http://www.mianfeidushu.com/modules/article
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [obook] => Array
+        (
+            [caption] => 在线电子书
+            [dir] => /modules/obook
+            [path] => C:/virtualhost/bacoolread/modules/obook
+            [url] => http://www.mianfeidushu.com/modules/obook
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [forum] => Array
+        (
+            [caption] => 交流论坛
+            [dir] => /modules/forum
+            [path] => C:/virtualhost/bacoolread/modules/forum
+            [url] => http://www.mianfeidushu.com/modules/forum
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [pay] => Array
+        (
+            [caption] => 在线支付
+            [dir] => /modules/pay
+            [path] => C:/virtualhost/bacoolread/modules/pay
+            [url] => http://www.mianfeidushu.com/modules/pay
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [link] => Array
+        (
+            [caption] => link
+            [dir] => /modules/link
+            [path] => C:/virtualhost/bacoolread/modules/link
+            [url] => http://www.mianfeidushu.com/modules/link
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [badge] => Array
+        (
+            [caption] => badge
+            [dir] => /modules/badge
+            [path] => C:/virtualhost/bacoolread/modules/badge
+            [url] => http://www.mianfeidushu.com/modules/badge
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [news] => Array
+        (
+            [caption] => news
+            [dir] => /modules/news
+            [path] => C:/virtualhost/bacoolread/modules/news
+            [url] => http://www.mianfeidushu.com/modules/news
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [fuli] => Array
+        (
+            [caption] => fuli
+            [dir] => /modules/fuli
+            [path] => C:/virtualhost/bacoolread/modules/fuli
+            [url] => http://www.mianfeidushu.com/modules/fuli
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+)
+jieqi_url_article_bookcase
+$jieqiModules = Array
+(
+    [system] => Array
+        (
+            [caption] => 系统功能
+            [dir] => 
+            [path] => C:/virtualhost/bacoolread
+            [url] => http://www.mianfeidushu.com
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [article] => Array
+        (
+            [caption] => 小说连载
+            [dir] => /modules/article
+            [path] => C:/virtualhost/bacoolread/modules/article
+            [url] => http://www.mianfeidushu.com/modules/article
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [obook] => Array
+        (
+            [caption] => 在线电子书
+            [dir] => /modules/obook
+            [path] => C:/virtualhost/bacoolread/modules/obook
+            [url] => http://www.mianfeidushu.com/modules/obook
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [forum] => Array
+        (
+            [caption] => 交流论坛
+            [dir] => /modules/forum
+            [path] => C:/virtualhost/bacoolread/modules/forum
+            [url] => http://www.mianfeidushu.com/modules/forum
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [pay] => Array
+        (
+            [caption] => 在线支付
+            [dir] => /modules/pay
+            [path] => C:/virtualhost/bacoolread/modules/pay
+            [url] => http://www.mianfeidushu.com/modules/pay
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [link] => Array
+        (
+            [caption] => link
+            [dir] => /modules/link
+            [path] => C:/virtualhost/bacoolread/modules/link
+            [url] => http://www.mianfeidushu.com/modules/link
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [badge] => Array
+        (
+            [caption] => badge
+            [dir] => /modules/badge
+            [path] => C:/virtualhost/bacoolread/modules/badge
+            [url] => http://www.mianfeidushu.com/modules/badge
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [news] => Array
+        (
+            [caption] => news
+            [dir] => /modules/news
+            [path] => C:/virtualhost/bacoolread/modules/news
+            [url] => http://www.mianfeidushu.com/modules/news
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [fuli] => Array
+        (
+            [caption] => fuli
+            [dir] => /modules/fuli
+            [path] => C:/virtualhost/bacoolread/modules/fuli
+            [url] => http://www.mianfeidushu.com/modules/fuli
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+)
+jieqi_url_article_articlelist
+$jieqiModules = Array
+(
+    [system] => Array
+        (
+            [caption] => 系统功能
+            [dir] => 
+            [path] => C:/virtualhost/bacoolread
+            [url] => http://www.mianfeidushu.com
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [article] => Array
+        (
+            [caption] => 小说连载
+            [dir] => /modules/article
+            [path] => C:/virtualhost/bacoolread/modules/article
+            [url] => http://www.mianfeidushu.com/modules/article
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [obook] => Array
+        (
+            [caption] => 在线电子书
+            [dir] => /modules/obook
+            [path] => C:/virtualhost/bacoolread/modules/obook
+            [url] => http://www.mianfeidushu.com/modules/obook
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [forum] => Array
+        (
+            [caption] => 交流论坛
+            [dir] => /modules/forum
+            [path] => C:/virtualhost/bacoolread/modules/forum
+            [url] => http://www.mianfeidushu.com/modules/forum
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [pay] => Array
+        (
+            [caption] => 在线支付
+            [dir] => /modules/pay
+            [path] => C:/virtualhost/bacoolread/modules/pay
+            [url] => http://www.mianfeidushu.com/modules/pay
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [link] => Array
+        (
+            [caption] => link
+            [dir] => /modules/link
+            [path] => C:/virtualhost/bacoolread/modules/link
+            [url] => http://www.mianfeidushu.com/modules/link
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [badge] => Array
+        (
+            [caption] => badge
+            [dir] => /modules/badge
+            [path] => C:/virtualhost/bacoolread/modules/badge
+            [url] => http://www.mianfeidushu.com/modules/badge
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [news] => Array
+        (
+            [caption] => news
+            [dir] => /modules/news
+            [path] => C:/virtualhost/bacoolread/modules/news
+            [url] => http://www.mianfeidushu.com/modules/news
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [fuli] => Array
+        (
+            [caption] => fuli
+            [dir] => /modules/fuli
+            [path] => C:/virtualhost/bacoolread/modules/fuli
+            [url] => http://www.mianfeidushu.com/modules/fuli
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+)
+jieqi_url_article_articlelist
+$jieqiModules = Array
+(
+    [system] => Array
+        (
+            [caption] => 系统功能
+            [dir] => 
+            [path] => C:/virtualhost/bacoolread
+            [url] => http://www.mianfeidushu.com
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [article] => Array
+        (
+            [caption] => 小说连载
+            [dir] => /modules/article
+            [path] => C:/virtualhost/bacoolread/modules/article
+            [url] => http://www.mianfeidushu.com/modules/article
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [obook] => Array
+        (
+            [caption] => 在线电子书
+            [dir] => /modules/obook
+            [path] => C:/virtualhost/bacoolread/modules/obook
+            [url] => http://www.mianfeidushu.com/modules/obook
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [forum] => Array
+        (
+            [caption] => 交流论坛
+            [dir] => /modules/forum
+            [path] => C:/virtualhost/bacoolread/modules/forum
+            [url] => http://www.mianfeidushu.com/modules/forum
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [pay] => Array
+        (
+            [caption] => 在线支付
+            [dir] => /modules/pay
+            [path] => C:/virtualhost/bacoolread/modules/pay
+            [url] => http://www.mianfeidushu.com/modules/pay
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [link] => Array
+        (
+            [caption] => link
+            [dir] => /modules/link
+            [path] => C:/virtualhost/bacoolread/modules/link
+            [url] => http://www.mianfeidushu.com/modules/link
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [badge] => Array
+        (
+            [caption] => badge
+            [dir] => /modules/badge
+            [path] => C:/virtualhost/bacoolread/modules/badge
+            [url] => http://www.mianfeidushu.com/modules/badge
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [news] => Array
+        (
+            [caption] => news
+            [dir] => /modules/news
+            [path] => C:/virtualhost/bacoolread/modules/news
+            [url] => http://www.mianfeidushu.com/modules/news
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [fuli] => Array
+        (
+            [caption] => fuli
+            [dir] => /modules/fuli
+            [path] => C:/virtualhost/bacoolread/modules/fuli
+            [url] => http://www.mianfeidushu.com/modules/fuli
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+)
+jieqi_url_article_articlelist
+$jieqiModules = Array
+(
+    [system] => Array
+        (
+            [caption] => 系统功能
+            [dir] => 
+            [path] => C:/virtualhost/bacoolread
+            [url] => http://www.mianfeidushu.com
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [article] => Array
+        (
+            [caption] => 小说连载
+            [dir] => /modules/article
+            [path] => C:/virtualhost/bacoolread/modules/article
+            [url] => http://www.mianfeidushu.com/modules/article
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [obook] => Array
+        (
+            [caption] => 在线电子书
+            [dir] => /modules/obook
+            [path] => C:/virtualhost/bacoolread/modules/obook
+            [url] => http://www.mianfeidushu.com/modules/obook
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [forum] => Array
+        (
+            [caption] => 交流论坛
+            [dir] => /modules/forum
+            [path] => C:/virtualhost/bacoolread/modules/forum
+            [url] => http://www.mianfeidushu.com/modules/forum
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [pay] => Array
+        (
+            [caption] => 在线支付
+            [dir] => /modules/pay
+            [path] => C:/virtualhost/bacoolread/modules/pay
+            [url] => http://www.mianfeidushu.com/modules/pay
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [link] => Array
+        (
+            [caption] => link
+            [dir] => /modules/link
+            [path] => C:/virtualhost/bacoolread/modules/link
+            [url] => http://www.mianfeidushu.com/modules/link
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [badge] => Array
+        (
+            [caption] => badge
+            [dir] => /modules/badge
+            [path] => C:/virtualhost/bacoolread/modules/badge
+            [url] => http://www.mianfeidushu.com/modules/badge
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [news] => Array
+        (
+            [caption] => news
+            [dir] => /modules/news
+            [path] => C:/virtualhost/bacoolread/modules/news
+            [url] => http://www.mianfeidushu.com/modules/news
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [fuli] => Array
+        (
+            [caption] => fuli
+            [dir] => /modules/fuli
+            [path] => C:/virtualhost/bacoolread/modules/fuli
+            [url] => http://www.mianfeidushu.com/modules/fuli
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+)
+jieqi_url_article_articlelist
+$jieqiModules = Array
+(
+    [system] => Array
+        (
+            [caption] => 系统功能
+            [dir] => 
+            [path] => C:/virtualhost/bacoolread
+            [url] => http://www.mianfeidushu.com
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [article] => Array
+        (
+            [caption] => 小说连载
+            [dir] => /modules/article
+            [path] => C:/virtualhost/bacoolread/modules/article
+            [url] => http://www.mianfeidushu.com/modules/article
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [obook] => Array
+        (
+            [caption] => 在线电子书
+            [dir] => /modules/obook
+            [path] => C:/virtualhost/bacoolread/modules/obook
+            [url] => http://www.mianfeidushu.com/modules/obook
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [forum] => Array
+        (
+            [caption] => 交流论坛
+            [dir] => /modules/forum
+            [path] => C:/virtualhost/bacoolread/modules/forum
+            [url] => http://www.mianfeidushu.com/modules/forum
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [pay] => Array
+        (
+            [caption] => 在线支付
+            [dir] => /modules/pay
+            [path] => C:/virtualhost/bacoolread/modules/pay
+            [url] => http://www.mianfeidushu.com/modules/pay
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [link] => Array
+        (
+            [caption] => link
+            [dir] => /modules/link
+            [path] => C:/virtualhost/bacoolread/modules/link
+            [url] => http://www.mianfeidushu.com/modules/link
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [badge] => Array
+        (
+            [caption] => badge
+            [dir] => /modules/badge
+            [path] => C:/virtualhost/bacoolread/modules/badge
+            [url] => http://www.mianfeidushu.com/modules/badge
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [news] => Array
+        (
+            [caption] => news
+            [dir] => /modules/news
+            [path] => C:/virtualhost/bacoolread/modules/news
+            [url] => http://www.mianfeidushu.com/modules/news
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [fuli] => Array
+        (
+            [caption] => fuli
+            [dir] => /modules/fuli
+            [path] => C:/virtualhost/bacoolread/modules/fuli
+            [url] => http://www.mianfeidushu.com/modules/fuli
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+)
+jieqi_url_article_articlelist
+$jieqiModules = Array
+(
+    [system] => Array
+        (
+            [caption] => 系统功能
+            [dir] => 
+            [path] => C:/virtualhost/bacoolread
+            [url] => http://www.mianfeidushu.com
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [article] => Array
+        (
+            [caption] => 小说连载
+            [dir] => /modules/article
+            [path] => C:/virtualhost/bacoolread/modules/article
+            [url] => http://www.mianfeidushu.com/modules/article
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [obook] => Array
+        (
+            [caption] => 在线电子书
+            [dir] => /modules/obook
+            [path] => C:/virtualhost/bacoolread/modules/obook
+            [url] => http://www.mianfeidushu.com/modules/obook
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [forum] => Array
+        (
+            [caption] => 交流论坛
+            [dir] => /modules/forum
+            [path] => C:/virtualhost/bacoolread/modules/forum
+            [url] => http://www.mianfeidushu.com/modules/forum
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [pay] => Array
+        (
+            [caption] => 在线支付
+            [dir] => /modules/pay
+            [path] => C:/virtualhost/bacoolread/modules/pay
+            [url] => http://www.mianfeidushu.com/modules/pay
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [link] => Array
+        (
+            [caption] => link
+            [dir] => /modules/link
+            [path] => C:/virtualhost/bacoolread/modules/link
+            [url] => http://www.mianfeidushu.com/modules/link
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [badge] => Array
+        (
+            [caption] => badge
+            [dir] => /modules/badge
+            [path] => C:/virtualhost/bacoolread/modules/badge
+            [url] => http://www.mianfeidushu.com/modules/badge
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [news] => Array
+        (
+            [caption] => news
+            [dir] => /modules/news
+            [path] => C:/virtualhost/bacoolread/modules/news
+            [url] => http://www.mianfeidushu.com/modules/news
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [fuli] => Array
+        (
+            [caption] => fuli
+            [dir] => /modules/fuli
+            [path] => C:/virtualhost/bacoolread/modules/fuli
+            [url] => http://www.mianfeidushu.com/modules/fuli
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+)
+jieqi_url_article_articlelist
+$jieqiModules = Array
+(
+    [system] => Array
+        (
+            [caption] => 系统功能
+            [dir] => 
+            [path] => C:/virtualhost/bacoolread
+            [url] => http://www.mianfeidushu.com
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [article] => Array
+        (
+            [caption] => 小说连载
+            [dir] => /modules/article
+            [path] => C:/virtualhost/bacoolread/modules/article
+            [url] => http://www.mianfeidushu.com/modules/article
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [obook] => Array
+        (
+            [caption] => 在线电子书
+            [dir] => /modules/obook
+            [path] => C:/virtualhost/bacoolread/modules/obook
+            [url] => http://www.mianfeidushu.com/modules/obook
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [forum] => Array
+        (
+            [caption] => 交流论坛
+            [dir] => /modules/forum
+            [path] => C:/virtualhost/bacoolread/modules/forum
+            [url] => http://www.mianfeidushu.com/modules/forum
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [pay] => Array
+        (
+            [caption] => 在线支付
+            [dir] => /modules/pay
+            [path] => C:/virtualhost/bacoolread/modules/pay
+            [url] => http://www.mianfeidushu.com/modules/pay
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [link] => Array
+        (
+            [caption] => link
+            [dir] => /modules/link
+            [path] => C:/virtualhost/bacoolread/modules/link
+            [url] => http://www.mianfeidushu.com/modules/link
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [badge] => Array
+        (
+            [caption] => badge
+            [dir] => /modules/badge
+            [path] => C:/virtualhost/bacoolread/modules/badge
+            [url] => http://www.mianfeidushu.com/modules/badge
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [news] => Array
+        (
+            [caption] => news
+            [dir] => /modules/news
+            [path] => C:/virtualhost/bacoolread/modules/news
+            [url] => http://www.mianfeidushu.com/modules/news
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [fuli] => Array
+        (
+            [caption] => fuli
+            [dir] => /modules/fuli
+            [path] => C:/virtualhost/bacoolread/modules/fuli
+            [url] => http://www.mianfeidushu.com/modules/fuli
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+)
+jieqi_url_article_articlelist
+$jieqiModules = Array
+(
+    [system] => Array
+        (
+            [caption] => 系统功能
+            [dir] => 
+            [path] => C:/virtualhost/bacoolread
+            [url] => http://www.mianfeidushu.com
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [article] => Array
+        (
+            [caption] => 小说连载
+            [dir] => /modules/article
+            [path] => C:/virtualhost/bacoolread/modules/article
+            [url] => http://www.mianfeidushu.com/modules/article
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [obook] => Array
+        (
+            [caption] => 在线电子书
+            [dir] => /modules/obook
+            [path] => C:/virtualhost/bacoolread/modules/obook
+            [url] => http://www.mianfeidushu.com/modules/obook
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [forum] => Array
+        (
+            [caption] => 交流论坛
+            [dir] => /modules/forum
+            [path] => C:/virtualhost/bacoolread/modules/forum
+            [url] => http://www.mianfeidushu.com/modules/forum
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [pay] => Array
+        (
+            [caption] => 在线支付
+            [dir] => /modules/pay
+            [path] => C:/virtualhost/bacoolread/modules/pay
+            [url] => http://www.mianfeidushu.com/modules/pay
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [link] => Array
+        (
+            [caption] => link
+            [dir] => /modules/link
+            [path] => C:/virtualhost/bacoolread/modules/link
+            [url] => http://www.mianfeidushu.com/modules/link
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [badge] => Array
+        (
+            [caption] => badge
+            [dir] => /modules/badge
+            [path] => C:/virtualhost/bacoolread/modules/badge
+            [url] => http://www.mianfeidushu.com/modules/badge
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [news] => Array
+        (
+            [caption] => news
+            [dir] => /modules/news
+            [path] => C:/virtualhost/bacoolread/modules/news
+            [url] => http://www.mianfeidushu.com/modules/news
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [fuli] => Array
+        (
+            [caption] => fuli
+            [dir] => /modules/fuli
+            [path] => C:/virtualhost/bacoolread/modules/fuli
+            [url] => http://www.mianfeidushu.com/modules/fuli
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+)
+jieqi_url_article_articlelist
+$jieqiModules = Array
+(
+    [system] => Array
+        (
+            [caption] => 系统功能
+            [dir] => 
+            [path] => C:/virtualhost/bacoolread
+            [url] => http://www.mianfeidushu.com
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [article] => Array
+        (
+            [caption] => 小说连载
+            [dir] => /modules/article
+            [path] => C:/virtualhost/bacoolread/modules/article
+            [url] => http://www.mianfeidushu.com/modules/article
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [obook] => Array
+        (
+            [caption] => 在线电子书
+            [dir] => /modules/obook
+            [path] => C:/virtualhost/bacoolread/modules/obook
+            [url] => http://www.mianfeidushu.com/modules/obook
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [forum] => Array
+        (
+            [caption] => 交流论坛
+            [dir] => /modules/forum
+            [path] => C:/virtualhost/bacoolread/modules/forum
+            [url] => http://www.mianfeidushu.com/modules/forum
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [pay] => Array
+        (
+            [caption] => 在线支付
+            [dir] => /modules/pay
+            [path] => C:/virtualhost/bacoolread/modules/pay
+            [url] => http://www.mianfeidushu.com/modules/pay
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [link] => Array
+        (
+            [caption] => link
+            [dir] => /modules/link
+            [path] => C:/virtualhost/bacoolread/modules/link
+            [url] => http://www.mianfeidushu.com/modules/link
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [badge] => Array
+        (
+            [caption] => badge
+            [dir] => /modules/badge
+            [path] => C:/virtualhost/bacoolread/modules/badge
+            [url] => http://www.mianfeidushu.com/modules/badge
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [news] => Array
+        (
+            [caption] => news
+            [dir] => /modules/news
+            [path] => C:/virtualhost/bacoolread/modules/news
+            [url] => http://www.mianfeidushu.com/modules/news
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [fuli] => Array
+        (
+            [caption] => fuli
+            [dir] => /modules/fuli
+            [path] => C:/virtualhost/bacoolread/modules/fuli
+            [url] => http://www.mianfeidushu.com/modules/fuli
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+)
+jieqi_url_article_articlelist
+$jieqiModules = Array
+(
+    [system] => Array
+        (
+            [caption] => 系统功能
+            [dir] => 
+            [path] => C:/virtualhost/bacoolread
+            [url] => http://www.mianfeidushu.com
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [article] => Array
+        (
+            [caption] => 小说连载
+            [dir] => /modules/article
+            [path] => C:/virtualhost/bacoolread/modules/article
+            [url] => http://www.mianfeidushu.com/modules/article
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [obook] => Array
+        (
+            [caption] => 在线电子书
+            [dir] => /modules/obook
+            [path] => C:/virtualhost/bacoolread/modules/obook
+            [url] => http://www.mianfeidushu.com/modules/obook
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [forum] => Array
+        (
+            [caption] => 交流论坛
+            [dir] => /modules/forum
+            [path] => C:/virtualhost/bacoolread/modules/forum
+            [url] => http://www.mianfeidushu.com/modules/forum
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [pay] => Array
+        (
+            [caption] => 在线支付
+            [dir] => /modules/pay
+            [path] => C:/virtualhost/bacoolread/modules/pay
+            [url] => http://www.mianfeidushu.com/modules/pay
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [link] => Array
+        (
+            [caption] => link
+            [dir] => /modules/link
+            [path] => C:/virtualhost/bacoolread/modules/link
+            [url] => http://www.mianfeidushu.com/modules/link
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [badge] => Array
+        (
+            [caption] => badge
+            [dir] => /modules/badge
+            [path] => C:/virtualhost/bacoolread/modules/badge
+            [url] => http://www.mianfeidushu.com/modules/badge
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [news] => Array
+        (
+            [caption] => news
+            [dir] => /modules/news
+            [path] => C:/virtualhost/bacoolread/modules/news
+            [url] => http://www.mianfeidushu.com/modules/news
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [fuli] => Array
+        (
+            [caption] => fuli
+            [dir] => /modules/fuli
+            [path] => C:/virtualhost/bacoolread/modules/fuli
+            [url] => http://www.mianfeidushu.com/modules/fuli
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+)
+jieqi_url_article_articlelist
+$jieqiModules = Array
+(
+    [system] => Array
+        (
+            [caption] => 系统功能
+            [dir] => 
+            [path] => C:/virtualhost/bacoolread
+            [url] => http://www.mianfeidushu.com
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [article] => Array
+        (
+            [caption] => 小说连载
+            [dir] => /modules/article
+            [path] => C:/virtualhost/bacoolread/modules/article
+            [url] => http://www.mianfeidushu.com/modules/article
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [obook] => Array
+        (
+            [caption] => 在线电子书
+            [dir] => /modules/obook
+            [path] => C:/virtualhost/bacoolread/modules/obook
+            [url] => http://www.mianfeidushu.com/modules/obook
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [forum] => Array
+        (
+            [caption] => 交流论坛
+            [dir] => /modules/forum
+            [path] => C:/virtualhost/bacoolread/modules/forum
+            [url] => http://www.mianfeidushu.com/modules/forum
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [pay] => Array
+        (
+            [caption] => 在线支付
+            [dir] => /modules/pay
+            [path] => C:/virtualhost/bacoolread/modules/pay
+            [url] => http://www.mianfeidushu.com/modules/pay
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [link] => Array
+        (
+            [caption] => link
+            [dir] => /modules/link
+            [path] => C:/virtualhost/bacoolread/modules/link
+            [url] => http://www.mianfeidushu.com/modules/link
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [badge] => Array
+        (
+            [caption] => badge
+            [dir] => /modules/badge
+            [path] => C:/virtualhost/bacoolread/modules/badge
+            [url] => http://www.mianfeidushu.com/modules/badge
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [news] => Array
+        (
+            [caption] => news
+            [dir] => /modules/news
+            [path] => C:/virtualhost/bacoolread/modules/news
+            [url] => http://www.mianfeidushu.com/modules/news
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [fuli] => Array
+        (
+            [caption] => fuli
+            [dir] => /modules/fuli
+            [path] => C:/virtualhost/bacoolread/modules/fuli
+            [url] => http://www.mianfeidushu.com/modules/fuli
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+)
+jieqi_url_article_articlelist
+$jieqiModules = Array
+(
+    [system] => Array
+        (
+            [caption] => 系统功能
+            [dir] => 
+            [path] => C:/virtualhost/bacoolread
+            [url] => http://www.mianfeidushu.com
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [article] => Array
+        (
+            [caption] => 小说连载
+            [dir] => /modules/article
+            [path] => C:/virtualhost/bacoolread/modules/article
+            [url] => http://www.mianfeidushu.com/modules/article
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [obook] => Array
+        (
+            [caption] => 在线电子书
+            [dir] => /modules/obook
+            [path] => C:/virtualhost/bacoolread/modules/obook
+            [url] => http://www.mianfeidushu.com/modules/obook
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [forum] => Array
+        (
+            [caption] => 交流论坛
+            [dir] => /modules/forum
+            [path] => C:/virtualhost/bacoolread/modules/forum
+            [url] => http://www.mianfeidushu.com/modules/forum
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [pay] => Array
+        (
+            [caption] => 在线支付
+            [dir] => /modules/pay
+            [path] => C:/virtualhost/bacoolread/modules/pay
+            [url] => http://www.mianfeidushu.com/modules/pay
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [link] => Array
+        (
+            [caption] => link
+            [dir] => /modules/link
+            [path] => C:/virtualhost/bacoolread/modules/link
+            [url] => http://www.mianfeidushu.com/modules/link
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [badge] => Array
+        (
+            [caption] => badge
+            [dir] => /modules/badge
+            [path] => C:/virtualhost/bacoolread/modules/badge
+            [url] => http://www.mianfeidushu.com/modules/badge
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [news] => Array
+        (
+            [caption] => news
+            [dir] => /modules/news
+            [path] => C:/virtualhost/bacoolread/modules/news
+            [url] => http://www.mianfeidushu.com/modules/news
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [fuli] => Array
+        (
+            [caption] => fuli
+            [dir] => /modules/fuli
+            [path] => C:/virtualhost/bacoolread/modules/fuli
+            [url] => http://www.mianfeidushu.com/modules/fuli
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+)
+jieqi_url_article_article
+$jieqiModules = Array
+(
+    [system] => Array
+        (
+            [caption] => 系统功能
+            [dir] => 
+            [path] => C:/virtualhost/bacoolread
+            [url] => http://www.mianfeidushu.com
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [article] => Array
+        (
+            [caption] => 小说连载
+            [dir] => /modules/article
+            [path] => C:/virtualhost/bacoolread/modules/article
+            [url] => http://www.mianfeidushu.com/modules/article
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [obook] => Array
+        (
+            [caption] => 在线电子书
+            [dir] => /modules/obook
+            [path] => C:/virtualhost/bacoolread/modules/obook
+            [url] => http://www.mianfeidushu.com/modules/obook
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [forum] => Array
+        (
+            [caption] => 交流论坛
+            [dir] => /modules/forum
+            [path] => C:/virtualhost/bacoolread/modules/forum
+            [url] => http://www.mianfeidushu.com/modules/forum
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [pay] => Array
+        (
+            [caption] => 在线支付
+            [dir] => /modules/pay
+            [path] => C:/virtualhost/bacoolread/modules/pay
+            [url] => http://www.mianfeidushu.com/modules/pay
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [link] => Array
+        (
+            [caption] => link
+            [dir] => /modules/link
+            [path] => C:/virtualhost/bacoolread/modules/link
+            [url] => http://www.mianfeidushu.com/modules/link
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [badge] => Array
+        (
+            [caption] => badge
+            [dir] => /modules/badge
+            [path] => C:/virtualhost/bacoolread/modules/badge
+            [url] => http://www.mianfeidushu.com/modules/badge
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [news] => Array
+        (
+            [caption] => news
+            [dir] => /modules/news
+            [path] => C:/virtualhost/bacoolread/modules/news
+            [url] => http://www.mianfeidushu.com/modules/news
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [fuli] => Array
+        (
+            [caption] => fuli
+            [dir] => /modules/fuli
+            [path] => C:/virtualhost/bacoolread/modules/fuli
+            [url] => http://www.mianfeidushu.com/modules/fuli
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+)
+jieqi_url_system_user
+$jieqiModules = Array
+(
+    [system] => Array
+        (
+            [caption] => 系统功能
+            [dir] => 
+            [path] => C:/virtualhost/bacoolread
+            [url] => http://www.mianfeidushu.com
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [article] => Array
+        (
+            [caption] => 小说连载
+            [dir] => /modules/article
+            [path] => C:/virtualhost/bacoolread/modules/article
+            [url] => http://www.mianfeidushu.com/modules/article
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [obook] => Array
+        (
+            [caption] => 在线电子书
+            [dir] => /modules/obook
+            [path] => C:/virtualhost/bacoolread/modules/obook
+            [url] => http://www.mianfeidushu.com/modules/obook
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [forum] => Array
+        (
+            [caption] => 交流论坛
+            [dir] => /modules/forum
+            [path] => C:/virtualhost/bacoolread/modules/forum
+            [url] => http://www.mianfeidushu.com/modules/forum
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [pay] => Array
+        (
+            [caption] => 在线支付
+            [dir] => /modules/pay
+            [path] => C:/virtualhost/bacoolread/modules/pay
+            [url] => http://www.mianfeidushu.com/modules/pay
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [link] => Array
+        (
+            [caption] => link
+            [dir] => /modules/link
+            [path] => C:/virtualhost/bacoolread/modules/link
+            [url] => http://www.mianfeidushu.com/modules/link
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [badge] => Array
+        (
+            [caption] => badge
+            [dir] => /modules/badge
+            [path] => C:/virtualhost/bacoolread/modules/badge
+            [url] => http://www.mianfeidushu.com/modules/badge
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [news] => Array
+        (
+            [caption] => news
+            [dir] => /modules/news
+            [path] => C:/virtualhost/bacoolread/modules/news
+            [url] => http://www.mianfeidushu.com/modules/news
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [fuli] => Array
+        (
+            [caption] => fuli
+            [dir] => /modules/fuli
+            [path] => C:/virtualhost/bacoolread/modules/fuli
+            [url] => http://www.mianfeidushu.com/modules/fuli
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+)
+jieqi_url_article_article
+$jieqiModules = Array
+(
+    [system] => Array
+        (
+            [caption] => 系统功能
+            [dir] => 
+            [path] => C:/virtualhost/bacoolread
+            [url] => http://www.mianfeidushu.com
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [article] => Array
+        (
+            [caption] => 小说连载
+            [dir] => /modules/article
+            [path] => C:/virtualhost/bacoolread/modules/article
+            [url] => http://www.mianfeidushu.com/modules/article
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [obook] => Array
+        (
+            [caption] => 在线电子书
+            [dir] => /modules/obook
+            [path] => C:/virtualhost/bacoolread/modules/obook
+            [url] => http://www.mianfeidushu.com/modules/obook
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [forum] => Array
+        (
+            [caption] => 交流论坛
+            [dir] => /modules/forum
+            [path] => C:/virtualhost/bacoolread/modules/forum
+            [url] => http://www.mianfeidushu.com/modules/forum
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [pay] => Array
+        (
+            [caption] => 在线支付
+            [dir] => /modules/pay
+            [path] => C:/virtualhost/bacoolread/modules/pay
+            [url] => http://www.mianfeidushu.com/modules/pay
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [link] => Array
+        (
+            [caption] => link
+            [dir] => /modules/link
+            [path] => C:/virtualhost/bacoolread/modules/link
+            [url] => http://www.mianfeidushu.com/modules/link
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [badge] => Array
+        (
+            [caption] => badge
+            [dir] => /modules/badge
+            [path] => C:/virtualhost/bacoolread/modules/badge
+            [url] => http://www.mianfeidushu.com/modules/badge
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [news] => Array
+        (
+            [caption] => news
+            [dir] => /modules/news
+            [path] => C:/virtualhost/bacoolread/modules/news
+            [url] => http://www.mianfeidushu.com/modules/news
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [fuli] => Array
+        (
+            [caption] => fuli
+            [dir] => /modules/fuli
+            [path] => C:/virtualhost/bacoolread/modules/fuli
+            [url] => http://www.mianfeidushu.com/modules/fuli
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+)
+jieqi_url_system_user
+$jieqiModules = Array
+(
+    [system] => Array
+        (
+            [caption] => 系统功能
+            [dir] => 
+            [path] => C:/virtualhost/bacoolread
+            [url] => http://www.mianfeidushu.com
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [article] => Array
+        (
+            [caption] => 小说连载
+            [dir] => /modules/article
+            [path] => C:/virtualhost/bacoolread/modules/article
+            [url] => http://www.mianfeidushu.com/modules/article
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [obook] => Array
+        (
+            [caption] => 在线电子书
+            [dir] => /modules/obook
+            [path] => C:/virtualhost/bacoolread/modules/obook
+            [url] => http://www.mianfeidushu.com/modules/obook
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [forum] => Array
+        (
+            [caption] => 交流论坛
+            [dir] => /modules/forum
+            [path] => C:/virtualhost/bacoolread/modules/forum
+            [url] => http://www.mianfeidushu.com/modules/forum
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [pay] => Array
+        (
+            [caption] => 在线支付
+            [dir] => /modules/pay
+            [path] => C:/virtualhost/bacoolread/modules/pay
+            [url] => http://www.mianfeidushu.com/modules/pay
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [link] => Array
+        (
+            [caption] => link
+            [dir] => /modules/link
+            [path] => C:/virtualhost/bacoolread/modules/link
+            [url] => http://www.mianfeidushu.com/modules/link
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [badge] => Array
+        (
+            [caption] => badge
+            [dir] => /modules/badge
+            [path] => C:/virtualhost/bacoolread/modules/badge
+            [url] => http://www.mianfeidushu.com/modules/badge
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [news] => Array
+        (
+            [caption] => news
+            [dir] => /modules/news
+            [path] => C:/virtualhost/bacoolread/modules/news
+            [url] => http://www.mianfeidushu.com/modules/news
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [fuli] => Array
+        (
+            [caption] => fuli
+            [dir] => /modules/fuli
+            [path] => C:/virtualhost/bacoolread/modules/fuli
+            [url] => http://www.mianfeidushu.com/modules/fuli
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+)
+jieqi_url_system_users
+$jieqiModules = Array
+(
+    [system] => Array
+        (
+            [caption] => 系统功能
+            [dir] => 
+            [path] => C:/virtualhost/bacoolread
+            [url] => http://www.mianfeidushu.com
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [article] => Array
+        (
+            [caption] => 小说连载
+            [dir] => /modules/article
+            [path] => C:/virtualhost/bacoolread/modules/article
+            [url] => http://www.mianfeidushu.com/modules/article
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [obook] => Array
+        (
+            [caption] => 在线电子书
+            [dir] => /modules/obook
+            [path] => C:/virtualhost/bacoolread/modules/obook
+            [url] => http://www.mianfeidushu.com/modules/obook
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [forum] => Array
+        (
+            [caption] => 交流论坛
+            [dir] => /modules/forum
+            [path] => C:/virtualhost/bacoolread/modules/forum
+            [url] => http://www.mianfeidushu.com/modules/forum
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [pay] => Array
+        (
+            [caption] => 在线支付
+            [dir] => /modules/pay
+            [path] => C:/virtualhost/bacoolread/modules/pay
+            [url] => http://www.mianfeidushu.com/modules/pay
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [link] => Array
+        (
+            [caption] => link
+            [dir] => /modules/link
+            [path] => C:/virtualhost/bacoolread/modules/link
+            [url] => http://www.mianfeidushu.com/modules/link
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [badge] => Array
+        (
+            [caption] => badge
+            [dir] => /modules/badge
+            [path] => C:/virtualhost/bacoolread/modules/badge
+            [url] => http://www.mianfeidushu.com/modules/badge
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [news] => Array
+        (
+            [caption] => news
+            [dir] => /modules/news
+            [path] => C:/virtualhost/bacoolread/modules/news
+            [url] => http://www.mianfeidushu.com/modules/news
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [fuli] => Array
+        (
+            [caption] => fuli
+            [dir] => /modules/fuli
+            [path] => C:/virtualhost/bacoolread/modules/fuli
+            [url] => http://www.mianfeidushu.com/modules/fuli
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+)
+jieqi_url_system_users
+$jieqiModules = Array
+(
+    [system] => Array
+        (
+            [caption] => 系统功能
+            [dir] => 
+            [path] => C:/virtualhost/bacoolread
+            [url] => http://www.mianfeidushu.com
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [article] => Array
+        (
+            [caption] => 小说连载
+            [dir] => /modules/article
+            [path] => C:/virtualhost/bacoolread/modules/article
+            [url] => http://www.mianfeidushu.com/modules/article
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [obook] => Array
+        (
+            [caption] => 在线电子书
+            [dir] => /modules/obook
+            [path] => C:/virtualhost/bacoolread/modules/obook
+            [url] => http://www.mianfeidushu.com/modules/obook
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [forum] => Array
+        (
+            [caption] => 交流论坛
+            [dir] => /modules/forum
+            [path] => C:/virtualhost/bacoolread/modules/forum
+            [url] => http://www.mianfeidushu.com/modules/forum
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [pay] => Array
+        (
+            [caption] => 在线支付
+            [dir] => /modules/pay
+            [path] => C:/virtualhost/bacoolread/modules/pay
+            [url] => http://www.mianfeidushu.com/modules/pay
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [link] => Array
+        (
+            [caption] => link
+            [dir] => /modules/link
+            [path] => C:/virtualhost/bacoolread/modules/link
+            [url] => http://www.mianfeidushu.com/modules/link
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [badge] => Array
+        (
+            [caption] => badge
+            [dir] => /modules/badge
+            [path] => C:/virtualhost/bacoolread/modules/badge
+            [url] => http://www.mianfeidushu.com/modules/badge
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [news] => Array
+        (
+            [caption] => news
+            [dir] => /modules/news
+            [path] => C:/virtualhost/bacoolread/modules/news
+            [url] => http://www.mianfeidushu.com/modules/news
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [fuli] => Array
+        (
+            [caption] => fuli
+            [dir] => /modules/fuli
+            [path] => C:/virtualhost/bacoolread/modules/fuli
+            [url] => http://www.mianfeidushu.com/modules/fuli
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+)
+jieqi_url_system_users
+$jieqiModules = Array
+(
+    [system] => Array
+        (
+            [caption] => 系统功能
+            [dir] => 
+            [path] => C:/virtualhost/bacoolread
+            [url] => http://www.mianfeidushu.com
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [article] => Array
+        (
+            [caption] => 小说连载
+            [dir] => /modules/article
+            [path] => C:/virtualhost/bacoolread/modules/article
+            [url] => http://www.mianfeidushu.com/modules/article
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [obook] => Array
+        (
+            [caption] => 在线电子书
+            [dir] => /modules/obook
+            [path] => C:/virtualhost/bacoolread/modules/obook
+            [url] => http://www.mianfeidushu.com/modules/obook
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [forum] => Array
+        (
+            [caption] => 交流论坛
+            [dir] => /modules/forum
+            [path] => C:/virtualhost/bacoolread/modules/forum
+            [url] => http://www.mianfeidushu.com/modules/forum
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [pay] => Array
+        (
+            [caption] => 在线支付
+            [dir] => /modules/pay
+            [path] => C:/virtualhost/bacoolread/modules/pay
+            [url] => http://www.mianfeidushu.com/modules/pay
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [link] => Array
+        (
+            [caption] => link
+            [dir] => /modules/link
+            [path] => C:/virtualhost/bacoolread/modules/link
+            [url] => http://www.mianfeidushu.com/modules/link
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [badge] => Array
+        (
+            [caption] => badge
+            [dir] => /modules/badge
+            [path] => C:/virtualhost/bacoolread/modules/badge
+            [url] => http://www.mianfeidushu.com/modules/badge
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [news] => Array
+        (
+            [caption] => news
+            [dir] => /modules/news
+            [path] => C:/virtualhost/bacoolread/modules/news
+            [url] => http://www.mianfeidushu.com/modules/news
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [fuli] => Array
+        (
+            [caption] => fuli
+            [dir] => /modules/fuli
+            [path] => C:/virtualhost/bacoolread/modules/fuli
+            [url] => http://www.mianfeidushu.com/modules/fuli
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+)
+jieqi_url_article_bookcase
+$jieqiModules = Array
+(
+    [system] => Array
+        (
+            [caption] => 系统功能
+            [dir] => 
+            [path] => C:/virtualhost/bacoolread
+            [url] => http://www.mianfeidushu.com
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [article] => Array
+        (
+            [caption] => 小说连载
+            [dir] => /modules/article
+            [path] => C:/virtualhost/bacoolread/modules/article
+            [url] => http://www.mianfeidushu.com/modules/article
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [obook] => Array
+        (
+            [caption] => 在线电子书
+            [dir] => /modules/obook
+            [path] => C:/virtualhost/bacoolread/modules/obook
+            [url] => http://www.mianfeidushu.com/modules/obook
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [forum] => Array
+        (
+            [caption] => 交流论坛
+            [dir] => /modules/forum
+            [path] => C:/virtualhost/bacoolread/modules/forum
+            [url] => http://www.mianfeidushu.com/modules/forum
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [pay] => Array
+        (
+            [caption] => 在线支付
+            [dir] => /modules/pay
+            [path] => C:/virtualhost/bacoolread/modules/pay
+            [url] => http://www.mianfeidushu.com/modules/pay
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [link] => Array
+        (
+            [caption] => link
+            [dir] => /modules/link
+            [path] => C:/virtualhost/bacoolread/modules/link
+            [url] => http://www.mianfeidushu.com/modules/link
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [badge] => Array
+        (
+            [caption] => badge
+            [dir] => /modules/badge
+            [path] => C:/virtualhost/bacoolread/modules/badge
+            [url] => http://www.mianfeidushu.com/modules/badge
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [news] => Array
+        (
+            [caption] => news
+            [dir] => /modules/news
+            [path] => C:/virtualhost/bacoolread/modules/news
+            [url] => http://www.mianfeidushu.com/modules/news
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [fuli] => Array
+        (
+            [caption] => fuli
+            [dir] => /modules/fuli
+            [path] => C:/virtualhost/bacoolread/modules/fuli
+            [url] => http://www.mianfeidushu.com/modules/fuli
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+)
+jieqi_url_system_avatar
+$jieqiModules = Array
+(
+    [system] => Array
+        (
+            [caption] => 系统功能
+            [dir] => 
+            [path] => C:/virtualhost/bacoolread
+            [url] => http://www.mianfeidushu.com
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [article] => Array
+        (
+            [caption] => 小说连载
+            [dir] => /modules/article
+            [path] => C:/virtualhost/bacoolread/modules/article
+            [url] => http://www.mianfeidushu.com/modules/article
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [obook] => Array
+        (
+            [caption] => 在线电子书
+            [dir] => /modules/obook
+            [path] => C:/virtualhost/bacoolread/modules/obook
+            [url] => http://www.mianfeidushu.com/modules/obook
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [forum] => Array
+        (
+            [caption] => 交流论坛
+            [dir] => /modules/forum
+            [path] => C:/virtualhost/bacoolread/modules/forum
+            [url] => http://www.mianfeidushu.com/modules/forum
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [pay] => Array
+        (
+            [caption] => 在线支付
+            [dir] => /modules/pay
+            [path] => C:/virtualhost/bacoolread/modules/pay
+            [url] => http://www.mianfeidushu.com/modules/pay
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [link] => Array
+        (
+            [caption] => link
+            [dir] => /modules/link
+            [path] => C:/virtualhost/bacoolread/modules/link
+            [url] => http://www.mianfeidushu.com/modules/link
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [badge] => Array
+        (
+            [caption] => badge
+            [dir] => /modules/badge
+            [path] => C:/virtualhost/bacoolread/modules/badge
+            [url] => http://www.mianfeidushu.com/modules/badge
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [news] => Array
+        (
+            [caption] => news
+            [dir] => /modules/news
+            [path] => C:/virtualhost/bacoolread/modules/news
+            [url] => http://www.mianfeidushu.com/modules/news
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [fuli] => Array
+        (
+            [caption] => fuli
+            [dir] => /modules/fuli
+            [path] => C:/virtualhost/bacoolread/modules/fuli
+            [url] => http://www.mianfeidushu.com/modules/fuli
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+)
+jieqi_url_article_bookcase
+$jieqiModules = Array
+(
+    [system] => Array
+        (
+            [caption] => 系统功能
+            [dir] => 
+            [path] => C:/virtualhost/bacoolread
+            [url] => http://www.mianfeidushu.com
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [article] => Array
+        (
+            [caption] => 小说连载
+            [dir] => /modules/article
+            [path] => C:/virtualhost/bacoolread/modules/article
+            [url] => http://www.mianfeidushu.com/modules/article
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [obook] => Array
+        (
+            [caption] => 在线电子书
+            [dir] => /modules/obook
+            [path] => C:/virtualhost/bacoolread/modules/obook
+            [url] => http://www.mianfeidushu.com/modules/obook
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [forum] => Array
+        (
+            [caption] => 交流论坛
+            [dir] => /modules/forum
+            [path] => C:/virtualhost/bacoolread/modules/forum
+            [url] => http://www.mianfeidushu.com/modules/forum
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [pay] => Array
+        (
+            [caption] => 在线支付
+            [dir] => /modules/pay
+            [path] => C:/virtualhost/bacoolread/modules/pay
+            [url] => http://www.mianfeidushu.com/modules/pay
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [link] => Array
+        (
+            [caption] => link
+            [dir] => /modules/link
+            [path] => C:/virtualhost/bacoolread/modules/link
+            [url] => http://www.mianfeidushu.com/modules/link
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [badge] => Array
+        (
+            [caption] => badge
+            [dir] => /modules/badge
+            [path] => C:/virtualhost/bacoolread/modules/badge
+            [url] => http://www.mianfeidushu.com/modules/badge
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [news] => Array
+        (
+            [caption] => news
+            [dir] => /modules/news
+            [path] => C:/virtualhost/bacoolread/modules/news
+            [url] => http://www.mianfeidushu.com/modules/news
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [fuli] => Array
+        (
+            [caption] => fuli
+            [dir] => /modules/fuli
+            [path] => C:/virtualhost/bacoolread/modules/fuli
+            [url] => http://www.mianfeidushu.com/modules/fuli
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+)
+jieqi_url_system_users
+$jieqiModules = Array
+(
+    [system] => Array
+        (
+            [caption] => 系统功能
+            [dir] => 
+            [path] => C:/virtualhost/bacoolread
+            [url] => http://www.mianfeidushu.com
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [article] => Array
+        (
+            [caption] => 小说连载
+            [dir] => /modules/article
+            [path] => C:/virtualhost/bacoolread/modules/article
+            [url] => http://www.mianfeidushu.com/modules/article
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [obook] => Array
+        (
+            [caption] => 在线电子书
+            [dir] => /modules/obook
+            [path] => C:/virtualhost/bacoolread/modules/obook
+            [url] => http://www.mianfeidushu.com/modules/obook
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [forum] => Array
+        (
+            [caption] => 交流论坛
+            [dir] => /modules/forum
+            [path] => C:/virtualhost/bacoolread/modules/forum
+            [url] => http://www.mianfeidushu.com/modules/forum
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [pay] => Array
+        (
+            [caption] => 在线支付
+            [dir] => /modules/pay
+            [path] => C:/virtualhost/bacoolread/modules/pay
+            [url] => http://www.mianfeidushu.com/modules/pay
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [link] => Array
+        (
+            [caption] => link
+            [dir] => /modules/link
+            [path] => C:/virtualhost/bacoolread/modules/link
+            [url] => http://www.mianfeidushu.com/modules/link
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [badge] => Array
+        (
+            [caption] => badge
+            [dir] => /modules/badge
+            [path] => C:/virtualhost/bacoolread/modules/badge
+            [url] => http://www.mianfeidushu.com/modules/badge
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [news] => Array
+        (
+            [caption] => news
+            [dir] => /modules/news
+            [path] => C:/virtualhost/bacoolread/modules/news
+            [url] => http://www.mianfeidushu.com/modules/news
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [fuli] => Array
+        (
+            [caption] => fuli
+            [dir] => /modules/fuli
+            [path] => C:/virtualhost/bacoolread/modules/fuli
+            [url] => http://www.mianfeidushu.com/modules/fuli
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+)
+jieqi_url_system_users
+$jieqiModules = Array
+(
+    [system] => Array
+        (
+            [caption] => 系统功能
+            [dir] => 
+            [path] => C:/virtualhost/bacoolread
+            [url] => http://www.mianfeidushu.com
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [article] => Array
+        (
+            [caption] => 小说连载
+            [dir] => /modules/article
+            [path] => C:/virtualhost/bacoolread/modules/article
+            [url] => http://www.mianfeidushu.com/modules/article
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [obook] => Array
+        (
+            [caption] => 在线电子书
+            [dir] => /modules/obook
+            [path] => C:/virtualhost/bacoolread/modules/obook
+            [url] => http://www.mianfeidushu.com/modules/obook
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [forum] => Array
+        (
+            [caption] => 交流论坛
+            [dir] => /modules/forum
+            [path] => C:/virtualhost/bacoolread/modules/forum
+            [url] => http://www.mianfeidushu.com/modules/forum
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [pay] => Array
+        (
+            [caption] => 在线支付
+            [dir] => /modules/pay
+            [path] => C:/virtualhost/bacoolread/modules/pay
+            [url] => http://www.mianfeidushu.com/modules/pay
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [link] => Array
+        (
+            [caption] => link
+            [dir] => /modules/link
+            [path] => C:/virtualhost/bacoolread/modules/link
+            [url] => http://www.mianfeidushu.com/modules/link
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [badge] => Array
+        (
+            [caption] => badge
+            [dir] => /modules/badge
+            [path] => C:/virtualhost/bacoolread/modules/badge
+            [url] => http://www.mianfeidushu.com/modules/badge
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [news] => Array
+        (
+            [caption] => news
+            [dir] => /modules/news
+            [path] => C:/virtualhost/bacoolread/modules/news
+            [url] => http://www.mianfeidushu.com/modules/news
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [fuli] => Array
+        (
+            [caption] => fuli
+            [dir] => /modules/fuli
+            [path] => C:/virtualhost/bacoolread/modules/fuli
+            [url] => http://www.mianfeidushu.com/modules/fuli
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+)
+jieqi_url_system_users
+$jieqiModules = Array
+(
+    [system] => Array
+        (
+            [caption] => 系统功能
+            [dir] => 
+            [path] => C:/virtualhost/bacoolread
+            [url] => http://www.mianfeidushu.com
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [article] => Array
+        (
+            [caption] => 小说连载
+            [dir] => /modules/article
+            [path] => C:/virtualhost/bacoolread/modules/article
+            [url] => http://www.mianfeidushu.com/modules/article
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [obook] => Array
+        (
+            [caption] => 在线电子书
+            [dir] => /modules/obook
+            [path] => C:/virtualhost/bacoolread/modules/obook
+            [url] => http://www.mianfeidushu.com/modules/obook
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [forum] => Array
+        (
+            [caption] => 交流论坛
+            [dir] => /modules/forum
+            [path] => C:/virtualhost/bacoolread/modules/forum
+            [url] => http://www.mianfeidushu.com/modules/forum
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [pay] => Array
+        (
+            [caption] => 在线支付
+            [dir] => /modules/pay
+            [path] => C:/virtualhost/bacoolread/modules/pay
+            [url] => http://www.mianfeidushu.com/modules/pay
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [link] => Array
+        (
+            [caption] => link
+            [dir] => /modules/link
+            [path] => C:/virtualhost/bacoolread/modules/link
+            [url] => http://www.mianfeidushu.com/modules/link
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [badge] => Array
+        (
+            [caption] => badge
+            [dir] => /modules/badge
+            [path] => C:/virtualhost/bacoolread/modules/badge
+            [url] => http://www.mianfeidushu.com/modules/badge
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [news] => Array
+        (
+            [caption] => news
+            [dir] => /modules/news
+            [path] => C:/virtualhost/bacoolread/modules/news
+            [url] => http://www.mianfeidushu.com/modules/news
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [fuli] => Array
+        (
+            [caption] => fuli
+            [dir] => /modules/fuli
+            [path] => C:/virtualhost/bacoolread/modules/fuli
+            [url] => http://www.mianfeidushu.com/modules/fuli
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+)
+jieqi_url_system_users
+$jieqiModules = Array
+(
+    [system] => Array
+        (
+            [caption] => 系统功能
+            [dir] => 
+            [path] => C:/virtualhost/bacoolread
+            [url] => http://www.mianfeidushu.com
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [article] => Array
+        (
+            [caption] => 小说连载
+            [dir] => /modules/article
+            [path] => C:/virtualhost/bacoolread/modules/article
+            [url] => http://www.mianfeidushu.com/modules/article
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [obook] => Array
+        (
+            [caption] => 在线电子书
+            [dir] => /modules/obook
+            [path] => C:/virtualhost/bacoolread/modules/obook
+            [url] => http://www.mianfeidushu.com/modules/obook
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [forum] => Array
+        (
+            [caption] => 交流论坛
+            [dir] => /modules/forum
+            [path] => C:/virtualhost/bacoolread/modules/forum
+            [url] => http://www.mianfeidushu.com/modules/forum
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [pay] => Array
+        (
+            [caption] => 在线支付
+            [dir] => /modules/pay
+            [path] => C:/virtualhost/bacoolread/modules/pay
+            [url] => http://www.mianfeidushu.com/modules/pay
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [link] => Array
+        (
+            [caption] => link
+            [dir] => /modules/link
+            [path] => C:/virtualhost/bacoolread/modules/link
+            [url] => http://www.mianfeidushu.com/modules/link
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [badge] => Array
+        (
+            [caption] => badge
+            [dir] => /modules/badge
+            [path] => C:/virtualhost/bacoolread/modules/badge
+            [url] => http://www.mianfeidushu.com/modules/badge
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [news] => Array
+        (
+            [caption] => news
+            [dir] => /modules/news
+            [path] => C:/virtualhost/bacoolread/modules/news
+            [url] => http://www.mianfeidushu.com/modules/news
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [fuli] => Array
+        (
+            [caption] => fuli
+            [dir] => /modules/fuli
+            [path] => C:/virtualhost/bacoolread/modules/fuli
+            [url] => http://www.mianfeidushu.com/modules/fuli
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+)
+jieqi_url_article_bookcase
+$jieqiModules = Array
+(
+    [system] => Array
+        (
+            [caption] => 系统功能
+            [dir] => 
+            [path] => C:/virtualhost/bacoolread
+            [url] => http://www.mianfeidushu.com
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [article] => Array
+        (
+            [caption] => 小说连载
+            [dir] => /modules/article
+            [path] => C:/virtualhost/bacoolread/modules/article
+            [url] => http://www.mianfeidushu.com/modules/article
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [obook] => Array
+        (
+            [caption] => 在线电子书
+            [dir] => /modules/obook
+            [path] => C:/virtualhost/bacoolread/modules/obook
+            [url] => http://www.mianfeidushu.com/modules/obook
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [forum] => Array
+        (
+            [caption] => 交流论坛
+            [dir] => /modules/forum
+            [path] => C:/virtualhost/bacoolread/modules/forum
+            [url] => http://www.mianfeidushu.com/modules/forum
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [pay] => Array
+        (
+            [caption] => 在线支付
+            [dir] => /modules/pay
+            [path] => C:/virtualhost/bacoolread/modules/pay
+            [url] => http://www.mianfeidushu.com/modules/pay
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [link] => Array
+        (
+            [caption] => link
+            [dir] => /modules/link
+            [path] => C:/virtualhost/bacoolread/modules/link
+            [url] => http://www.mianfeidushu.com/modules/link
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [badge] => Array
+        (
+            [caption] => badge
+            [dir] => /modules/badge
+            [path] => C:/virtualhost/bacoolread/modules/badge
+            [url] => http://www.mianfeidushu.com/modules/badge
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [news] => Array
+        (
+            [caption] => news
+            [dir] => /modules/news
+            [path] => C:/virtualhost/bacoolread/modules/news
+            [url] => http://www.mianfeidushu.com/modules/news
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [fuli] => Array
+        (
+            [caption] => fuli
+            [dir] => /modules/fuli
+            [path] => C:/virtualhost/bacoolread/modules/fuli
+            [url] => http://www.mianfeidushu.com/modules/fuli
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+)
+jieqi_url_article_articlelist
+$jieqiModules = Array
+(
+    [system] => Array
+        (
+            [caption] => 系统功能
+            [dir] => 
+            [path] => C:/virtualhost/bacoolread
+            [url] => http://www.mianfeidushu.com
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [article] => Array
+        (
+            [caption] => 小说连载
+            [dir] => /modules/article
+            [path] => C:/virtualhost/bacoolread/modules/article
+            [url] => http://www.mianfeidushu.com/modules/article
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [obook] => Array
+        (
+            [caption] => 在线电子书
+            [dir] => /modules/obook
+            [path] => C:/virtualhost/bacoolread/modules/obook
+            [url] => http://www.mianfeidushu.com/modules/obook
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [forum] => Array
+        (
+            [caption] => 交流论坛
+            [dir] => /modules/forum
+            [path] => C:/virtualhost/bacoolread/modules/forum
+            [url] => http://www.mianfeidushu.com/modules/forum
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [pay] => Array
+        (
+            [caption] => 在线支付
+            [dir] => /modules/pay
+            [path] => C:/virtualhost/bacoolread/modules/pay
+            [url] => http://www.mianfeidushu.com/modules/pay
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [link] => Array
+        (
+            [caption] => link
+            [dir] => /modules/link
+            [path] => C:/virtualhost/bacoolread/modules/link
+            [url] => http://www.mianfeidushu.com/modules/link
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [badge] => Array
+        (
+            [caption] => badge
+            [dir] => /modules/badge
+            [path] => C:/virtualhost/bacoolread/modules/badge
+            [url] => http://www.mianfeidushu.com/modules/badge
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [news] => Array
+        (
+            [caption] => news
+            [dir] => /modules/news
+            [path] => C:/virtualhost/bacoolread/modules/news
+            [url] => http://www.mianfeidushu.com/modules/news
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [fuli] => Array
+        (
+            [caption] => fuli
+            [dir] => /modules/fuli
+            [path] => C:/virtualhost/bacoolread/modules/fuli
+            [url] => http://www.mianfeidushu.com/modules/fuli
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+)
+jieqi_url_article_articlelist
+$jieqiModules = Array
+(
+    [system] => Array
+        (
+            [caption] => 系统功能
+            [dir] => 
+            [path] => C:/virtualhost/bacoolread
+            [url] => http://www.mianfeidushu.com
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [article] => Array
+        (
+            [caption] => 小说连载
+            [dir] => /modules/article
+            [path] => C:/virtualhost/bacoolread/modules/article
+            [url] => http://www.mianfeidushu.com/modules/article
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [obook] => Array
+        (
+            [caption] => 在线电子书
+            [dir] => /modules/obook
+            [path] => C:/virtualhost/bacoolread/modules/obook
+            [url] => http://www.mianfeidushu.com/modules/obook
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [forum] => Array
+        (
+            [caption] => 交流论坛
+            [dir] => /modules/forum
+            [path] => C:/virtualhost/bacoolread/modules/forum
+            [url] => http://www.mianfeidushu.com/modules/forum
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [pay] => Array
+        (
+            [caption] => 在线支付
+            [dir] => /modules/pay
+            [path] => C:/virtualhost/bacoolread/modules/pay
+            [url] => http://www.mianfeidushu.com/modules/pay
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [link] => Array
+        (
+            [caption] => link
+            [dir] => /modules/link
+            [path] => C:/virtualhost/bacoolread/modules/link
+            [url] => http://www.mianfeidushu.com/modules/link
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [badge] => Array
+        (
+            [caption] => badge
+            [dir] => /modules/badge
+            [path] => C:/virtualhost/bacoolread/modules/badge
+            [url] => http://www.mianfeidushu.com/modules/badge
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [news] => Array
+        (
+            [caption] => news
+            [dir] => /modules/news
+            [path] => C:/virtualhost/bacoolread/modules/news
+            [url] => http://www.mianfeidushu.com/modules/news
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [fuli] => Array
+        (
+            [caption] => fuli
+            [dir] => /modules/fuli
+            [path] => C:/virtualhost/bacoolread/modules/fuli
+            [url] => http://www.mianfeidushu.com/modules/fuli
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+)
+jieqi_url_article_articlelist
+$jieqiModules = Array
+(
+    [system] => Array
+        (
+            [caption] => 系统功能
+            [dir] => 
+            [path] => C:/virtualhost/bacoolread
+            [url] => http://www.mianfeidushu.com
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [article] => Array
+        (
+            [caption] => 小说连载
+            [dir] => /modules/article
+            [path] => C:/virtualhost/bacoolread/modules/article
+            [url] => http://www.mianfeidushu.com/modules/article
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [obook] => Array
+        (
+            [caption] => 在线电子书
+            [dir] => /modules/obook
+            [path] => C:/virtualhost/bacoolread/modules/obook
+            [url] => http://www.mianfeidushu.com/modules/obook
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [forum] => Array
+        (
+            [caption] => 交流论坛
+            [dir] => /modules/forum
+            [path] => C:/virtualhost/bacoolread/modules/forum
+            [url] => http://www.mianfeidushu.com/modules/forum
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [pay] => Array
+        (
+            [caption] => 在线支付
+            [dir] => /modules/pay
+            [path] => C:/virtualhost/bacoolread/modules/pay
+            [url] => http://www.mianfeidushu.com/modules/pay
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [link] => Array
+        (
+            [caption] => link
+            [dir] => /modules/link
+            [path] => C:/virtualhost/bacoolread/modules/link
+            [url] => http://www.mianfeidushu.com/modules/link
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [badge] => Array
+        (
+            [caption] => badge
+            [dir] => /modules/badge
+            [path] => C:/virtualhost/bacoolread/modules/badge
+            [url] => http://www.mianfeidushu.com/modules/badge
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [news] => Array
+        (
+            [caption] => news
+            [dir] => /modules/news
+            [path] => C:/virtualhost/bacoolread/modules/news
+            [url] => http://www.mianfeidushu.com/modules/news
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [fuli] => Array
+        (
+            [caption] => fuli
+            [dir] => /modules/fuli
+            [path] => C:/virtualhost/bacoolread/modules/fuli
+            [url] => http://www.mianfeidushu.com/modules/fuli
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+)
+jieqi_url_article_articlelist
+$jieqiModules = Array
+(
+    [system] => Array
+        (
+            [caption] => 系统功能
+            [dir] => 
+            [path] => C:/virtualhost/bacoolread
+            [url] => http://www.mianfeidushu.com
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [article] => Array
+        (
+            [caption] => 小说连载
+            [dir] => /modules/article
+            [path] => C:/virtualhost/bacoolread/modules/article
+            [url] => http://www.mianfeidushu.com/modules/article
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [obook] => Array
+        (
+            [caption] => 在线电子书
+            [dir] => /modules/obook
+            [path] => C:/virtualhost/bacoolread/modules/obook
+            [url] => http://www.mianfeidushu.com/modules/obook
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [forum] => Array
+        (
+            [caption] => 交流论坛
+            [dir] => /modules/forum
+            [path] => C:/virtualhost/bacoolread/modules/forum
+            [url] => http://www.mianfeidushu.com/modules/forum
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [pay] => Array
+        (
+            [caption] => 在线支付
+            [dir] => /modules/pay
+            [path] => C:/virtualhost/bacoolread/modules/pay
+            [url] => http://www.mianfeidushu.com/modules/pay
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [link] => Array
+        (
+            [caption] => link
+            [dir] => /modules/link
+            [path] => C:/virtualhost/bacoolread/modules/link
+            [url] => http://www.mianfeidushu.com/modules/link
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [badge] => Array
+        (
+            [caption] => badge
+            [dir] => /modules/badge
+            [path] => C:/virtualhost/bacoolread/modules/badge
+            [url] => http://www.mianfeidushu.com/modules/badge
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [news] => Array
+        (
+            [caption] => news
+            [dir] => /modules/news
+            [path] => C:/virtualhost/bacoolread/modules/news
+            [url] => http://www.mianfeidushu.com/modules/news
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [fuli] => Array
+        (
+            [caption] => fuli
+            [dir] => /modules/fuli
+            [path] => C:/virtualhost/bacoolread/modules/fuli
+            [url] => http://www.mianfeidushu.com/modules/fuli
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+)
+jieqi_url_article_articlelist
+$jieqiModules = Array
+(
+    [system] => Array
+        (
+            [caption] => 系统功能
+            [dir] => 
+            [path] => C:/virtualhost/bacoolread
+            [url] => http://www.mianfeidushu.com
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [article] => Array
+        (
+            [caption] => 小说连载
+            [dir] => /modules/article
+            [path] => C:/virtualhost/bacoolread/modules/article
+            [url] => http://www.mianfeidushu.com/modules/article
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [obook] => Array
+        (
+            [caption] => 在线电子书
+            [dir] => /modules/obook
+            [path] => C:/virtualhost/bacoolread/modules/obook
+            [url] => http://www.mianfeidushu.com/modules/obook
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [forum] => Array
+        (
+            [caption] => 交流论坛
+            [dir] => /modules/forum
+            [path] => C:/virtualhost/bacoolread/modules/forum
+            [url] => http://www.mianfeidushu.com/modules/forum
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [pay] => Array
+        (
+            [caption] => 在线支付
+            [dir] => /modules/pay
+            [path] => C:/virtualhost/bacoolread/modules/pay
+            [url] => http://www.mianfeidushu.com/modules/pay
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [link] => Array
+        (
+            [caption] => link
+            [dir] => /modules/link
+            [path] => C:/virtualhost/bacoolread/modules/link
+            [url] => http://www.mianfeidushu.com/modules/link
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [badge] => Array
+        (
+            [caption] => badge
+            [dir] => /modules/badge
+            [path] => C:/virtualhost/bacoolread/modules/badge
+            [url] => http://www.mianfeidushu.com/modules/badge
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [news] => Array
+        (
+            [caption] => news
+            [dir] => /modules/news
+            [path] => C:/virtualhost/bacoolread/modules/news
+            [url] => http://www.mianfeidushu.com/modules/news
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [fuli] => Array
+        (
+            [caption] => fuli
+            [dir] => /modules/fuli
+            [path] => C:/virtualhost/bacoolread/modules/fuli
+            [url] => http://www.mianfeidushu.com/modules/fuli
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+)
+jieqi_url_article_articlelist
+$jieqiModules = Array
+(
+    [system] => Array
+        (
+            [caption] => 系统功能
+            [dir] => 
+            [path] => C:/virtualhost/bacoolread
+            [url] => http://www.mianfeidushu.com
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [article] => Array
+        (
+            [caption] => 小说连载
+            [dir] => /modules/article
+            [path] => C:/virtualhost/bacoolread/modules/article
+            [url] => http://www.mianfeidushu.com/modules/article
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [obook] => Array
+        (
+            [caption] => 在线电子书
+            [dir] => /modules/obook
+            [path] => C:/virtualhost/bacoolread/modules/obook
+            [url] => http://www.mianfeidushu.com/modules/obook
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [forum] => Array
+        (
+            [caption] => 交流论坛
+            [dir] => /modules/forum
+            [path] => C:/virtualhost/bacoolread/modules/forum
+            [url] => http://www.mianfeidushu.com/modules/forum
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [pay] => Array
+        (
+            [caption] => 在线支付
+            [dir] => /modules/pay
+            [path] => C:/virtualhost/bacoolread/modules/pay
+            [url] => http://www.mianfeidushu.com/modules/pay
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [link] => Array
+        (
+            [caption] => link
+            [dir] => /modules/link
+            [path] => C:/virtualhost/bacoolread/modules/link
+            [url] => http://www.mianfeidushu.com/modules/link
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [badge] => Array
+        (
+            [caption] => badge
+            [dir] => /modules/badge
+            [path] => C:/virtualhost/bacoolread/modules/badge
+            [url] => http://www.mianfeidushu.com/modules/badge
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [news] => Array
+        (
+            [caption] => news
+            [dir] => /modules/news
+            [path] => C:/virtualhost/bacoolread/modules/news
+            [url] => http://www.mianfeidushu.com/modules/news
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [fuli] => Array
+        (
+            [caption] => fuli
+            [dir] => /modules/fuli
+            [path] => C:/virtualhost/bacoolread/modules/fuli
+            [url] => http://www.mianfeidushu.com/modules/fuli
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+)
+jieqi_url_article_articlelist
+$jieqiModules = Array
+(
+    [system] => Array
+        (
+            [caption] => 系统功能
+            [dir] => 
+            [path] => C:/virtualhost/bacoolread
+            [url] => http://www.mianfeidushu.com
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [article] => Array
+        (
+            [caption] => 小说连载
+            [dir] => /modules/article
+            [path] => C:/virtualhost/bacoolread/modules/article
+            [url] => http://www.mianfeidushu.com/modules/article
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [obook] => Array
+        (
+            [caption] => 在线电子书
+            [dir] => /modules/obook
+            [path] => C:/virtualhost/bacoolread/modules/obook
+            [url] => http://www.mianfeidushu.com/modules/obook
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [forum] => Array
+        (
+            [caption] => 交流论坛
+            [dir] => /modules/forum
+            [path] => C:/virtualhost/bacoolread/modules/forum
+            [url] => http://www.mianfeidushu.com/modules/forum
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [pay] => Array
+        (
+            [caption] => 在线支付
+            [dir] => /modules/pay
+            [path] => C:/virtualhost/bacoolread/modules/pay
+            [url] => http://www.mianfeidushu.com/modules/pay
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [link] => Array
+        (
+            [caption] => link
+            [dir] => /modules/link
+            [path] => C:/virtualhost/bacoolread/modules/link
+            [url] => http://www.mianfeidushu.com/modules/link
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [badge] => Array
+        (
+            [caption] => badge
+            [dir] => /modules/badge
+            [path] => C:/virtualhost/bacoolread/modules/badge
+            [url] => http://www.mianfeidushu.com/modules/badge
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [news] => Array
+        (
+            [caption] => news
+            [dir] => /modules/news
+            [path] => C:/virtualhost/bacoolread/modules/news
+            [url] => http://www.mianfeidushu.com/modules/news
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [fuli] => Array
+        (
+            [caption] => fuli
+            [dir] => /modules/fuli
+            [path] => C:/virtualhost/bacoolread/modules/fuli
+            [url] => http://www.mianfeidushu.com/modules/fuli
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+)
+jieqi_url_article_articlelist
+$jieqiModules = Array
+(
+    [system] => Array
+        (
+            [caption] => 系统功能
+            [dir] => 
+            [path] => C:/virtualhost/bacoolread
+            [url] => http://www.mianfeidushu.com
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [article] => Array
+        (
+            [caption] => 小说连载
+            [dir] => /modules/article
+            [path] => C:/virtualhost/bacoolread/modules/article
+            [url] => http://www.mianfeidushu.com/modules/article
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [obook] => Array
+        (
+            [caption] => 在线电子书
+            [dir] => /modules/obook
+            [path] => C:/virtualhost/bacoolread/modules/obook
+            [url] => http://www.mianfeidushu.com/modules/obook
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [forum] => Array
+        (
+            [caption] => 交流论坛
+            [dir] => /modules/forum
+            [path] => C:/virtualhost/bacoolread/modules/forum
+            [url] => http://www.mianfeidushu.com/modules/forum
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [pay] => Array
+        (
+            [caption] => 在线支付
+            [dir] => /modules/pay
+            [path] => C:/virtualhost/bacoolread/modules/pay
+            [url] => http://www.mianfeidushu.com/modules/pay
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [link] => Array
+        (
+            [caption] => link
+            [dir] => /modules/link
+            [path] => C:/virtualhost/bacoolread/modules/link
+            [url] => http://www.mianfeidushu.com/modules/link
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [badge] => Array
+        (
+            [caption] => badge
+            [dir] => /modules/badge
+            [path] => C:/virtualhost/bacoolread/modules/badge
+            [url] => http://www.mianfeidushu.com/modules/badge
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [news] => Array
+        (
+            [caption] => news
+            [dir] => /modules/news
+            [path] => C:/virtualhost/bacoolread/modules/news
+            [url] => http://www.mianfeidushu.com/modules/news
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [fuli] => Array
+        (
+            [caption] => fuli
+            [dir] => /modules/fuli
+            [path] => C:/virtualhost/bacoolread/modules/fuli
+            [url] => http://www.mianfeidushu.com/modules/fuli
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+)
+jieqi_url_article_articlelist
+$jieqiModules = Array
+(
+    [system] => Array
+        (
+            [caption] => 系统功能
+            [dir] => 
+            [path] => C:/virtualhost/bacoolread
+            [url] => http://www.mianfeidushu.com
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [article] => Array
+        (
+            [caption] => 小说连载
+            [dir] => /modules/article
+            [path] => C:/virtualhost/bacoolread/modules/article
+            [url] => http://www.mianfeidushu.com/modules/article
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [obook] => Array
+        (
+            [caption] => 在线电子书
+            [dir] => /modules/obook
+            [path] => C:/virtualhost/bacoolread/modules/obook
+            [url] => http://www.mianfeidushu.com/modules/obook
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [forum] => Array
+        (
+            [caption] => 交流论坛
+            [dir] => /modules/forum
+            [path] => C:/virtualhost/bacoolread/modules/forum
+            [url] => http://www.mianfeidushu.com/modules/forum
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [pay] => Array
+        (
+            [caption] => 在线支付
+            [dir] => /modules/pay
+            [path] => C:/virtualhost/bacoolread/modules/pay
+            [url] => http://www.mianfeidushu.com/modules/pay
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [link] => Array
+        (
+            [caption] => link
+            [dir] => /modules/link
+            [path] => C:/virtualhost/bacoolread/modules/link
+            [url] => http://www.mianfeidushu.com/modules/link
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [badge] => Array
+        (
+            [caption] => badge
+            [dir] => /modules/badge
+            [path] => C:/virtualhost/bacoolread/modules/badge
+            [url] => http://www.mianfeidushu.com/modules/badge
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [news] => Array
+        (
+            [caption] => news
+            [dir] => /modules/news
+            [path] => C:/virtualhost/bacoolread/modules/news
+            [url] => http://www.mianfeidushu.com/modules/news
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [fuli] => Array
+        (
+            [caption] => fuli
+            [dir] => /modules/fuli
+            [path] => C:/virtualhost/bacoolread/modules/fuli
+            [url] => http://www.mianfeidushu.com/modules/fuli
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+)
+jieqi_url_article_articlelist
+$jieqiModules = Array
+(
+    [system] => Array
+        (
+            [caption] => 系统功能
+            [dir] => 
+            [path] => C:/virtualhost/bacoolread
+            [url] => http://www.mianfeidushu.com
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [article] => Array
+        (
+            [caption] => 小说连载
+            [dir] => /modules/article
+            [path] => C:/virtualhost/bacoolread/modules/article
+            [url] => http://www.mianfeidushu.com/modules/article
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [obook] => Array
+        (
+            [caption] => 在线电子书
+            [dir] => /modules/obook
+            [path] => C:/virtualhost/bacoolread/modules/obook
+            [url] => http://www.mianfeidushu.com/modules/obook
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [forum] => Array
+        (
+            [caption] => 交流论坛
+            [dir] => /modules/forum
+            [path] => C:/virtualhost/bacoolread/modules/forum
+            [url] => http://www.mianfeidushu.com/modules/forum
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [pay] => Array
+        (
+            [caption] => 在线支付
+            [dir] => /modules/pay
+            [path] => C:/virtualhost/bacoolread/modules/pay
+            [url] => http://www.mianfeidushu.com/modules/pay
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [link] => Array
+        (
+            [caption] => link
+            [dir] => /modules/link
+            [path] => C:/virtualhost/bacoolread/modules/link
+            [url] => http://www.mianfeidushu.com/modules/link
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [badge] => Array
+        (
+            [caption] => badge
+            [dir] => /modules/badge
+            [path] => C:/virtualhost/bacoolread/modules/badge
+            [url] => http://www.mianfeidushu.com/modules/badge
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [news] => Array
+        (
+            [caption] => news
+            [dir] => /modules/news
+            [path] => C:/virtualhost/bacoolread/modules/news
+            [url] => http://www.mianfeidushu.com/modules/news
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [fuli] => Array
+        (
+            [caption] => fuli
+            [dir] => /modules/fuli
+            [path] => C:/virtualhost/bacoolread/modules/fuli
+            [url] => http://www.mianfeidushu.com/modules/fuli
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+)
+jieqi_url_article_articlelist
+$jieqiModules = Array
+(
+    [system] => Array
+        (
+            [caption] => 系统功能
+            [dir] => 
+            [path] => C:/virtualhost/bacoolread
+            [url] => http://www.mianfeidushu.com
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [article] => Array
+        (
+            [caption] => 小说连载
+            [dir] => /modules/article
+            [path] => C:/virtualhost/bacoolread/modules/article
+            [url] => http://www.mianfeidushu.com/modules/article
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [obook] => Array
+        (
+            [caption] => 在线电子书
+            [dir] => /modules/obook
+            [path] => C:/virtualhost/bacoolread/modules/obook
+            [url] => http://www.mianfeidushu.com/modules/obook
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [forum] => Array
+        (
+            [caption] => 交流论坛
+            [dir] => /modules/forum
+            [path] => C:/virtualhost/bacoolread/modules/forum
+            [url] => http://www.mianfeidushu.com/modules/forum
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [pay] => Array
+        (
+            [caption] => 在线支付
+            [dir] => /modules/pay
+            [path] => C:/virtualhost/bacoolread/modules/pay
+            [url] => http://www.mianfeidushu.com/modules/pay
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [link] => Array
+        (
+            [caption] => link
+            [dir] => /modules/link
+            [path] => C:/virtualhost/bacoolread/modules/link
+            [url] => http://www.mianfeidushu.com/modules/link
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [badge] => Array
+        (
+            [caption] => badge
+            [dir] => /modules/badge
+            [path] => C:/virtualhost/bacoolread/modules/badge
+            [url] => http://www.mianfeidushu.com/modules/badge
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [news] => Array
+        (
+            [caption] => news
+            [dir] => /modules/news
+            [path] => C:/virtualhost/bacoolread/modules/news
+            [url] => http://www.mianfeidushu.com/modules/news
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [fuli] => Array
+        (
+            [caption] => fuli
+            [dir] => /modules/fuli
+            [path] => C:/virtualhost/bacoolread/modules/fuli
+            [url] => http://www.mianfeidushu.com/modules/fuli
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+)
+jieqi_url_article_article
+$jieqiModules = Array
+(
+    [system] => Array
+        (
+            [caption] => 系统功能
+            [dir] => 
+            [path] => C:/virtualhost/bacoolread
+            [url] => http://www.mianfeidushu.com
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [article] => Array
+        (
+            [caption] => 小说连载
+            [dir] => /modules/article
+            [path] => C:/virtualhost/bacoolread/modules/article
+            [url] => http://www.mianfeidushu.com/modules/article
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [obook] => Array
+        (
+            [caption] => 在线电子书
+            [dir] => /modules/obook
+            [path] => C:/virtualhost/bacoolread/modules/obook
+            [url] => http://www.mianfeidushu.com/modules/obook
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [forum] => Array
+        (
+            [caption] => 交流论坛
+            [dir] => /modules/forum
+            [path] => C:/virtualhost/bacoolread/modules/forum
+            [url] => http://www.mianfeidushu.com/modules/forum
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [pay] => Array
+        (
+            [caption] => 在线支付
+            [dir] => /modules/pay
+            [path] => C:/virtualhost/bacoolread/modules/pay
+            [url] => http://www.mianfeidushu.com/modules/pay
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [link] => Array
+        (
+            [caption] => link
+            [dir] => /modules/link
+            [path] => C:/virtualhost/bacoolread/modules/link
+            [url] => http://www.mianfeidushu.com/modules/link
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [badge] => Array
+        (
+            [caption] => badge
+            [dir] => /modules/badge
+            [path] => C:/virtualhost/bacoolread/modules/badge
+            [url] => http://www.mianfeidushu.com/modules/badge
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [news] => Array
+        (
+            [caption] => news
+            [dir] => /modules/news
+            [path] => C:/virtualhost/bacoolread/modules/news
+            [url] => http://www.mianfeidushu.com/modules/news
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [fuli] => Array
+        (
+            [caption] => fuli
+            [dir] => /modules/fuli
+            [path] => C:/virtualhost/bacoolread/modules/fuli
+            [url] => http://www.mianfeidushu.com/modules/fuli
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+)
+jieqi_url_system_user
+$jieqiModules = Array
+(
+    [system] => Array
+        (
+            [caption] => 系统功能
+            [dir] => 
+            [path] => C:/virtualhost/bacoolread
+            [url] => http://www.mianfeidushu.com
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [article] => Array
+        (
+            [caption] => 小说连载
+            [dir] => /modules/article
+            [path] => C:/virtualhost/bacoolread/modules/article
+            [url] => http://www.mianfeidushu.com/modules/article
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [obook] => Array
+        (
+            [caption] => 在线电子书
+            [dir] => /modules/obook
+            [path] => C:/virtualhost/bacoolread/modules/obook
+            [url] => http://www.mianfeidushu.com/modules/obook
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [forum] => Array
+        (
+            [caption] => 交流论坛
+            [dir] => /modules/forum
+            [path] => C:/virtualhost/bacoolread/modules/forum
+            [url] => http://www.mianfeidushu.com/modules/forum
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [pay] => Array
+        (
+            [caption] => 在线支付
+            [dir] => /modules/pay
+            [path] => C:/virtualhost/bacoolread/modules/pay
+            [url] => http://www.mianfeidushu.com/modules/pay
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [link] => Array
+        (
+            [caption] => link
+            [dir] => /modules/link
+            [path] => C:/virtualhost/bacoolread/modules/link
+            [url] => http://www.mianfeidushu.com/modules/link
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [badge] => Array
+        (
+            [caption] => badge
+            [dir] => /modules/badge
+            [path] => C:/virtualhost/bacoolread/modules/badge
+            [url] => http://www.mianfeidushu.com/modules/badge
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [news] => Array
+        (
+            [caption] => news
+            [dir] => /modules/news
+            [path] => C:/virtualhost/bacoolread/modules/news
+            [url] => http://www.mianfeidushu.com/modules/news
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [fuli] => Array
+        (
+            [caption] => fuli
+            [dir] => /modules/fuli
+            [path] => C:/virtualhost/bacoolread/modules/fuli
+            [url] => http://www.mianfeidushu.com/modules/fuli
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+)
+jieqi_url_article_article
+$jieqiModules = Array
+(
+    [system] => Array
+        (
+            [caption] => 系统功能
+            [dir] => 
+            [path] => C:/virtualhost/bacoolread
+            [url] => http://www.mianfeidushu.com
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [article] => Array
+        (
+            [caption] => 小说连载
+            [dir] => /modules/article
+            [path] => C:/virtualhost/bacoolread/modules/article
+            [url] => http://www.mianfeidushu.com/modules/article
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [obook] => Array
+        (
+            [caption] => 在线电子书
+            [dir] => /modules/obook
+            [path] => C:/virtualhost/bacoolread/modules/obook
+            [url] => http://www.mianfeidushu.com/modules/obook
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [forum] => Array
+        (
+            [caption] => 交流论坛
+            [dir] => /modules/forum
+            [path] => C:/virtualhost/bacoolread/modules/forum
+            [url] => http://www.mianfeidushu.com/modules/forum
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [pay] => Array
+        (
+            [caption] => 在线支付
+            [dir] => /modules/pay
+            [path] => C:/virtualhost/bacoolread/modules/pay
+            [url] => http://www.mianfeidushu.com/modules/pay
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [link] => Array
+        (
+            [caption] => link
+            [dir] => /modules/link
+            [path] => C:/virtualhost/bacoolread/modules/link
+            [url] => http://www.mianfeidushu.com/modules/link
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [badge] => Array
+        (
+            [caption] => badge
+            [dir] => /modules/badge
+            [path] => C:/virtualhost/bacoolread/modules/badge
+            [url] => http://www.mianfeidushu.com/modules/badge
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [news] => Array
+        (
+            [caption] => news
+            [dir] => /modules/news
+            [path] => C:/virtualhost/bacoolread/modules/news
+            [url] => http://www.mianfeidushu.com/modules/news
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [fuli] => Array
+        (
+            [caption] => fuli
+            [dir] => /modules/fuli
+            [path] => C:/virtualhost/bacoolread/modules/fuli
+            [url] => http://www.mianfeidushu.com/modules/fuli
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+)
+jieqi_url_system_user
+$jieqiModules = Array
+(
+    [system] => Array
+        (
+            [caption] => 系统功能
+            [dir] => 
+            [path] => C:/virtualhost/bacoolread
+            [url] => http://www.mianfeidushu.com
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [article] => Array
+        (
+            [caption] => 小说连载
+            [dir] => /modules/article
+            [path] => C:/virtualhost/bacoolread/modules/article
+            [url] => http://www.mianfeidushu.com/modules/article
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [obook] => Array
+        (
+            [caption] => 在线电子书
+            [dir] => /modules/obook
+            [path] => C:/virtualhost/bacoolread/modules/obook
+            [url] => http://www.mianfeidushu.com/modules/obook
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [forum] => Array
+        (
+            [caption] => 交流论坛
+            [dir] => /modules/forum
+            [path] => C:/virtualhost/bacoolread/modules/forum
+            [url] => http://www.mianfeidushu.com/modules/forum
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [pay] => Array
+        (
+            [caption] => 在线支付
+            [dir] => /modules/pay
+            [path] => C:/virtualhost/bacoolread/modules/pay
+            [url] => http://www.mianfeidushu.com/modules/pay
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [link] => Array
+        (
+            [caption] => link
+            [dir] => /modules/link
+            [path] => C:/virtualhost/bacoolread/modules/link
+            [url] => http://www.mianfeidushu.com/modules/link
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [badge] => Array
+        (
+            [caption] => badge
+            [dir] => /modules/badge
+            [path] => C:/virtualhost/bacoolread/modules/badge
+            [url] => http://www.mianfeidushu.com/modules/badge
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [news] => Array
+        (
+            [caption] => news
+            [dir] => /modules/news
+            [path] => C:/virtualhost/bacoolread/modules/news
+            [url] => http://www.mianfeidushu.com/modules/news
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+    [fuli] => Array
+        (
+            [caption] => fuli
+            [dir] => /modules/fuli
+            [path] => C:/virtualhost/bacoolread/modules/fuli
+            [url] => http://www.mianfeidushu.com/modules/fuli
+            [theme] => jieqi180
+            [publish] => 1
+        )
+
+)

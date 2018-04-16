@@ -1,0 +1,145 @@
+[ 2017-03-10T10:34:40+08:00 ] 127.0.0.1 /mianfeidushu_wap/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000979s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001071s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /usr/local/var/www/mianfeidushu_wap/ThinkPHP/Common/functions.php 第 1293 行.
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' /usr/local/var/www/mianfeidushu_wap/Application/Mobile/Controller/MobileBaseController.class.php 第 40 行.
+ERR: 1146:Table 'acool.jieqi_cart' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `jieqi_cart`
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' /usr/local/var/www/mianfeidushu_wap/Application/Home/Logic/CartLogic.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' /usr/local/var/www/mianfeidushu_wap/Application/Home/Logic/CartLogic.class.php 第 171 行.
+ERR: 1146:Table 'acool.jieqi_cart' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `jieqi_cart`
+ERR: 1146:Table 'acool.jieqi_cart' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `jieqi_cart` WHERE (  1 = 1  and session_id = '20819ilno6ta3tdtqnuoipoad5' ) 
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' /usr/local/var/www/mianfeidushu_wap/Application/Home/Logic/CartLogic.class.php 第 176 行.
+ERR: 1146:Table 'acool.jieqi_cart' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `jieqi_cart`
+ERR: 1146:Table 'acool.jieqi_users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `jieqi_users`
+ERR: 1146:Table 'acool.jieqi_users' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `jieqi_users` WHERE ( user_id = 0 ) LIMIT 1  
+NOTIC: [8] Undefined index: cartList /usr/local/var/www/mianfeidushu_wap/Application/Mobile/Controller/MobileBaseController.class.php 第 98 行.
+ERR: 1146:Table 'acool.jieqi_goods' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `jieqi_goods`
+ERR: 1146:Table 'acool.jieqi_goods' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `jieqi_goods` WHERE ( is_hot=1 and is_on_sale=1 ) ORDER BY goods_id DESC LIMIT 20  
+ERR: 1146:Table 'acool.jieqi_goods_category' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `jieqi_goods_category`
+ERR: 1146:Table 'acool.jieqi_goods_category' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `jieqi_goods_category` WHERE ( level=1 ) ORDER BY sort_order LIMIT 9  
+ERR: 1146:Table 'acool.jieqi_goods' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `jieqi_goods` WHERE ( is_recommend=1 and is_on_sale=1 ) ORDER BY goods_id DESC LIMIT 20  
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.000243s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.000281s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: order /usr/local/var/www/mianfeidushu_wap/ThinkPHP/Library/Think/Template/TagLib/Tpshop.class.php 第 35 行.
+NOTIC: [8] Undefined index: where /usr/local/var/www/mianfeidushu_wap/ThinkPHP/Library/Think/Template/TagLib/Tpshop.class.php 第 37 行.
+NOTIC: [8] Undefined index: level /usr/local/var/www/mianfeidushu_wap/ThinkPHP/Library/Think/Template/TagLib/Tpshop.class.php 第 155 行.
+NOTIC: [8] Undefined index: level /usr/local/var/www/mianfeidushu_wap/ThinkPHP/Library/Think/Template/TagLib/Tpshop.class.php 第 155 行.
+NOTIC: [8] Undefined index: level /usr/local/var/www/mianfeidushu_wap/ThinkPHP/Library/Think/Template/TagLib/Tpshop.class.php 第 155 行.
+NOTIC: [8] Undefined index: level /usr/local/var/www/mianfeidushu_wap/ThinkPHP/Library/Think/Template/TagLib/Tpshop.class.php 第 155 行.
+NOTIC: [8] Undefined index: level /usr/local/var/www/mianfeidushu_wap/ThinkPHP/Library/Think/Template/TagLib/Tpshop.class.php 第 155 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000132s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000167s ]
+NOTIC: [8] Undefined variable: tpshop_config /usr/local/var/www/mianfeidushu_wap/Application/Runtime/Cache/Mobile/36447d9ff9f361f39d03d123621a89e3.php 第 9 行.
+NOTIC: [8] Undefined variable: tpshop_config /usr/local/var/www/mianfeidushu_wap/Application/Runtime/Cache/Mobile/36447d9ff9f361f39d03d123621a89e3.php 第 10 行.
+ERR: 1146:Table 'acool.jieqi_ad_position' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `jieqi_ad_position`
+ERR: 1146:Table 'acool.jieqi_ad_position' doesn't exist
+ [ SQL语句 ] : SELECT `position_id`,`position_name`,`ad_width`,`ad_height` FROM `jieqi_ad_position` 
+ERR: 1146:Table 'acool.jieqi_ad' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `jieqi_ad`
+ERR: 1146:Table 'acool.jieqi_ad' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `jieqi_ad` WHERE ( pid=2 ) ORDER BY orderby desc LIMIT 5  
+NOTIC: [2] array_keys() expects parameter 1 to be array, null given /usr/local/var/www/mianfeidushu_wap/Application/Runtime/Cache/Mobile/36447d9ff9f361f39d03d123621a89e3.php 第 33 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given /usr/local/var/www/mianfeidushu_wap/Application/Runtime/Cache/Mobile/36447d9ff9f361f39d03d123621a89e3.php 第 33 行.
+ERR: 1146:Table 'acool.jieqi_ad_position' doesn't exist
+ [ SQL语句 ] : INSERT INTO `jieqi_ad_position` (`position_id`,`position_name`,`is_open`,`position_desc`) VALUES ('2','Index页面自动增加广告位 2 ','1','Index页面')
+NOTIC: [8] Use of undefined constant edit_ad - assumed 'edit_ad' /usr/local/var/www/mianfeidushu_wap/Application/Runtime/Cache/Mobile/36447d9ff9f361f39d03d123621a89e3.php 第 33 行.
+NOTIC: [8] Undefined index: edit_ad /usr/local/var/www/mianfeidushu_wap/Application/Runtime/Cache/Mobile/36447d9ff9f361f39d03d123621a89e3.php 第 33 行.
+NOTIC: [2] Invalid argument supplied for foreach() /usr/local/var/www/mianfeidushu_wap/Application/Runtime/Cache/Mobile/36447d9ff9f361f39d03d123621a89e3.php 第 33 行.
+ERR: 1146:Table 'acool.jieqi_goods' doesn't exist
+ [ SQL语句 ] : select * from jieqi_goods as g inner join jieqi_flash_sale as f on g.goods_id = f.goods_id limit 3
+NOTIC: [2] file_put_contents(./Application/Runtime/Temp/c4c7b6bd50affc49d6a1591d389eaac1.php): failed to open stream: No such file or directory /usr/local/var/www/mianfeidushu_wap/ThinkPHP/Library/Think/Cache/Driver/File.class.php 第 137 行.
+NOTIC: [2] Invalid argument supplied for foreach() /usr/local/var/www/mianfeidushu_wap/Application/Runtime/Cache/Mobile/36447d9ff9f361f39d03d123621a89e3.php 第 188 行.
+ERR: 1146:Table 'acool.jieqi_goods' doesn't exist
+ [ SQL语句 ] : select * from jieqi_goods as g inner join jieqi_flash_sale as f on g.goods_id = f.goods_id limit 3
+NOTIC: [2] file_put_contents(./Application/Runtime/Temp/c4c7b6bd50affc49d6a1591d389eaac1.php): failed to open stream: No such file or directory /usr/local/var/www/mianfeidushu_wap/ThinkPHP/Library/Think/Cache/Driver/File.class.php 第 137 行.
+NOTIC: [2] Invalid argument supplied for foreach() /usr/local/var/www/mianfeidushu_wap/Application/Runtime/Cache/Mobile/36447d9ff9f361f39d03d123621a89e3.php 第 209 行.
+ERR: 1146:Table 'acool.jieqi_goods' doesn't exist
+ [ SQL语句 ] : select * from jieqi_goods where is_recommend=1 order by sort limit 9
+NOTIC: [2] file_put_contents(./Application/Runtime/Temp/574e7cf1a9c87fb25b17c7ccdddfd037.php): failed to open stream: No such file or directory /usr/local/var/www/mianfeidushu_wap/ThinkPHP/Library/Think/Cache/Driver/File.class.php 第 137 行.
+NOTIC: [2] Invalid argument supplied for foreach() /usr/local/var/www/mianfeidushu_wap/Application/Runtime/Cache/Mobile/36447d9ff9f361f39d03d123621a89e3.php 第 280 行.
+ERR: 1146:Table 'acool.jieqi_goods' doesn't exist
+ [ SQL语句 ] : select * from jieqi_goods where is_new=1 order by sort limit 9
+NOTIC: [2] file_put_contents(./Application/Runtime/Temp/1cd6237dcacad601dbfcf4132d53e4d2.php): failed to open stream: No such file or directory /usr/local/var/www/mianfeidushu_wap/ThinkPHP/Library/Think/Cache/Driver/File.class.php 第 137 行.
+NOTIC: [2] Invalid argument supplied for foreach() /usr/local/var/www/mianfeidushu_wap/Application/Runtime/Cache/Mobile/36447d9ff9f361f39d03d123621a89e3.php 第 338 行.
+ERR: 1146:Table 'acool.jieqi_goods' doesn't exist
+ [ SQL语句 ] : select * from jieqi_goods where is_hot=1 order by sort limit 9
+NOTIC: [2] file_put_contents(./Application/Runtime/Temp/fe0a4f43ae6f9a175d925e1384b9652b.php): failed to open stream: No such file or directory /usr/local/var/www/mianfeidushu_wap/ThinkPHP/Library/Think/Cache/Driver/File.class.php 第 137 行.
+NOTIC: [2] Invalid argument supplied for foreach() /usr/local/var/www/mianfeidushu_wap/Application/Runtime/Cache/Mobile/36447d9ff9f361f39d03d123621a89e3.php 第 395 行.
+NOTIC: [8] Undefined variable: tpshop_config /usr/local/var/www/mianfeidushu_wap/Application/Runtime/Cache/Mobile/36447d9ff9f361f39d03d123621a89e3.php 第 563 行.
+NOTIC: [8] Undefined variable: tpshop_config /usr/local/var/www/mianfeidushu_wap/Application/Runtime/Cache/Mobile/36447d9ff9f361f39d03d123621a89e3.php 第 623 行.
+NOTIC: [8] Undefined variable: tpshop_config /usr/local/var/www/mianfeidushu_wap/Application/Runtime/Cache/Mobile/36447d9ff9f361f39d03d123621a89e3.php 第 650 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.036885s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036922s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000498s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000488s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001092s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000301s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000329s ]
+
+[ 2017-03-10T10:34:41+08:00 ] 127.0.0.1 /mianfeidushu_wap/index.php?m=Mobile&c=Index&a=ajaxGetMore&p=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000509s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000577s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /usr/local/var/www/mianfeidushu_wap/ThinkPHP/Common/functions.php 第 1293 行.
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' /usr/local/var/www/mianfeidushu_wap/Application/Mobile/Controller/MobileBaseController.class.php 第 40 行.
+ERR: 1146:Table 'acool.jieqi_cart' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `jieqi_cart`
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' /usr/local/var/www/mianfeidushu_wap/Application/Home/Logic/CartLogic.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' /usr/local/var/www/mianfeidushu_wap/Application/Home/Logic/CartLogic.class.php 第 171 行.
+ERR: 1146:Table 'acool.jieqi_cart' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `jieqi_cart`
+ERR: 1146:Table 'acool.jieqi_cart' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `jieqi_cart` WHERE (  1 = 1  and session_id = '20819ilno6ta3tdtqnuoipoad5' ) 
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' /usr/local/var/www/mianfeidushu_wap/Application/Home/Logic/CartLogic.class.php 第 176 行.
+ERR: 1146:Table 'acool.jieqi_cart' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `jieqi_cart`
+ERR: 1146:Table 'acool.jieqi_users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `jieqi_users`
+ERR: 1146:Table 'acool.jieqi_users' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `jieqi_users` WHERE ( user_id = 0 ) LIMIT 1  
+NOTIC: [8] Undefined index: cartList /usr/local/var/www/mianfeidushu_wap/Application/Mobile/Controller/MobileBaseController.class.php 第 98 行.
+ERR: 1146:Table 'acool.jieqi_goods' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `jieqi_goods`
+ERR: 1146:Table 'acool.jieqi_goods' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `jieqi_goods` WHERE ( is_recommend=1 and is_on_sale=1 ) ORDER BY goods_id DESC LIMIT 0,10  
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.000537s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.000598s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000119s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010812s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010885s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000188s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000255s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000501s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000461s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000514s ]
+

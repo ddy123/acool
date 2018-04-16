@@ -1,0 +1,20 @@
+
+
+
+进入:
+C:\Program Files (x86)\letsencrypt-win-simple.v1.9.8.1
+
+
+打开命令行,输入:
+letsencrypt.exe --accepttos --manualhost pics.juziread.com --webroot C:\web\https_pics
+
+
+输入A,回车,更新所有证书.
+
+
+
+
+
+参照:
+https://tasaid.com/blog/20161005024923.html
+certify 方式没有走通,用的是 letsencrypt-win-simple 方式.

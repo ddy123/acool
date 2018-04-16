@@ -1,0 +1,65 @@
+<include file="Public/header"/>
+<body style="background-color: rgb(246,246,246);">
+    <div class="tab_nav">
+        <div class="header">
+            <div class="h-left">
+                <a class="sb-back" href="javascript:history.back(-1);" title="返回" target="_self"></a>
+            </div>
+
+            <div class="h-mid" style="width: 80%;float: left">
+                用户信息
+            </div>
+        </div>
+    </div>
+
+    <div id="tbh5v0" style="margin-top: 45px">
+        <div class="user_com">
+            <div class="Wallet">
+                <a href="{:U('Mobile/User/setNickName')}">
+                    <dl class="b" style="margin-left: 10px">
+                        <dt>
+                            修改昵称
+                        </dt>
+                        <dd  style="margin-right: 40px">
+                            &nbsp;
+                        </dd>
+                    </dl>
+                </a>
+
+                <a href="{:U('Mobile/User/setPwd')}">
+                    <dl class="b" style="margin-left: 10px">
+                        <dt>
+                            修改密码
+                        </dt>
+                        <dd  style="margin-right: 40px">
+                            &nbsp;
+                        </dd>
+                    </dl>
+                </a>
+
+                <a href="{:U('Mobile/User/setSex')}" >
+                    <dl class="b" style="margin-left: 10px">
+                        <dt>
+                            修改性别
+                        </dt>
+                        <dd style="margin-right: 40px">
+                            &nbsp;
+                        </dd>
+                    </dl>
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <script type="text/javascript">
+        $(function()
+        {
+            width = document.documentElement.clientWidth - 112;
+
+            width = 0.9 * width;
+
+            $('.bookleft').css({width:width});
+        });
+    </script>
+</body>
+</html>

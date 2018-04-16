@@ -1,0 +1,169 @@
+{?set jieqi_page_rows = "30"?}
+
+<script type="text/javascript">
+//置顶置后
+function act_top(url){
+	var o = getTarget();
+	var param = {
+		method: 'POST', 
+		onFinish: ''
+	}
+	if(o.getAttribute('switch') == '0'){
+		url = url.replace('act=untop', 'act=top');
+		param.onFinish = function(res){
+			if(res.match('成功')){
+				o.setAttribute('switch', '1');
+				o.innerHTML = '置后';
+			}
+		}
+	}else{
+		url = url.replace('act=top', 'act=untop');
+		param.onFinish = function(res){
+			if(res.match('成功')){
+				o.setAttribute('switch', '0');
+				o.innerHTML = '置顶';
+			}
+		}
+	}
+	Ajax.Tip(url, param);
+	return false;
+}
+//加精去精
+function act_good(url){
+	var o = getTarget();
+	var param = {
+		method: 'POST', 
+		onReturn: ''
+	}
+	if(o.getAttribute('switch') == '0'){
+		url = url.replace('act=normal', 'act=good');
+		param.onFinish = function(res){
+			if(res.match('成功')){
+			o.setAttribute('switch', '1');
+			o.innerHTML = '去精';
+			}
+		}
+	}else{
+		url = url.replace('act=good', 'act=normal');
+		param.onFinish = function(res){
+			if(res.match('成功')){
+			o.setAttribute('switch', '0');
+			o.innerHTML = '加精';
+			}
+		}
+	}
+	Ajax.Tip(url, param);
+	return false;
+}
+//删除
+function act_delete(url){
+	var o = getTarget();
+	var param = {
+		method: 'POST', 
+		onReturn: function(){
+			$_(o.parentNode.parentNode).remove();
+		}
+	}
+	if(confirm('确实要删除该书评么？')) Ajax.Tip(url, param);
+	return false;
+}
+</script>
+
+{?if $newpost > 0?}
+<div class="textbox hot" id="postresult">{?$postresult?}</div>
+<script type="text/javascript">
+setTimeout(function(){$_('postresult').hide()}, 3000);
+</script>
+{?/if?}
+
+
+
+
+<div class="c-left">
+						<div class="mod mod-block comments reviews">
+							<div class="hd">
+								<a href="#write" class="add button-medium button-r-green">写评论</a>
+		    	                <div class="tab-choose handles fr">
+		    	            		<a href="{?$jieqi_modules['article']['url']?}/reviews.php?aid={?$articleid?}&type=all" data-load-status="loaded" data-type="time" {?if $type == 'all'?} class="active"{?/if?}>最新评论</a>
+		    	            		<a href="{?$jieqi_modules['article']['url']?}/reviews.php?aid={?$articleid?}&type=good" data-load-status="unload" data-type="best"{?if $type == 'good'?} class="active"{?/if?}>精华评论</a>
+		    	                    	</div>
+		    	        		<h5>
+		    	        			<span>{?$articlename?}的评论</span>
+		    	        		</h5>
+		    	            </div>
+		    	            <div class="bd">
+	    	            		<ul>
+								
+		    	                	{?section name=i loop=$reviewrows?}	  
+<li class="column-2 "><div class="left"> <p> <a href="{?function jieqi_geturl:'system':'user':$reviewrows[i].posterid?}"><img src="{?function jieqi_geturl:'system':'avatar':$reviewrows[i].posterid:'s'?}" alt="{?$reviewrows[i].poster?}" width="50" height="50"></a>  </p> <a class="name" href="{?function jieqi_geturl:'system':'user':$reviewrows[i].posterid?}" title="{?$reviewrows[i].poster?}">{?$reviewrows[i].poster?}</a><img src="/sink/image/vip/lv{?$reviewrows[i].vipid?}.gif" width="20" class="fans-level-icon" title="{?$reviewrows[i].vip?}">
+<p class="identity"><i class="rk{?$reviewrows[i].honorid?}"></i></p>  
+</div> 
+<div class="right">
+ <h3><a href="{?$jieqi_modules['article']['url']?}/reviewshow.php?rid={?$reviewrows[i].topicid?}">{?if $reviewrows[i].istop == 1?}<span class="top">[置顶]</span>{?/if?}{?if $reviewrows[i].isgood == 1?}<span class="good">[精华]</span>{?/if?}{?$reviewrows[i].title|str_replace:"<br />":" "|truncate:80:'..'?}</a></h3>  <p class="summary"> {?$reviewrows[i].posttext?} </p>  <div class="controls"><span class="time">{?$reviewrows[i].posttime|date:Y-m-d H:i:s?}</span><a href="{?$jieqi_modules['article']['url']?}/reviewshow.php?rid={?$reviewrows[i].topicid?}" class="reply">回复({?$reviewrows[i].replies?})</a>
+ {?if $ismaster == 1?}
+	{?if $reviewrows[i].istop == 0?}
+	[<a id="act_top_{?$reviewrows[i].topicid?}" href="javascript:;" onclick="act_top('{?$jieqi_modules['article']['url']?}/reviews.php?aid={?$articleid?}&rid={?$reviewrows[i].topicid?}&act=top{?$jieqi_token_url?}');" switch="0">置顶</a>]
+	{?else?}
+	[<a id="act_untop_{?$reviewrows[i].topicid?}" href="javascript:;" onclick="act_top('{?$jieqi_modules['article']['url']?}/reviews.php?aid={?$articleid?}&rid={?$reviewrows[i].topicid?}&act=untop{?$jieqi_token_url?}');" switch="1">置后</a>]
+	{?/if?} 
+	{?if $reviewrows[i].isgood == 0?}
+	[<a id="act_good_{?$reviewrows[i].topicid?}" href="javascript:;" onclick="act_good('{?$jieqi_modules['article']['url']?}/reviews.php?aid={?$articleid?}&rid={?$reviewrows[i].topicid?}&act=good{?$jieqi_token_url?}');" switch="0">加精</a>]
+	{?else?}
+	[<a id="act_normal_{?$reviewrows[i].topicid?}" href="javascript:;" onclick="act_good('{?$jieqi_modules['article']['url']?}/reviews.php?aid={?$articleid?}&rid={?$reviewrows[i].topicid?}&act=normal{?$jieqi_token_url?}');" switch="1">去精</a>]
+	{?/if?} 
+	[<a id="act_del_{?$reviewrows[i].topicid?}" href="javascript:;" onclick="act_delete('{?$jieqi_modules['article']['url']?}/reviews.php?aid={?$articleid?}&rid={?$reviewrows[i].topicid?}&act=del{?$jieqi_token_url?}');">删除</a>]
+	{?/if?}
+ </div>
+ </div>
+ </li>
+ {?/section?}
+									
+									</ul>
+		    	            </div>
+		    	        </div>
+						
+		    	       <div class="pages">{?$url_jumppage?}</div>
+					   	<div id="write"><div class="mod mod-base comment-form book-comment-form">
+						<div class="bd">
+						{?if $jieqi_userid > 0?}
+						<div class="column-2"><div class="left"><p> <img src="{?function jieqi_geturl:'system':'avatar':$jieqi_userid:'s'?}" alt="评论" width="50" height="50" class="hy-is-placeholder"> </p> <span class="name">{?$jieqi_username?}</span>
+						</div> 
+						<div class="right">
+						<form class="form-base" name="frmreview" id="frmreview" method="post" action="{?$jieqi_modules['article']['url']?}/reviews.php?aid={?$articleid?}" target="_blank"> 
+						<div class="item"> 
+						<input type="text" class="text" name="ptitle" placeholder="标题" maxlength="100"> 
+						</div> 
+						<div class="item"> 
+						<textarea name="pcontent" class="text" placeholder="内容" style="overflow: hidden;"></textarea> 
+						<div style="position: absolute; display: none; word-wrap: break-word; font-weight: 400; width: 584px; font-family: Simsun; line-height: normal; font-size: 14px; padding: 10px;">&nbsp;</div>
+						</div> 
+						{?if $postcheckcode > 0?}
+						<div class="buttons">
+						<span class="codeimg"><img src="{?$jieqi_url?}/checkcode.php" style="cursor:pointer;" onclick="this.src='{?$jieqi_url?}/checkcode.php?rand='+Math.random();"></span>
+						<input type="text" class="text1 submit" name="checkcode" id="checkcode" size="8" maxlength="8" value="" /> 
+						</div>
+						{?/if?}
+						<div class="buttons"> 
+						<input type="hidden" name="act" id="act" value="newpost" />{?$jieqi_token_input?}
+						<input type="button" value="提交" class="submit button-input button-red" style="cursor:pointer;" onclick="Ajax.Request('frmreview',{onComplete:function(){alert(this.response.replace(/<br[^<>]*>/g,'\n'));Form.reset('frmreview');}});">
+						</div>
+						</form> 
+						</div>
+						</div>
+						{?else?}
+						<div class="alert alert-error">您只有<a href="{?$jieqi_user_url?}/login.php?jumpurl={?$jieqi_thisurl|urlencode?}" target="_blank" style="color:#09c">登陆</a>后才可以发表书评</div>
+						{?/if?}
+						</div></div></div>
+						</div>
+						<div class="c-right">
+						<div class="mod mod-back">
+							<a href="{?$url_articleinfo?}">返回作品封面</a>
+						</div>
+						<div class="mod sidebar-book-cover">
+							<div class="bd">
+								<div class="pic">
+									<a href="{?$url_articleinfo?}"><img src="{?function jieqi_geturl:'article':'cover':$articleid:'s':$imgflag?}" width="172" alt="243"></a>
+								</div>
+							</div>
+						</div>
+						</div>

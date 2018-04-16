@@ -1,0 +1,44 @@
+{?set jieqi_blocks_module = "article"?}
+{?set $jieqi_pagetitle = "{$articlename}全部章节列表-{$author}-{$jieqi_sitename}"?}
+{?set $meta_keywords = "{$articlename}全部章节列表 {$author} {$sort}"?}
+{?set jieqi_page_rows = "500"?}
+{?set jieqi_page_start = "4"?}
+
+
+					<div class="c-left">
+						<h1 class="page-title">{?$articlename?}</h1>
+						<div class="mod pattern-fill-container-mod chapter-list">
+
+								
+
+		<div class="hd">
+		<h2><i></i>章节目录</h2>
+		</div>
+<div class="bd"><ul class="float-list fill-block">
+{?section name=i loop=$chapterrows?}
+{?if $chapterrows[i].chaptertype == 0?}
+<li class="" id="chapter915844" createdate="{?$chapterrows[i].lastupdate|date:'Y-m-d H:i'?}更新，共{?$chapterrows[i].size_c?}字，价格：{?$chapterrows[i].saleprice?}">
+			<span class="time">{?$chapterrows[i].lastupdate|date:'m-d'?}</span>
+			<a href="{?$chapterrows[i].url_chapter?}"{?if $chapterrows[i].isvip_n == 1?} class="isvip name"{?/if?}>{?$chapterrows[i].chaptername?}</a>
+		</li>
+{?/if?}
+{?/section?}								
+</ul></div>	
+<div class="pages">{?$url_jumppage?}</div>								
+							</div>
+						<a style="color:#fff" href="#">手机版</a>
+					</div>
+					<div class="c-right">
+						<div class="sidebar-cover sidebar-first-region">
+							<div class="mod ">
+								<div class="bd">
+									<div class="pic">
+										<a href="{?$url_articleinfo?}"><img src="{?function jieqi_geturl:'article':'cover':$articleid:'s':$imgflag?}" width="175" height="245" alt=""></a>
+									</div>
+									<p class="name">
+										<a href="{?$url_articleinfo?}">{?$articlename?}</a>
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>

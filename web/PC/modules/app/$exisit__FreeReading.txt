@@ -1,0 +1,2 @@
+$flag = 0
+$userAgent = FreeReading/1.0.7 (iPhone; iOS 9.3.2; Scale/3.00)

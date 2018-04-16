@@ -1,0 +1,48 @@
+{?set jieqi_blocks_module = "article"?}
+{?set jieqi_blocks_config = "topindex"?}
+{?set $jieqi_pagetitle = "排行榜-{$jieqi_sitename}"?}
+{?set $meta_keywords = "小说 排行榜 {$jieqi_sitename}"?}
+
+<h1 class="page-title">排行榜</h1>
+<div class="mod block rank-switch">
+				<div class="hd">
+					<h4>礼物榜</h4>
+				</div>
+				<div class="bd">
+					<ul class="list">
+                            {?$jieqi_pageblocks['1']['content']?}
+						</ul>
+				</div>
+			</div>
+
+					
+<div class="mod block blue rank-switch">
+				<div class="hd">
+					<h4>订阅榜</h4>
+				</div>
+				<div class="bd">
+					<ul class="list">
+                            {?$jieqi_pageblocks['2']['content']?}
+						</ul>
+				</div>
+			</div>
+						<div class="mod block blue rank-switch">
+				<div class="hd">
+					<h4>打赏榜</h4>
+				</div>
+				<div class="bd">
+					<ul class="list">
+                           {?$jieqi_pageblocks['3']['content']?}
+						</ul>
+				</div>
+			</div>
+						<div class="mod block blue rank-switch">
+				<div class="hd">
+					<h4>销售榜</h4>
+				</div>
+				<div class="bd">
+					<ul class="list">
+                           {?$jieqi_pageblocks['4']['content']?}
+						</ul>
+				</div>
+			</div>

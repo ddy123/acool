@@ -1,0 +1,72 @@
+JieqiObjectData Object
+(
+    [_isNew] => 
+    [vars] => Array
+        (
+            [id] => Array
+                (
+                    [type] => 1
+                    [value] => 131
+                    [caption] => 
+                    [required] => 
+                    [maxlength] => 
+                    [isdirty] => 
+                    [default] => 
+                    [options] => 
+                )
+
+            [type] => Array
+                (
+                    [type] => 1
+                    [value] => 0
+                    [caption] => 
+                    [required] => 
+                    [maxlength] => 
+                    [isdirty] => 
+                    [default] => 
+                    [options] => 
+                )
+
+            [sign] => Array
+                (
+                    [type] => 1
+                    [value] => 563752ae58e38ec5b4f1c42c52ab045a
+                    [caption] => 
+                    [required] => 
+                    [maxlength] => 
+                    [isdirty] => 
+                    [default] => 
+                    [options] => 
+                )
+
+            [uptime] => Array
+                (
+                    [type] => 1
+                    [value] => 1514443365
+                    [caption] => 
+                    [required] => 
+                    [maxlength] => 
+                    [isdirty] => 
+                    [default] => 
+                    [options] => 
+                )
+
+            [status] => Array
+                (
+                    [type] => 1
+                    [value] => 0
+                    [caption] => 
+                    [required] => 
+                    [maxlength] => 
+                    [isdirty] => 
+                    [default] => 
+                    [options] => 
+                )
+
+        )
+
+    [errors] => Array
+        (
+        )
+
+)

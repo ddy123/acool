@@ -1,0 +1,209 @@
+{?set jieqi_blocks_module = "system"?}
+{?set jieqi_blocks_config = "userblocks"?}
+{?set $jieqi_pagetitle = "会员成长体系-{$jieqi_sitename}"?}
+
+{?block bid="0" blockname="用户设置" module="system" filename="block_uservip_tab" classname="BlockSystemCustom" side="-1" title="" vars="" template="" contenttype="4" custom="1" publish="3" hasvars="0"?}
+<div class="gridtop pianyi">您当前为用户等级为<span>{?$honor?}</span></div>
+<div class="c-left">
+						<h1 class="page-title">
+							会员成长体系
+						</h1>
+						<div class="left fl">
+							<div class="left-bd">
+								<div class="mod fans-levels">
+									<div class="bd">
+										<table class="fixed-table table table-hover table-striped table-bordered" width="100%">
+  <tr>
+    <th  colspan="5"><span>会员成长体系</span></th>
+  </tr>
+  <tr>
+    <th width="20%">用户等级</th>
+    <th width="16%">积分</th>
+    <th width="16%">每天最大评分次数</th>
+    <th width="16%">获赠推荐票</th>
+    <th width="16%">自定义书架数量</th>
+  </tr>
+  {?section name=i loop=$honors?}
+  <tr>
+    <td><a href="javascript:;" title="{?$honors[i].caption?}级会员" class="rk{?$honors[i].honorid?}"></a></td>
+    <td>{?if $honors[i].minscore>0?}{?$honors[i].minscore?}{?else?}0{?/if?}</td>
+    <td>{?$honors[i].dayrates?}</td>
+    <td>{?$honors[i].dayvotes?}</td>
+    <td>{?$honors[i].maxbookmarks?}</td>
+  </tr>
+  {?/section?}
+										</table>
+										<div class="sp-20"></div>
+									</div>
+								</div><!-- end mod -->
+							</div>
+						</div><!-- end left layout -->
+					</div>
+<div class="c-left">
+						<h1 class="page-title">
+							积分获得途径
+						</h1>
+						<div class="left fl">
+							<div class="left-bd">
+								<div class="mod fans-levels">
+									<div class="bd">
+										<table class="fixed-table table table-hover table-striped table-bordered" width="100%">
+          <tr>
+            <th  colspan="5"><span>积分获得途径</span></th>
+          </tr>
+          <tr>
+            <th width="20%">获得方式</th>
+            <th width="20%">单次积分</th>
+            <th width="20%">单日次数上限</th>
+            <th width="20%">单日积分上限</th>
+            <th width="20%">其他说明</th>
+          </tr>
+          <tr>
+            <td>新用户注册</td>
+            <td>{?$score['system']['register']['earnscore']?}</td>
+            <td>1</td>
+            <td>{?$score['system']['register']['earnscore']?}</td>
+            <td>无</td>
+          </tr>
+          <tr>
+            <td>单日登陆</td>
+            <td>{?$score['system']['login']['earnscore']?}</td>
+            <td>1</td>
+            <td>{?$score['system']['login']['earnscore']?}</td>
+            <td>无</td>
+          </tr>
+          <tr>
+            <td>连续登陆3日以上</td>
+
+            <td>{?eval echo $score['system']['login']['earnscore']*3;?}</td>
+            <td>1</td>
+            <td>{?eval echo $score['system']['login']['earnscore']*3;?}</td>
+            <td>无</td>
+          </tr>
+          <tr>
+            <td>连续登陆7日以上</td>
+            <td>{?eval echo $score['system']['login']['earnscore']*7;?}</td>
+            <td>1</td>
+            <td>{?eval echo $score['system']['login']['earnscore']*7;?}</td>
+
+            <td>无</td>
+          </tr>
+          <tr>
+            <td>连续登陆15日以上</td>
+            <td>{?eval echo $score['system']['login']['earnscore']*15;?}</td>
+            <td>1</td>
+            <td>{?eval echo $score['system']['login']['earnscore']*15;?}</td>
+            <td>无</td>
+          </tr>
+          <tr>
+            <td>发表文章</td>
+            <td>{?$score['article']['articleadd']['earnscore']?}</td>
+            <td>不限</td>
+            <td>不限</td>
+            <td>无</td>
+          </tr>
+          <tr>
+            <td>发表章节</td>
+            <td>{?$score['article']['chapteradd']['earnscore']?}</td>
+            <td>不限</td>
+            <td>不限</td>
+            <td>无</td>
+          </tr>
+          <tr>
+            <td>发表主题书评</td>
+            <td>{?$score['article']['reviewadd']['earnscore']?}</td>
+            <td>不限</td>
+            <td>不限</td>
+            <td>无</td>
+          </tr>
+          <tr>
+            <td>发表书评回复</td>
+            <td>{?$score['article']['replyadd']['earnscore']?}</td>
+            <td>不限</td>
+            <td>不限</td>
+            <td>无</td>
+          </tr>
+          <tr>
+            <td>发表精华书评</td>
+            <td>{?$score['article']['reviewgood']['earnscore']?}</td>
+            <td>不限</td>
+            <td>不限</td>
+            <td>无</td>
+          </tr>
+          <tr>
+            <td>作品评分</td>
+            <td>{?$score['article']['rate']['earnscore']?}</td>
+            <td>不限</td>
+            <td>不限</td>
+            <td>无</td>
+          </tr>
+          <tr>
+            <td>打赏作品</td>
+            <td>{?$score['article']['tip']['earnscore']?}</td>
+            <td>不限</td>
+            <td>不限</td>
+            <td>无</td>
+          </tr>
+          <tr>
+            <td>投推荐票</td>
+            <td>{?$score['article']['poll']['earnscore']?}</td>
+            <td>不限</td>
+            <td>不限</td>
+            <td>无</td>
+          </tr>
+          <tr>
+            <td>购买VIP章节</td>
+            <td>{?$score['article']['buychapter']['earnscore']?}</td>
+            <td>不限</td>
+            <td>不限</td>
+            <td>无</td>
+          </tr>
+          <tr>
+            <td>投月票</td>
+            <td>{?$score['article']['vipvote']['earnscore']?}</td>
+            <td>不限</td>
+            <td>不限</td>
+            <td>无</td>
+          </tr>
+          <tr>
+            <td>充值</td>
+            <td>充值金额*50</td>
+            <td>不限</td>
+            <td>不限</td>
+            <td>赠送{?$egoldname?}不获得积分</td>
+          </tr>
+          <tr>
+            <td>删除评论</td>
+            <td>扣除{?$score['article']['reviewadd']['earnscore']?}</td>
+            <td>不限</td>
+            <td>不限</td>
+            <td>无</td>
+          </tr>
+          <tr>
+            <td>删除文章</td>
+            <td>扣除{?$score['article']['articleadd']['earnscore']?}</td>
+            <td>不限</td>
+            <td>不限</td>
+            <td>无</td>
+          </tr>
+          <tr>
+            <td>删除章节</td>
+            <td>扣除{?$score['article']['chapteradd']['earnscore']?}</td>
+            <td>不限</td>
+            <td>不限</td>
+            <td>无</td>
+          </tr>
+          <tr>
+            <td>下载书籍</td>
+            <td>扣除{?$score['article']['down']['earnscore']?}</td>
+            <td>不限</td>
+            <td>不限</td>
+            <td>无</td>
+          </tr>
+										</table>
+										<div class="sp-20"></div>
+									</div>
+								</div><!-- end mod -->
+							</div>
+						</div><!-- end left layout -->
+					</div>					

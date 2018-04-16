@@ -1,0 +1,77 @@
+{?set jieqi_page_template = "themes/user/theme.html"?}{?set jieqi_blocks_module = "system"?}{?set jieqi_blocks_config = "blocks"?}{?set $jieqi_pagetitle = "作家帐户-{$jieqi_sitename}"?}
+<style>
+.bd table{width:100%}.bd .num{color:#F74848}.bd th{background:#a1a3a7;color:#fff;font-size:12px}.bd td,.bd th{padding:10px}.bd td{background:#d2d4d9;border-bottom:1px solid #fff;vertical-align:top;word-break:break-all;word-wrap:break-word}
+.num{
+    color: #f60;
+    font-family: Arial;
+}
+</style>
+<div class="wrap">
+	<div class="container container-sidebar">
+		<div class="container-bd">
+			<div class="c-left">
+				<h1 class="page-title page-title-split"><i class="icon icon-topup"></i>
+				<span>
+				</span>
+							作家帐户
+				</h1>
+				<div class="mod form-base cash-table">
+					<div class="bd">
+						<table>
+						<tbody>
+						<tr>
+							<td class="col1">
+								最高提现额度：
+							</td>
+							<td>
+								<span class="num">0</span> 元
+							</td>
+						</tr>
+						</tbody>
+						</table>
+					</div>
+				</div>
+				<div class="mod record-list">
+					<div class="bd">
+						<div class="space-10">
+						</div>
+						<table>
+						<thead>
+						<tr>
+							<th class="col1">
+								作品
+							</th>
+							<th class="col2">
+								金额(元)
+							</th>
+							<th class="col2">
+								类型
+							</th>
+							<th class="col2">
+								备注
+							</th>
+							<th class="col2">
+							</th>
+						</tr>
+						</thead>
+						<tbody>
+						</tbody>
+						</table>
+					</div>
+				</div>
+				<div class="pagination">
+				</div>
+			</div>
+			<div class="c-right">
+				<div class="sidebar-first-region">
+				</div>
+				<div class="sidebar-menus">
+					<ul class="navs">
+{?block bid="0" blockname="用户设置" module="system" filename="block_userset_tab" classname="BlockSystemCustom" side="-1" title="" vars="" template="" contenttype="4" custom="1" publish="3" hasvars="0"?}
+						<li><i class="arrow"></i><a href="{?$jieqi_url?}/persondetail.php">作家个人信息</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

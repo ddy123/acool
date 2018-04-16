@@ -1,0 +1,755 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<package id="1960">
+<articleinfo>
+<articleid>1960</articleid>
+<siteid>0</siteid>
+<sourceid>0</sourceid>
+<postdate>1521905673</postdate>
+<lastupdate>1521905673</lastupdate>
+<articlename>»é°®³Éñ«</articlename>
+<articlecode>hunaichengyin</articlecode>
+<backupname></backupname>
+<keywords></keywords>
+<roles></roles>
+<initial>H</initial>
+<authorid>0</authorid>
+<author>ÐÄÔÚÑÉ</author>
+<posterid>1</posterid>
+<poster>admin</poster>
+<agentid>0</agentid>
+<agent></agent>
+<sortid>7</sortid>
+<typeid>30</typeid>
+<libid>0</libid>
+<intro>ÎÒºÍÐìÁÕÊÇºÃ½ãÃÃ¡£ËäÈ»ËýÊÇ¸¸Ä¸ÁìÑø»ØÀ´µÄ¡£ÎÒÃÇÒ»Æð¾­ÀúÁËÍ»È»Ê§È¥¸¸Ä¸µÄµÄÍ´¿à¡£ËäÈ»ÎÒÃ»ÓÐÄÜ¹»¼ûµ½¸¸Ç×µÄ×îºóÒ»Ãæ£¬ËýÒ²¸øÁËÎÒÒ»¸öºÏÀíµÄ½âÊÍ£¬²¢ÇÒÎÒÃÇÖØÐÂ¹ýÉÏÁËÐÒ¸£µÄÉú»î¡£µ«ÊÇÎÒÐÄÀï×ÜÊÇÒþÒþ¸Ð¾õÊÂÇé²¢Ã»ÓÐÄÇÃ´¼òµ¥¡£
+ÓÚÊÇÔÚÖÕÓÚÓÐÁËÏÐÏ¾µÄÊ±ºò£¬ÎÒÓÖ×ÅÊÖµ÷²éÕâ¼þÊÂÇé¡£È´²»Öª£¬ÓÉËüÇ£³¶³öÁËÒ»ÏµÁÐµÄÍ´¿à£¬½ãÃÃÇéÉîÊÇ¼ÙµÄ£¬°®µÄÈËÒ²ÊÇ¼ÙµÄ£¡ÕâÊÀ½çÉÏ»¹ÓÐÊ²Ã´¶«Î÷ÊÇÕæµÄÂð£¿             
+ÎÒÍ»È»ÔÎµ¹×¡Ôº£¬»ØÒäÁËºÜ¶àÒÔÇ°µÄÊÂÇé¡£
+ÐÑ¹ýÀ´Ö®ºó£¬Êâ²»ÖªÒ»ÇÐ¶¼ÒÑ¾­±äÁË£¬ÄÇÐ©±¾ÏëÑÚ²ØµÄÊÂÇéÎÒÓÖ²»µÃ²»ÖØÐÂÃæ¶Ô¡£
+ÎÒ¹íÊ¹Éñ²îµÄ¹´ÒýÁËÓÚÎ°²©£¬Îóµ¼ÍõÁÕ¡£¸úÍõ½ã¶·ÖÇ¶·ÓÂ¡£
+×îºó»¹ÊÇÒòÎªÐ¡Î÷µÄÒ»¾ä»°£¬´ó¼Ò¶¼·ÅÆúÁËÕÛÄ¥¡£¶øÎÒºÍÐìÁÕµÄÎó»áÒ²ÖÕÓÚË®ÂäÊ¯³ö¡£ÎÒÔøÎÞÊý´ÎµÄÎÊ×Ô¼º£¬Èç¹ûÕæÏë²»Ã÷µÄ»°£¬ÎÒ»á²»»áÔ­ÁÂËý£¿</intro>
+<notice></notice>
+<foreword></foreword>
+<setting></setting>
+<lastvolumeid>0</lastvolumeid>
+<lastvolume></lastvolume>
+<lastchapterid>611302</lastchapterid>
+<lastchapter>µÚÆßÊ®Ò»ÕÂÎÒ¿Ï¶¨ÊÇºÈ¶àÁË</lastchapter>
+<lastsummary>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;»éÀñ½Ó½üÎ²ÉùµÄÊ±ºò£¬´ó¼Ò¶¼ºÈµÃ²î²»¶àÁË¡£´Ó¾Æµê³öÀ´£¬Ò»°ïÈËºåÐ¦×ÅÒªÈ¥ÄÖ¶´·¿¡£
+
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Àî·åºÈÁË¾ÆÁ³É«¸üºìÁË£¬Â§×ÅÍõÁÕ£¬ÏñÊÇÒ»¸öº¦ÐßµÄº¢×ÓÒ»°ã¡£
+
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;¡°Ë­ÒªÊÇ¸ÒÈ¥ÄÖ£¡¡±ÍõÁÕÖÐÆøÊ®×ãµÄ·¢×Å¾Æ·è£¬Ò»µã¶ù¶¼²»ÏñÊÇ¸Õ¸Õ´ó²¡³õÓúµÄÑù×Ó£¬ÏÅµÃÈËÃÇ¶¼ÏòºóÍËÁË¼¸²½¡£È»ºóËýºÙºÙÒ»Ð¦£¬¡°ÎÒ¶¼»á»¶Ó­µÄÅ¶£¡¡±
+
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;ÎÒÐ¦×Å¸úÔÚºóÃæ¿´×ÅËûÃÇÆðºå×Å¡£ÏíÊÜ×ÅÈÈÄÖµÄ¸ÐÈ¾¡£
+
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Í»È»´ÓÈËÈºµÄ·ìÏ¶ÖÐ£¬ÎÒ¿´µ½Ò»¸öÊìÏ¤µÄÁ³£¬Ëû´ô´ôµÄ¿´×ÅÎÒ£¬×ì½ÇÏòÉÏ³é¶¯£¬³¯ÎÒ·¢³öÎ¢Î¢Ò»Ð¦¡£ÎÒË²¼äÏñÊÇÊÜµ½ÁËÄ³ÖÖ¸ÐÕÙÒ»°ã£¬Ïò×ÅËûµÄ·½Ïò³å¹ýÈ¥£¬³å¹ýÈ¥¡­¡­</lastsummary>
+<chapters>71</chapters>
+<size>427980</size>
+<daysize>0</daysize>
+<weeksize>0</weeksize>
+<monthsize>0</monthsize>
+<lastvisit>0</lastvisit>
+<dayvisit>0</dayvisit>
+<weekvisit>0</weekvisit>
+<monthvisit>0</monthvisit>
+<allvisit>0</allvisit>
+<lastvote>0</lastvote>
+<dayvote>0</dayvote>
+<weekvote>0</weekvote>
+<monthvote>0</monthvote>
+<allvote>0</allvote>
+<goodnum>0</goodnum>
+<reviewsnum>0</reviewsnum>
+<ratenum>0</ratenum>
+<ratesum>0</ratesum>
+<toptime>0</toptime>
+<saleprice>0</saleprice>
+<salenum>0</salenum>
+<totalcost>0</totalcost>
+<articletype>0</articletype>
+<permission>0</permission>
+<firstflag>0</firstflag>
+<fullflag>0</fullflag>
+<imgflag>0</imgflag>
+<upaudit>0</upaudit>
+<power>0</power>
+<display>0</display>
+<progress>0</progress>
+<issign>0</issign>
+<signtime>0</signtime>
+<buyout>0</buyout>
+<monthly>0</monthly>
+<discount>0</discount>
+<quality>0</quality>
+<isshort>0</isshort>
+<inmatch>0</inmatch>
+<isshare>0</isshare>
+<rgroup>0</rgroup>
+<freetime>0</freetime>
+<freesize>0</freesize>
+<isvip>0</isvip>
+<viptime>0</viptime>
+<vipid>0</vipid>
+<vippubid>0</vippubid>
+<vipchapters>0</vipchapters>
+<vipsize>0</vipsize>
+<vipvolumeid>0</vipvolumeid>
+<vipvolume></vipvolume>
+<vipchapterid>0</vipchapterid>
+<vipchapter></vipchapter>
+<vipsummary></vipsummary>
+<lastflower>0</lastflower>
+<allflower>0</allflower>
+<monthflower>0</monthflower>
+<weekflower>0</weekflower>
+<dayflower>0</dayflower>
+<lastegg>0</lastegg>
+<allegg>0</allegg>
+<monthegg>0</monthegg>
+<weekegg>0</weekegg>
+<dayegg>0</dayegg>
+<lastvipvote>0</lastvipvote>
+<allvipvote>0</allvipvote>
+<monthvipvote>0</monthvipvote>
+<weekvipvote>0</weekvipvote>
+<dayvipvote>0</dayvipvote>
+<lastdown>0</lastdown>
+<alldown>0</alldown>
+<monthdown>0</monthdown>
+<weekdown>0</weekdown>
+<daydown>0</daydown>
+<redrose>0</redrose>
+<yellowrose>0</yellowrose>
+<bluerose>0</bluerose>
+<whiterose>0</whiterose>
+<blackrose>0</blackrose>
+<greenrose>0</greenrose>
+<thirdsourceid>0</thirdsourceid>
+</articleinfo>
+<chapters>
+<item chapterid="611232" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚÒ»ÕÂÃ÷ÃÄÑô¹â±³ºóµÄÒõö²" chapterorder="1" size="6187" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ÑÝ³öÍê±Ï£¬³¡ÏÂÏìÆðÀ×Ãù°ãµÄÕÆÉù£¬ÎÒµÄ×ì½ÇÊÇÏ°¹ßÐÔµÄÎ¢Ð¦¡£ÎÒÒÑ¾­Ï°¹ßÁËÕâÒ»ÇÐ¡£Ö»ÊÇ£¬ÎÒÓÐÐ©ÀÛÁË£¬Ì¨ÏÂµÄÈËÓ°ÔÚÎÒµÄÑÛÀïÏñÊÇÒ»Ö»Ö»µÄÂìÒÏÒ»°ãÈä¶¯×Å£¬ÎÒ²»ÊÇÇÆ²»Æð¹ÛÖÚ£¬Ö»ÊÇÎÒÕæµÄ¿´²»Çå³þËûÃÇµÄÁ³£¬ÔÚÎÒµÄÑÛÀï£¬ËûÃÇ¾ÍÊÇÒ»¸öÒ»¸öµÄÐ¡ºÚµã¡£
+
+    ´ÓÎèÌ¨ºóÃæÍËµ½»¯×±¼ä£¬ÕÅÐ¡º£ÒÑ¾­µÈÔÚÁËÄÇÀï£¬Ëû¸øÎÒÒ»¸ö´ó´óµÄÓµ±§£º¡°×£ºØÄã£¡ÑÝ³öºÜ³É¹¦°¡£¡¡±ËûµÄÉîÇéÈÃÎÒÓÐÐ©²»ÊÊÓ¦£¬ÎÒÒ»°ÑÍÆ¿ªËûÖ±½Ó×ß¹ýÒ»±ßÈ¥ÄÃ×À×ÓÉÏµÄ±ùË®£¬¸Õ¸Õ°ÑË®±­·ÅÔÚ´½±ß£¬ËûÈ´Ò»°Ñ½«±­×ÓÇÀÁË¹ýÈ¥¡ª¡ª
+
+    ¡°¸ÉÊ²Ã´ÄØ£¿¡±ÎÒµÄ»µÆ¢ÆøÉÏÀ´ÁË£¬³å×ÅËûµÉÑÛ¾¦¡£¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611233" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚ¶þÕÂØ¬ºÄ´«À´£¬ÓÖÊÇÖØ´ó×ª»ú" chapterorder="2" size="6216" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ÐÄÀïÞÛ³öÁËÒ»Ð©Ë¼Â·Ö®ºó£¬È»ºó×öÔÚÊá×±Ì¨Ç°¶Ô×Å¾µ×ÓÐ¶×±£¬×öÅ®Éú¾ÍÊÇÂé·³£¬ËäÈ»ÉÏÑ§²»ÓÃÕâÃ´»¯×±£¬µ«ÊÇÒ²ÊÇÒª±ÈÄÐÉú·Ñ¾¢¶ùÐí¶àµÄ£¬»¹ÓÐÎªÁË±ÜÃâ±ðÈË°ÑÎÒ¸øÈÏ³öÀ´£¬ÎÒ¾Í¸ü¼ÓÏñÊÇ´øÃæ¾ßÒ»ÑùµÄÍùÁ³ÉÏÄ¨ÁË£¬²»¹âÃþµ½°×ÀïÍ¸ºìÏñÊÇºìÆ»¹û£¬»¹µÃÅª¸ö³¤³¤µÄ½ÞÃ«£¬²¢ÇÒ²»ÄÜÖ»ÊÇÓÃ¼ÙµÄÕ¾ÉÏÈ¥µÄ£¬ËùÒÔÖ»ÄÜÓÃ½ÞÃ«ÒºÒ»±éÓÖÒ»±éµÄË¢ÉÏÈ¥£¬ÓÉÓÚ²»³£Åª£¬ËùÒÔÅªÆðÀ´¾ÍÌØ±¿×¾£¬·Ñ¾¢¶ùÓÖ»ºÂý¡£
+
+    Õâ¿É²»ÊÇ×î²ÒµÄ£¬Ã»Ïëµ½µÄÊÇÐ¶×±±ÈÉÏ×±»¹Òª·Ñ¾¢¶ù¡£ÉÏµÛ£¡ÄãÀ´¾È¾ÈÎÒ°É£¡ÎÒÊÇÄÄ¸ù¶ù½î²»¶ÔÁË·ÇµÃÒª×ö»ØÅ®ÈËµÄ£¿ÎÒÓ¦¸Ã°ÑËûÃÇËýÃÇÍ³Í³°óÆðÀ´£¬È»ºóÑÏ¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611234" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚÈýÕÂ°Ö°ÖµÄÀñÎï" chapterorder="3" size="5962" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ÎÒÌ§ÊÖ£¬ÇáÇáµÄ°ïËý²ÁÊÃÈ¥ÑÛ½ÇµÄÊªÈó£¬ËýµÄÑÛ¾¦ÖÜÎ§Ã÷ÏÔµÄºìÖ××Å£¬ÓÉÓÚ²ÁÊÃµÄÔµ¹ÊÍ¸×ÅÑªË¿£¬ÎÒÌ¾ÁËÒ»¿ÚÆø£º¡°½ã½ã£¬ÕæÊÇÌ«ÄÑÎªÄãÁË£¡ÓÐÎÒÔÚ£¬Ò»ÇÐ¶¼»á¹ýÈ¥µÄ£¡¡±ÐìÁÕÇáÇáµÄµãÍ·¡£¡°ÎÒÃÇ½øÈ¥°É£¡¡±
+
+    ÆäÊµÕâ³¡¼ûÃæÊÇÒâÁÏÖ®ÖÐµÄÊÂÇé£¬Ö»ÊÇ»òÔç»òÍíµÄ³öÏÖ¶øÒÑ£¬ÎÒÃÇµÄÀáË®¶¼¼¯¾ÛÔÚÐÄµ×Ì«¾ÃÁË£¬ÐìÁÕµÄÖÕÓÚÕÒµ½³ö¿Ú·¢Ð¹³öÀ´ÁË£¬¶øÎÒ£¬ÒòÎªÌ«¾ÃµÄÂéÄ¾£¬ÄÇÐ©ÀáË®¾¹È»±ä³ÉÁË±ù¿é¶ù»ì½øÁËÑªÒºÁË£¬ÓÚÊÇÎÒµÄÑªÒºÀäÁË£¬µ±ÎÒÀ´µ½Ì«Æ½¼äµÄÊ±ºò£¬¿´µ½°Ö°Ö²Ô°×µÄÈçÍ¬Ö½ÈËÒ»°ãµÄÃæ¿×µÄÊ±ºò£¬ÎÒ¾¹È»Ã»ÓÐË¿ºÁµÄ¸Ð¾õ£¬ËûµÄÁ³É«·º×ÅÇàÉ«£¬ÑÛ¾¦ËäÈ»¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611235" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚËÄÕÂÎÒÏëÇëÄãºÈÒ»±­£¬ÇëÉÍÁ³" chapterorder="4" size="6154" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ÏÖÔÚµÚÒ»Ê±¼äÒª×öµÄ¾ÍÊÇ°ÎÍÈ¿ñÌÓ¡£ÌÓÃüÖØÒª£¡ÐÄÀïÇ§Æíµ»ÍòÆíµ»£¬Ç§ÍòÇ§ÍòÇ§Ç§ÍòÍò²»ÄÜ±»²ð´©²ÅºÃ¡£Ò»Â·¿ñ±¼µ½Èý°à½ÌÊÒ£¬Ò»½ø½ÌÊÒ¾Í¸úÕýÔÚ³öÃÅµÄÓÚÎ°²©×²ÁË¸öÂú»³£¬ËûÕýÒ»±ß×ªÉí³öÀ´Ò»±ßËµ×ÅÒ»¾äÊ²Ã´£º¡°Äã¸øÎÒºÃºÃµÄ£¡¡±ÎÒÕý³å½ø½ÌÊÒ£¬Ò»·½ÃæÉ²²»×¡³µ£¬Ò»·½ÃæÒ²Ã»ÓÐÏëµ½Ëû»áÍ»È»×ªÉí£¬È»ºóÁ½¸öÈË¾ÍÖ±½Ó±§ÔÚÁËÒ»Æð£¬»¹ºÃÃ»ÓÐµ¹µØ£¬À´¸öÏÖ³¡´ó³ß¶È±íÑÝ£¬²»¹ýÕâÑùµÄ»°Ò²ÒÑ¾­¹»ÄÑÊÜµÄÁË¡£
+
+    ½ÌÊÒÀïÎªÊý²»¶àµÄ¼¸µÀÄ¿¹âÉäÔÚÎÒµÄÉíÉÏµÄÎÂ¶È¶¼ÒÑ¾­´ïµ½ÁËÖËÈÈÄÑµ±µÄµØ²½£¬¶øÇÒÎÒÓÉÓÚ¸Õ²ÅµÄ±¼ÅÜÏÖÔÚ»¹Æø´­ÓõÓõµÄ£¬ÐØ¿Ú²»Í£µÄÆð·ü×Å²»Ëµ¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611236" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚÎåÕÂÎÒÓÖ³öÃûÁË" chapterorder="5" size="6055" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ¡°¾ÝËµËûÊÇÒòÎªÏ²»¶ÉÏÁËÄ³ÄÐÉú£¬È»ºó²Å²»Ï§Ò»ÇÐ´ú¼ÛÈ¥º«¹úÄ³Ä³ÕûÐÎÒ½ÔºÕûÐÎµÄ£¡ºÜ×¨Òµ°É£¡Ò»µã¶ù¶¼¿´²»³öÀ´ÊÇ¼ÙµÄ£¡¡ª¡ª¡±¡°ÄÇÄãÔõÃ´ÖªµÀÊÇ¼ÙµÄÄØ£¿£¡¡±¡°µ±È»ÊÇÓÐÄÚ²¿¿É¿¿ÏûÏ¢ÁË£¡¡±¡ª¡ª
+
+    ÎÒ¿¿£¡³¹µ×ÎÞÓïÁË¡£ÕâÐ©¸ö¼Ò»ï°¡£¡ÎÒÁ·³Ô·¹µÄÇ®¶¼Ã»ÓÐÁË£¬ÎÒÔõÃ´¾ÍÅÜÈ¥º«¹úÁïÁËÒ»È¦¶ù»¹È¥ÁË×î¸ß¼¶µÄÕûÐÎÒ½ÔºÁËÎÒ×Ô¼º¶¼²»ÖªµÀ°¡£¡¶î¡ª¡ªÕûÐÎÒ½ÔºË³±ã¾Í°ÑÎÒ¸øÕýµÄ¸øÊ§ÒäÁË²»³É£¿»¹ÓÐ¡ª¡ªÄÚ²¿¿É¿¿ÏûÏ¢£¿£¡ÎÒÀÕ¸öÈ¥Ñ½£¡ÎÒ×Ô¼º¶¼²»ÖªµÀ×Ô¼ºÊÇ²»ÊÇÕæµÄÁË£¬ÄÚ²¿µÄÈËÊÇË­£¿ÄÑ²»³ÉÊÇÎÒµÄÐÄ¸ÎÔà»¹ÊÇÉöÔàµÄÄ³¸ö²¿Î»±³ÅÑÁËÎÒ³öÀ´³öÂôÎÒÁË²»³É£¿¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611237" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚÁùÕÂÎÒ´øÄãË½±¼°É" chapterorder="6" size="6130" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ¡°ÄãºÃ¡ª¡ªÄãÊÇÑàÕæ°É£¡¡±ºöÈ»Ò»¸öÉùÒôÏìÁËÆðÀ´¡£ÕæÊÇÔ½ÅÂÊ²Ã´Ô½À´Ê²Ã´°¡£¡ÎÒÓÐÄÇÃ´³öÃûÂð£¿ÒÔÖÁÓÚ×ßµ½ÄÄÀï¶¼»á±»·ÛË¿¶ùÎ²×·£¿ÎÒÌ§ÆðÍ·£¬¿´µ½ÁËÐ¡ÓÚ£¬¿´µ½ËûµÄÊ±ºòÎÒ¾¹È»ÓÐÁËÒ»Ë¿Ë¿µÄÀ¢¾ÎµÄÐÄÇé£¬±¾À´Âï£¡¾¹È»ÊÇÒ»ÃæÖ®Ôµ£¬¿ÉÊÇ×Ô¼º¾¹È»»¹ÓÃÒâÊ¶ºÝºÝµÄÆÛ¸ºÁËËûÒ»´Î£¬Ò²²»ÖªµÀËûÓÐÃ»ÓÐÒò´ËÉúÊ²Ã´´ó²¡µÎËµ°¡£¡
+
+    ¡°ÔõÃ´ÁË£¿ÕâÃ´¼±´Ò´ÒµÄÕâÒªÊÇÈ¥¸ÉÂïÑ½£¿¡±ËûºÜ¹ØÐÄµÄÎÊµÀ¡£ÎÒÀ¢¾ÎµÄÌ§ÆðÍ·¿´Ò²²»Ì«¸Ò¿´Ëû¡£ËûÔ½ÊÇÈÈÇéÎÒ²ÅÔ½ÊÇ±ðÅ¤¡£²»¹ý×ÜÊÇµÃÕÒ»°Ëµ°É£º¡°ÄÇ¸ö¡ª¡ªÉÏ´ÎÊ§Ô¼µÄÊÂÇéÎÒÈ´ÊÇºÜ±§Ç¸£¬ÊÇÒòÎª¼ÒÀï·¢ÉúÁËµã¶ùÒâÍâ¡£¡±¡°¶÷¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611238" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚÆßÕÂÖí°Ë½äÕÕ¾µ×Ó" chapterorder="7" size="6027" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ÎÒ²»ÖªµÀÎÒÎªÊ²Ã´ËµÕâ¾ä»°µÄÊ±ºò²»ÊÇµ×Æø¶ùºÜ×ãµÄÑù×Ó¡£³µ×Ó»º»ºµØÊ»µ½ÁË¹Â¶ùÔºÃÅ¿Ú£¬ÂýÂýÍ£ÁËÏÂÀ´£¬ÎÒ¿´µ½ÓÚÎ°²©Õ¾ÔÚÄÇÀï¶«ÕÅÎ÷ÍûµÄÑù×Ó¡£¿´µ½ÎÒÃÇÏÂ³µ£¬ËûÂíÉÏÓ­½ÓÁË¹ýÀ´£¬Ä¿¹âÖ»ÊÇ²»¾­ÒâµÄÉ¨¹ýÎÒµÄÁ³£¬È»ºó±ãÂäÔÚÁËÐìÁÕµÄÉíÉÏ¡£
+
+    ¡°ÁÕ¶ù£¬·¢ÉúÁËÊ²Ã´ÊÂÇé£¿¡±Ëû¹ØÇÐµÄÑù×ÓÈÃÈËÏëÒªÍÂÅ¶¡£ÎÒºÞËûºÞµÃÏñÊÇÎ÷ÃÅÇìÒ»°ã£¬ÍÂÁËÒ»¿ÚÍÙÄ­£¬×§×§µÄËµµÀ£º¡°ÄãµÄÊ²Ã´¹·Æ¨ÎÄ»¯¹«Ë¾³ÔÊºµÄÂð£¿ÄãÇ©Ô¼ÐìÁÕ¾ÍÊÇÈÃËýÈ¥Ò¹×Ü»áÂô³ªÂð£¿°ü²»°üÀ¨ÂôÉíÄØ£¿¡±
+
+    ÎÒÃ¿Ò»¾ä¶¼ËµµÄ¿Ì±¡ÎÞ±È£¬ÕâÊÇÎÒÄÜÏëµ½µÄ×î¶ñ¶¾µÄÓïÑÔÁË¡£ÓÚÎ°²©¾¹È»Ãæ²»¸ÄÉ«µÄ¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611239" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚ°ËÕÂ´ó°ëÒ¹À´¸öÔ§ÑìÏ·Ë®" chapterorder="8" size="6175" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ÎÒÅÄ×ÅËûµÄµ¥±¡µÄ×ÔÐÐ³µÍµÍµÐ¦×Å£¬È»ºó¾Í¿´µ½ËûÂíÉÏ±ÄÁË¹ýÀ´£º¡°Ê¹²»µÃ£¡ÎÒµÄ×øÆï£¡¡±ÎÒ³åËûÆ²Æ²×ì½Ç£¬È»ºó°Ñ³µ×ÓÈÃ¸øÁËËû¡£Ê¾ÒâËûÆïÉÏ£¬È»ºóÎÒÒ»Æ¨¹É×øÁËÉÏÈ¥£¬Â§×¡ÁËËûµÄÑü¡£ËûÓÐÐ©²»Ï°¹ßµÄÅ¤¶¯ÁËÒ»ÏÂÉí×Ó¡£
+
+    ÎÒÁ¢¿ÌÔÚËûµÄºó±³ÉÏÅÄÁËÒ»ÏÂ£º¡°ÂÒÅ¤¸öÊ²Ã´¾¢¶ù£¿£¡×¨ÐÄÆï³µ¡£¡±¡°Å¶¡ª¡ª¿ÉÊÇÎÒÃÇÒªÈ¥ÄÄÀïÄØ£¿²¢ÇÒÎÒÓÐÐ©²»Ï°¹ßÄØ£¡¡±¡°ÓÐÊ²Ã´²»Ï°¹ßµÄ£¿£¡ÔÛÁ©»¹Í¬´²¹²Õí¹ýÄØ£¡Ò²Ã»ÓÐ¼ûÄã²»Ï°¹ßÑ½£¡¡±È»ºóËûµÄÉùÒô¾Í±äµÃºÜÆæ¹Ö£º¡°ÄÇÊ±ºò¡ª¡ªÄÇÊ±ºòÑ½£¬ÊÇÒòÎªÒòÎªÄãÊÇÄÐÈËÂï£¡¡±¡°ÎÒÏÖÔÚ»¹ÊÇÄÐÈË£¡¡±ÎÒËµ³öÕâÑùÒ»¾ä»°¡£ËûÂíÉÏÒÉ¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611240" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚ¾ÅÕÂÓÖÊÇÒ»³¯»ãÑÝÊ±" chapterorder="9" size="5905" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ÕâÊÇ¸öÊ²Ã´Âß¼­£¿ÎÒ´ÏÃ÷µÄ´óÄÔ»¹ÕæµÄÊÇÎÞ·¨Àí½â¡£»°ËµÎÒÒªÊÇÄÐÉú£¬´ø×ÅÒ»¸öÆ¯ÁÁµÄÅ®Éú»Ø¼Ò£¬ÎÒÂè¡ª¡ªËãÁË£¬ÍÆÀí²»³öÀ´£¬»¹ÊÇ¼ÙÉèÎÒÊÇËûÂè°É¡ª¡ªÎÒÒªÊÇËûÂèÂè£¬Ëû¸øÎÒ´ø¸öÅ®Éú»Ø¼Ò£¬ÄÇÃ´µÄ»°¡ª¡ªÎÒ¿Ï¶¨»á±©±âËû£¡ÓÐ¶àºÝ´ò¶àºÝ¡ª¡ªËùÒÔÎÒ»¹ÊÇ²»ÄÜÀí½â¡£
+
+    ¡°ÎÒÖªµÀÁË¡ª¡ªÄãÊÇ¿ªÍæÐ¦µÄ°É£¿¡±ÎÒÖ»ÄÜÕâÑù½âÊÍÕâÖÖÇé¿öÁË¡£¡°²»ÊÇ°¡¡ª¡ªÎÒÂèÂèÒ»Ö±¶¼ËµÎÒ³¤´óÁËÈ¢²»µ½Ï±¸¾£¬ÎÒÒªÊÇ´ø¸öÃÀæ¤»ØÈ¥¸øËý¿´£¬Ëý¿Ï¶¨ÀÖ»µÁË£¬ÎûÎû¡ª¡ª¡±ÕÅÐ¡º£Ò»±¾Õý¾­µÄËµµÀ¡£¡°ÎÒ¿¿£¡ÄãÂèÂè»¹ÕæÊÇ¿ª·Å°¡£¡¡±
+
+    ¡°ËùÒÔËµÂï£¡Äã½ñÌìÍíÉÏ¾Í¸úÎÒ»Ø¼Ò£¬ÎÒËµ¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611241" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚÊ®ÕÂÐìÁÕ£¬ÍõÁÕ»¹ÓÐÓÚÎ°²©µÄ¹ýÈ¥" chapterorder="10" size="6130" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ¡°ÎÒ¿¿£¡¿´¿´Äã×öµÄÄÇÐ©ÊÂÇé£¡Òª²»ÊÇ¿´ÔÚÄãÊÇÅ®ÉúµÄ·Ý¶ùÉÏ£¬ÎÒ¶çÁËÄã£¡¡±Ëµ¹ýÎÒÆ¢Æø²»ºÃµÄ£¬ÈÌ²»×¡Ê§È¥ÁËÀíÖÇÖ®ºóÕâÖÖ¿ÖÏÅµÄ»°¾ÍÃ°ÁË³öÀ´¡£ÆëÄÈÏñÊÇÒ»¸öÐ¡Æú¸¾Ò»°ãÂúÁ³ÀáË®µÄÍû×ÅÎÒ£¬Õö×Å¾ª¿ÖµÄ´óÑÛ¾¦¡£Ëµ¶à¿ÉÁ¯ÓÐ¶à¿ÉÁ¯°¡£¡ÕâÊ±ºòÐìÁÕ½øÀ´ÁË£º¡°íµíµ£¬ÄãÔõÃ´¿ÉÄÜÕâÑù¶Ô´ýÒ»¸öÅ®Éú£¿£¡ÊÂÇéÒªÓÃºÍÆ½µÄ·½Ê½È¥½â¾ö£¡ÄãÒª°ïËý¶È¹ýÐÄÀïÉÏµÄÄÑ¹Ø£¡¡±¡°Ë­°ïÎÒ¶È¹ýÐÄÀïÉÏµÄÄÑ¹Ø°¡£¿ÕæÊÇ²»¿ÉÀíÓ÷£¡¡±
+
+    ÎÒÒª·èÁË£¬ÎÒ¼¸ºõÊÇ¿ñ±¼×Å´ÓÕâÀï³öÈ¥µÄ£¬È»ºóÔÚÃÅ¿ÚµÄµØ·½ÎÒÔÙÒ»´Î×°½øÁËÓÚÎ°²©µÄ»³Àï¡£ÎÒ¿à×ÅÒ»ÕÅÁ³Ò¡Í·£¬ÊÀ½çÉÏ×î´ÀµÄÊÀ½ç¾ÍÊÇÁ¬¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611242" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚÊ®Ò»ÕÂÓÚÎ°²©£¬ÄãÊÇ²»ÊÇÓÐµã¶ùÏ²»¶ÎÒ°¡£¿" chapterorder="11" size="6193" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ¡°ÕâÑù×Ó°¡¡ª¡ªÄÇÄãËµµÄÄÇ¸öÈË²»»áÊÇÓÚÎ°²©ÄÇ¸ö¼Ò»ï°É£¿¡±ÎÒËµ³öÁËÎÒµÄÍÆÀí£¬¹«Ö÷·¶¶ùÎÞÉùµÄµãµãÍ·¡£ÄÑ¹ÖÄÇ¼Ò»ï¶Ô¹«Ö÷·¶¶ùÕâÃ´ºÃÄØ£¡¿ÉÊÇ¡ª¡ªËûÃÇµÄ¹ØÏµÊÇÄÇÖÖÇéÈËÖ®¼äµÄÂð£¿ÎÒºöÈ»ºÜÏëÖªµÀÕâ¸öÎÊÌâ£¬µ«ÊÇÕâ¸öÎÊÌâºÃÏñÒÑ¾­Éæ¼°µ½¸öÈËÒþË½ÁË£¬ËùÒÔÎÒ»¹ÊÇÈÌÁËÏÂÈ¥¡£
+
+    ¸Ð¾õÎÞ»°¿ÉËµÁË£¬ÎÒÄ¬Ä¬¹¾¹¾½Ð¸ö²»Í£µÄ¶Ç×Ó£¬´ËÊ±²Å¸Ð¾õµ½¶ö£¬ÌØ±ðÌØ±ðµÄ¶öÑ½£¡¡°ÎÒµÄ·¹£¡¡±ÎÒËµÍê¾ÍÆðÉíÏò×ÅÊ³ÌÃÅÜ¹ýÈ¥£¬È»¶øµÈ´ýÎÒµÄÖ»Ê£ÏÂÀä±ù±ùµÄÃÅËø£¬²ÍÌüµÄÀÏ°åºÃ×ÔË½°¡£¡Ëû¾Í²»ÖªµÀ»¹ÓÐÈËÃ»ÓÐ³Ô·¹Âð£¿Ã»ÓÐ¿´³öÄÇ·¹ÊÇÍêÕûµÄ¸ù±¾¾ÍÃ»ÓÐ¶¯¹ýµÄÑù×ÓÂð£¿¶î¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611243" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚÊ®¶þÕÂÂèÂè£¬ÄãÏëÒªÎÒ×öÊ²Ã´£¿" chapterorder="12" size="6056" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ¡°ºÃÁË£¬ÉÏ¿ÎÁË£¬²»ÒªÄÖÁË¡£¡±ÐìÁÕÖÕÓÚ¿´²»ÏÂÈ¥ÁË£¬¡°ÅÅÁ·µ½´Ë½áÊø°É£¬ÓÚÀÏÊ¦£¬Õâ³¡Ï·²»ÊÊºÏÔÚÐ£Ô°ÀïÑÝ¡£¡±Ëý¿´ÏòÓÚÎ°²©¡£ÓÚÎ°²©µãÍ·Í¬Òâ£º¡°ÎÒ¿´Ò²ÊÇ£¬ÖØÐÂÑ¡¾ç±¾°É£¬ÏÈ»ØÈ¥ÉÏ¿Î°É£¡¡±Õâ¸öÈË»¹ÕæÄÜ×°µÄ¡£
+
+    ÎÒµ±È»ÒªµÚÒ»¸ö×ß£¬µ«ÊÇÎÒ×ßÖ®Ç°ÁôÏÂÁËÒ»¾ä£º¡°ÎÒ¿´ÕâÏ·µÄÈ±µãÖ÷ÒªÊÇÌ«¹ýÓÚÁ÷Ë®ÁË£¬Ã»ÓÐ¸ß³±¡£¡±
+
+    »°ËµÃ¿ÌìÔÚÑ§Ð£´ô×Å£¬²»ÊÇÉÏ¿ÎÁåÏì£¬¾ÍÊÇÏÂ¿ÎÁåÏì£¬ÏìÀ´ÏìÈ¥µÄÒ»ÌìµÄÊ±¼ä¾Ã¹ýÈ¥ÁË£¬Òª¶àÎÞÁÄ¾ÍÓÐ¶àÎÞÁÄ¡£¶øÇÒÒ²Ã»ÓÐÁËÐ¡Ê±ºò¼òµ¥µÄÂú×ã¡£ÄÑ¹ÖÓÐÄÇÃ´¶àÈË²»Ïë³¤´óÄØ£¡¡°ÄÇÌìÎªÊ²Ã´¶ªÏÂÎÒÒ»¸öÈËÅÜÁË£¿¡±¹«Ö÷·¶¶ùÕ¾¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611244" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚÊ®ÈýÕÂÉÏË®´å" chapterorder="13" size="6120" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ¡°Äã¡ª¡ª³öÈ¥Õ¾×Å¡£¡±¡°Å¶¡ª¡ª¡±ÎÒÓÆÈ»µÄÅ¶ÁËÒ»Éù£¬È»ºóÕ¾ÆðÉíÀ´×ßÈ¥´¦É¹Ì«Ñô¡£Õâ¸ö´ÓÐ¡µ½´óÒ»Ö±¶¼ÊÇÎÒµÄ×¨³¤£¬×î½üºÃÏñÊèÓÚ¸´Ï°ÁË¶¼¡£²»¹ý¸ÉÆðÀ´»¹ÊÇµÃÐÄÓ¦ÊÖµÄ£¬Çá³µÊìÂ·µÄ¡£ÒòÎªÎÒ¾ÍÊÇÄÇÃ´µÄÏ²»¶¡ª¡ªÉ¹Ì«Ñô£¡ÍÛ¹þ¹þ¡ª¡ª
+
+    ¿´ÎÒÕâÃ´ÇáËÉµÄ½ÓÊÜ³Í·££¬°àÖ÷ÈÎÀÏÊ¦ËÆºõÐÄÀïÓÐÐ©²»½âÆø£¬Ëý¾¹È»ÓÖ²¹³äÁËÒ»¾ä£º¡°½ÐÄãµÄ¼Ò³¤À´£¡¡±
+
+    ÎÒµÄ¼¹±³ÂíÉÏ±äµÃ½©Ó²£¬½ÐÎÒµÄ¼Ò³¤À´£¬½ÐÎÒµÄ¼Ò³¤À´£¬ÎÒÈ¥ÄÄÀï½ÐÄØ£¿È¥Òõ²ÜµØ¸®Âð£¿»¹ÊÇÈ¥ÌìÌÃ£¿ÎÒµÄÀáË®ÓÖ²»ÕùÆøµÄ»¬ÂäÁËÏÂÀ´¡£¡°ÄãÃ»ÓÐÌýµ½ÎÒËµ»°Âð£¿Õ¾ÔÚÄÇÀï×öÊ²Ã´£¿ÏÈ³öÈ¥Õ¾×Å£¬ÏÂ¿Îºó¸ø¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611245" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚÊ®ËÄÕÂÍ·ÔÎÄ¿Ñ£ÁË" chapterorder="14" size="6075" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ÄÇÃ´Ëû»á²»»áÏñÊÇÕâÃ¶Ê¯Í·Ò»Ñù£¬ÊÇÔÚÈËµÄ¡°°ïÖú¡±Ö®ÏÂ²ÅÒþ¶ÝÔÚ´óº£µÄÉî´¦µÄÄØ£¿ÎÒÕæµÄ²»Ô¸ÒâÕâÑùÏë¡£ÎÒÂíÉÏÒ¡Ò¡ÄÔ´ü£¬ÊÂÊµ²»¿ÉÄÜÊÇÕâ¸öÑù×ÓµÄ¡£ÒòÎª°Ö°ÖÉúÆ½ÎªÈËºÍÉÆ´ÓÀ´¶¼Ã»ÓÐµÃ×ï¹ýÈË£¬ÔõÃ´»áÇ£³¶µ½ÕâÑùµÄÊÂÇéÄØ£¿£¡
+
+    Ò²ÒÑ¾­ºÜÉîÁË£¬ÈýÈýÁ½Á½µÄ³ËÁ¹µÄÈËÃÇ¶¼¿ªÊ¼´òµÀ»Ø¸®ÁË¡£ÎÒÒ²ÑØ×Å×ß¹ýÀ´µÄÂ·Ò»Â·Íù»Ø×ß£¬×ßµ½ÄÇ¸ö´óÊ¯Í·´¦µÄÊ±ºò£¬ÄÇ¸öÅ®ÈËÈÔ¾É×øÔÚÄÇÀï£¬ÊÖÀïËÆºõÄÃ×ÅÒ»¸ö»­¼ÐÖ®ÀàµÄ¶«Î÷£¬È»ºóËýÑ¸ËÙµÄÔÚÉÏÃæ»­×ÅÊ²Ã´¡£
+
+    ÕæÊÇÒ»¸öÓëÖÚ²»Í¬µÄÅ®ÈË¡£ÌìÉ«ÕâÃ´ºÚÁË£¬¿´µÃµ½Âð£¿ÎÒ²»ÓÉ×ÔÖ÷µÄÏò×ÅËýµÄ·½Ïò×ß¹ýÈ¥£¬ºÁÎÞÒÉ¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611246" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚÊ®ÎåÕÂ´í¹ýÁËÔµ·Ö´í¹ýÁËÄã" chapterorder="15" size="6192" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ËûÃÇÁ©ÔÚÇ°Ãæ×ß£¬ÎÒÔÚºó±ß¸ú×Å£¬ÎÒÓÐÐ©Ææ¹ÖµÄ¿´×ÅËûÃÇÂÔÏÔµÃêÓÃÁµÄ×´Ì¬£¬ÐÄÀïÔÚ×ÁÄ¥×ÅËûÃÇµ½µ×ÊÇÊ²Ã´¹ØÏµ¡£×ÔÊ¼ÖÁÖÕ¶¼Ã»ÓÐÈË»ØÍ·ÀíÎÒÒ»ÏÂ£¬ÕæÊÇµÄ£¬ºÃÄÑ¹ý°¡£¡
+
+    ÖÕÓÚµ½ÁËÉ³Ì²ÉÏÁË£¬×¨ÐÄ»­»­µÄÊ±ºòÊÇ²»ÊÇÇéÐÎ»áºÃÒ»µã°¡£¿Ï£ÍûÈç´Ë£¬ÎÒÃÇ°Ñ»­¼ÜÖ§ºÃ£¬È»ºóÍõ½ã°Ñ»­°å·ÅÔÚÁË»­¼ÜÉÏ£¬ÎÒ¿´×ÅËýÄÃ³öÑÕÁÏºÐ×Ó·ÅÔÚÒ»¿é´óÊ¯Í·ÉÏÈ»ºó¿ªÊ¼µ÷É«¡£ÎÒÔõÃ´Ñù¶¼²»ÏàÐÅÒ»¸öÈç´Ë×÷»­×¨ÒµµÄÅ®ÈË»áÒòÎªÄ³Ð©Ê²Ã´Ô­ÒòÈ¥¸øÒ»¸ö´¹Î£µÄ²¡ÈËµ±»¤¹¤£¬Èç¹û·ÇµÃÓÐµÄ»°£¬ÄÇ¿Ï¶¨ÊÇÒòÎªÄÇ¸ö²¡ÈËµÄÉí·Ý²»Ò»°ã¡£
+
+    ¡°Âèßä¡ª¡ªµùµØ¡ª¡ª¡±ÕâÊ±ºòÒ»¸öÐ¡ÄÐº¢£¬¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611247" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚÊ®ÁùÕÂºÍÉÆµÄÍõ½ã£¬À´¼ÒÀï×¡°É" chapterorder="16" size="6043" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    Ê±¼äÒ»µãÒ»µãµÄÁ÷ÊÅ£¬ÎÒÕæµÄÊÇºÜÓÐ±ØÒªÆðÀ´ÁË£¬ÒòÎªÖÜÎ§ºÃ°²¾²°¡£¡µ½µ×·¢ÉúÁËÊ²Ã´ÁË£¿ÄÑµÀÕâÃ´Ò»°Éàª£¬°ÑÎÒ¸ø°Éàª´©Ô½ÁË²»³É£¿²»ÄÜ°¡£¿£¡´©Ô½µ½¹Å´úÎÒÀúÊ·²»ºÃµÄ£¬²»ÄÜÓ¦¸¶×ÔÈç°¡£¡ÓÈÆäÓÖÃ»Ç®Ã»È¨µÄ£¬»¹ÔÚÕâÀïÌÉ×ÅµÄ»°ÕâÃ´¾Ã¶¼Ã»ÓÐÈËÀí»áÔÛ£¬¹À¼ÆÒ²ÊÇ´©Ô½³ÉÆòØ¤ÁË°É£¡Ç§²»ÄÜÍò²»ÄÜÇ§Ç§ÍòÍò¸ö²»ÄÜ¡£
+
+    ¿ÉÊÇ¿ÉÊÇ¾ÍÕâÑùÕö¿ªÑÛ¾¦µÄ»°£¬ÍòÒ»²»ÊÇ´©Ô½£¬ÍòÒ»Ò²Ã»ÓÐ·¢ÉúÈÎºÎÊÂÇé£¬ÍòÒ»¾ÍÔÚËýÃÇÑÛÕöÕöµÄ×¢ÊÓÖ®ÏÂ¾Í×Ô¼ºÆðÀ´ÁË£¬ÄÇ²»ÊÇÒ²Ì«Ã»ÓÐÃæ×ÓÁË°¡£¿£¡ÎÒºÃ¾À½á°¡£¡ºÃºÃ¾À½á£¡ÌìÄÄ£¡À´¸ø¶îÖ¸ÌõÃ÷Â·°É£¡
+
+    ²»ÐÐ£¡¶Ç×Ó²»ºÏÊ±ÒËµÄ¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611248" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚÊ®ÆßÕÂÍõ½ã½²µÄ¹ÊÊÂ" chapterorder="17" size="6190" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    â«ËöµÄÓÚÎ°²©£¡ÎÒÖ»ÄÜÔÚÐÄÀïÒ»±é±éµÄ°ÑËû´óÐ¶°Ë¿éÒÔ½âÎÒÐÄÍ·Ö®ºÞ¡£¡°ÑàÕæ£¬Äãµ¹ÊÇÌáÌáÒâ¼û°¡£¡¡±Íõ½ãµÄÉùÒô£¬Ô­À´ËýÖªµÀÎÒµÄÃû×ÖÁË£¬»¹ºÃÖªµÀµÄÊÇÕâ¸ö£¬°Ë³ÉÊÇÓÚÎ°²©¸æËßËýµÄ°É¡£ÎÒÓÖ¿´ÁËÒ»ÑÛÓÚÎ°²©£¬ÐÄÀï¹ÖÔ¹×ÅËûµÄ¶àÊÂ£¬¿´À´ÎÒ»¹ÕæµÄÊÇÍ¦ÌÖÑáËûµÄ¡£¿ÉÒÔËµ¶ÔËûÏàµ±µÄÓÖ³É¼û¡£
+
+    ÎÒÖÕÓÚ°Ñ×¢ÒâÁ¦¼¯ÖÐÔÚÄÇ¸±»­ÉÏ¡£»­ÉÏ»­µÄÊÇÈý¸öÈË£¬Ò»¸öÄÐÈËÂ§×ÅÒ»¸öÅ®ÈË£¬ÏñÊÇÒ»¸öÎèµ¸ÊÕ³¡Ê±µÄ×ËÊÆ£¬ÄÇÅ®ÈËÔÚÄÐÈËµÄË«±ÛÖÐ¼äÒ¡Ò¡Óû×¹×Å£¬ÅÔ±ßÊÇÒ»¸öÐ¡ÄÐº¢¶ù£¬Ëûà½×Å×ì°ÍÒÉ»óµÄ¿´×ÅÕâÒ»Ä»¡£ÎÞÒÉ¡ª¡ª¾ÍÊÇ¸Õ²ÅµÄÄÇ¸öÇé¾°¡£ÎÒµÄÁ³Ù¿ºöºìÁË£º¡°Íõ½ã¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611249" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚÊ®°ËÕÂÕæÊÇ³öÈËÒâÁÏ" chapterorder="18" size="6083" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    Ö»ÊÇÔÚÉúÏÂÀ´µÄµÚ¶þÌì£¬¾Í±»ËÍÁË³öÈ¥¡£Íõ¼ÒÊÇ²»¿ÉÒÔÈÝÈÌÕâÑùµÄ³ÜÈèµÄ£¡ºóÀ´¡ª¡ª
+
+    ÎÒÌý×ÅÍõ½ãµÄ¹ÊÊÂ£¬Ìý×ÅÌý×Å¾Í±Ç×ÓËáËáµÄ¡£¡°Äã¿´ÕâÊÇÊ²Ã´£¿¡±Ð¡Î÷ºöÈ»Ææ¹ÖµÄÖ¸×ÅÎÒÉíÉÏµÄÒ»´óµÎË®×Õ¡£¡°ÊÇ½ã½ã¿ÞÁË°¡£¡¡±ÎÒ²»ÄÍ·³µÄ»Ø´ðËû¡£¡°Å¶¡ª¡ª½ã½ãµÄÀáÖéºÃ´ó¿Å°¡£¡¶øÇÒ»¹¡ª¡ª»¹ÓÐºÜ¶à°¡£¡¡±Ð¡Î÷ÈôÓÐËùË¼µÄËµµÀ¡£ÎÒÕâ²Å·¢ÏÖÈ·ÊµÓÐ´ó¿Å´ó¿ÅµÄË®µÎµÍÂäÔÚÁËÎÒµÄ¸ì²²ÉÏ¡£ÓÚÊÇÎÒÌ§Í·¿´Ìì£¬ÕâÒ»¿´£¬²»Òª½ô£¬¾ÍÓÐË®µÎµô½øÁËÑÛ¾¦ÁË¡£
+
+    ¡°±¿µ°£¡±äÌìÁË£¬¿ì»Ø¼ÒÁË£¡ÊÕÊ°¶«Î÷¿ìµã¶ù£¡¡±ÓÚÎ°²©Ò»±ß´ß´Ù×ÅÒ»±ßÊÕÊ°»­¼ÜÖ®Àà¡£¡°Íõ½ã¡ª¡ª¹ÊÊÂ»¹¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611250" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚÊ®¾ÅÕÂ×ß°É×ß°É£¬ÓÀÔ¶¶¼²»Òª»ØÀ´" chapterorder="19" size="6023" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    À´µ½Íõ½ãµÄ¼ÒÀï£¬¾ÍÊÇºÜÆÕÍ¨µÄ¼ÒÍ¥µÄÑù×Ó£¬Ö»ÊÇ¿´ÉÏÈ¥ÓÐµã¶ù¹Åµä£¬¿ÉÒÔÍÆ¶ÏÖ÷ÈËÊÇÒ»¸öºÜ±£ÊØµÄÈË¡£ÕâÖÖÈËÍùÍù¶ÔÓÚÒ»Ð©ÊÂÇé»á¹ý·ÖµÄÖ´×Å¡£ÎÒ×°×÷ÈôÎÞÆäÊÂµÄä¯ÀÀ×ÅÎÝ×ÓÀïµÄ°ÚÉè¡£ÆäÊµÕâÀï£¬²»ÊÇÎÒÒ»Ö±¶¼ºÜÏëÀ´µÄÂð£¿ÏßË÷¿Ï¶¨»áÔÚÕâÀïÕÒµ½µÄ¡£µ«ÊÇ´ËÊ±ÎÒÈ´ÓÐÐ©º¦ÅÂÁË£¬²¢ÇÒ²»Ì«ÈÈÖÔÓÚËÄ´¦Õì²éµÄÑù×Ó£¬¿ÉÄÜÊÇÓÐÐ©²»ÈÌÐÄ°É¡£
+
+    Íõ½ãÈ¥³ø·¿×ö²ËÁË¡£ÕÅ°¢ÒÌÆäÊµ¾ÍÊÇÒ»¸öÖÐÄê°¢ÒÌ£¬¼ÒÍ¥Ö÷¸¾µÄÄ£Ñù£¬ËýÒ²È¥³ø·¿°ïÃ¦ÁË¡£ÎÒ¸ú¹ýÈ¥Ëµ£º¡°ÎÒ°ïÄã×ö²Ë¡£¡±ËµÍêÎÒ¾ÍÈ¥°ïÃ¦Ôñ¶¹½Ç£¬µ«ÊÇ¿ÉÄÜÊÇÔñ¶¹½ÇµÄÑù×Ó²»ÊÇºÜ×¨Òµ°É£¬Íõ½ãÂíÉÏÍÆ×ÅÎÒµÄ¼ç°òËµ¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611251" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚ¶þÊ®ÕÂ°®ÉÏÁËÒ»¸ö²»¸ÃÈ¥°®µÄÈË" chapterorder="20" size="6165" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ¡°Ã»ÓÐ¹ØÏµÀ²£¡·´Õý²»ÒªºÍÎÒË¯Ò»ÕÅ´²¾ÍºÃ£¡¡±ÍõÐ¡Î÷´óÉùµÄÌáÒé¡£ÕâÊÇÑûÇëÄØ£¿»¹ÊÇÖð¿ÍÁî£¿¿ÉÊÇÎÒÆ«Æ«²»³ÔÕâÒ»Ì×¡£ÎÒµãÍ·Ëµ£º¡°¶÷£¬Ð»Ð»Íõ½ã¡£ÎÒ¾ÍºÍÐ¡Î÷×¡Ò»¸ö·¿¼ä°É£¬Ò²ºÃÓÐ¸öÕÕÓ¦£¡¡±¡°ÎÒ»áÄò´²µÄÅ¶£¡°ÑÄã³åµ½Â¥ÏÂÈ¥£¡¡±ÍõÐ¡Î÷´óÉù½Ð×Å£¬ÕâÓÖÊÇÒªÐ®Âð£¿¡°ºðºðºð¡ª¡ª½ã²»ÅÂ£¡ÄãÒªÊÇÄò´²½ã°ÑÄãÈÓÂ¥ÏÂ£¡¡±ÎÒµ±È»²»¸Ò´óÉùµÄËµ³öÕâ¾ä»°£¬Ð°¶ñµÄÁ³¿×Ö»ÊÇÈÃÕâ¸öÍõÐ¡Î÷¿´µ½¾Í×ã¹»ÁË¡£
+
+    ÍíÉÏ£¬ÍõÐ¡Î÷¸úÎÒÄÖÌÚ¹»ÁË¾ÍÂú×ãµÄË¯×ÅÁË£¬×ì½Ç¾¹È»»¹´ø×ÅÐ¦ÈÝ¡£¿´×ÅÕâ¸öÐ¡¼Ò»ïÂú×ãµÄË¯Ïà¡£ÎÒµÄÐÄÀï¾¹È»Ò²¸Ð¾õÌðÌðµÄ¡£Ö»ÊÇ¡ª¡ª²ôÔÓ×ÅÉÙÐíµÄÊ§¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611252" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚ¶þÊ®Ò»ÕÂ´ÓÊ±¹âÖÐÐÑ¹ýÀ´" chapterorder="21" size="6171" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ÎÒÕö¿ªÑÛ¾¦µÄÊ±ºò£¬¿´µ½µÄÊÇÓÚÎ°²©µÄÁ³£¬ËûµÄÑÛ¾¦ÔÚ×ÐÏ¸µÄ¶ËÏê×ÅÎÒ£¬·Â·ðÒÑ¾­ºÜ³¤Ê±¼ä£¬ËûµÄÑÛ¾¦ÀïÂúÂúµÄÎÂÈáµÄÀàËÆÓÚ°®ÒâµÄ¶«Î÷¡£ÎÒËÁÎÞ¼Éµ¬µÄ¿´Ëû£¬ÒòÎªÎÒÒÔÎªÕâÊÇÃÎ¡£ËûÄÇÃ´ÌÖÑáÎÒ£¬»¹´òÁËÎÒ¶ú¹â£¬¿Ï¶¨²»»áÔÚÎÒÉí±ßÊØ×ÅÎÒ¡£
+
+    ÎÒÏëÉì³öÊÖÀ­ÃþËûµÄÁ³£¬¿ÉÊÇÎÒ³ýÁËÑÛ¾¦Ö®Íâ¾¹È»È«Éí¶¼ÊÇÎÞÁ¦µÄ£¡ËûµÄÑÛ¾¦¿ªÊ¼±äµÃÐÀÏ²Èô¿ñ£¬È»ºóÑÛ¿ôÖÐ¾¹È»±»Ë®Ò»ÑùµÄ¶«Î÷¸øÈóÊªÁË£¬²»»áÊÇÀá°É£¿ÄÇ¸ö¼Ò»ï¡ª¡ª¾¹È»ÎªÎÒ¿ÞÁË£¿ÊÇ¸ßÐËµÄÂð£¿ÒòÎªÎÒÃ»ÓÐÁ¦Æø¶¯ËùÒÔËû²Å»áÕâÑù¿ªÐÄÂð£¿
+
+    ¡°Ò½Éú¡ª¡ªËýÐÑÁË£¡ÐÑÁË£¡¡ª¡ª¡±Ëû¿ñºô×Å±¼ÅÜ³öÃÅ¡£ÎÒ´ÓÀ´¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611253" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚ¶þÊ®¶þÕÂÕÅÐ¡º£µÄÌõ¼þ" chapterorder="22" size="6411" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ËûµÄÕâÕÐ¶ÔÓÚ±ðÈËÒ²Ðí¹ÜÓÃ£¬¿ÉÏ§¶ÔÓÚÎÒÊÇÒ»µã¶ùÓÃ¶¼²»¹ÜµÄ£¡ÎÒÖ»ÊÇËûµÄÑÛ¾¦£¬²»ÓÃÈÎºÎÐÞÊÎµÄÑÛÉñ¶ùÖ±½Ó¿´µ½ËûµÄÍ«ÈÊÀïÃæ£¬ÇáÙ¬µÄ×ì½ÇÍäÆð£¬Ëû»Ø±¨¸øÎÒÒ»¸öÎÞ¹¼µÄÑÛÉñ¶ù£¬È»ºó¾ÍÒ»Ö±ºÜÌ¹È»µÄÑù×Ó¿´×ÅÎÒ£¬²»¹ýºÜÏÔÈ»ËûÊÇ×°³öÀ´µÄ£¬ÎÒ¿´×ÅËûÒ»Ö±²»ÓÃ¸Ä±ä²ßÂÔµÄÖ»ÊÇÓÃÒ»ÖÖ·½Ê½¿´×ÅËû¾Í×ã¹»ÁË£¬ÂýÂýµÄ£¬ËûµÄÑÛ¾¦¿ªÊ¼ÓÐÁËÒ»Ë¿µÄÉÁË¸£¬È»ºóÂýÂý¶îÍ·ÉÏ±ä³öÁËÈýÌõº¹Öé¶ù£¬×îºó»º»ºÁ÷ÏÂÀ´¡£½á¹ûÊÇËûÈíßÕßÕµÄµÍÏÂÄÔ´üÈõÈõµÄËµÁË¾ä£º¡°¹ÃÄÌÄÌ£¬ÎÒ´íÁË»¹²»³ÉÂð£¿¡±
+
+    ÎÒ¡°àÛàÍ¡±Ð¦ÁË£¬ÔçÖªµÀ´íÁË»¹Òª¸úÎÒ¶·£¿£¡Ã÷Ã÷Çå³þ¶·ÖÇ¶·ÓÂÄã¶¼²»ÊÇÎÒ¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611254" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚ¶þÊ®ÈýÕÂ×îºÃµÄ±¨¸´ÊÇÀäÄ®" chapterorder="23" size="5939" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ½øÀ´µÄÈËÊÇÐìÁÕ¡£
+
+    ÔÚ¿´µ½ËýµÄË²¼ä£¬ÎÒ±ã¾ö¶¨×ê½ø±»×ÓÀï¼Ù×°Ë¯¾õ£¬ÊÂÊµÉÏÎÒÒ²ÊÇÕâÑù×öµÄ£¬ÎÒ¾ÍÊÇ±¾ÄÜµÄÍ»È»µÄÑ¡ÔñÕâÑù¶ÔËý£¬Ã»ÓÐÔ­ÒòµÄ¾ÍÊÇ²»ÏëÀíËý²»ÏëÃæ¶ÔËý¡£
+
+    ¡°Ë¯×ÅÁËÂð£¿¡±ÐìÁÕµÄÉùÒôÈáÈáµÄÏìÆðÀ´£¬Ò»Èç¼ÈÍù£¬¿ÉÊÇÕâ´ÎÌýÆðÀ´È´·ÖÍâµÄ´Ì¶ú¡£¿ÉÄÜÒÔºóºÜ³¤µÄÒ»¶ÎÊ±¼äÀï¶¼»áÊÇÕâÑù¡£
+
+    ¡°Ã»ÓÐ¡ª¡ªßÞ£¿¸Õ²Å»¹ºÃºÃµÄÄØ£¡¡±ÕÅÐ¡º£µÄÉùÒô¡£ÎÞÒÉËû°ÑÍ·×ªÏòÎÒµÄÊ±ºòÒÉ»óÁË£¬¶ÔÓÚÕâÑùµÄµ¥Ï¸°û¶¯ÎïÕâÖÖÍ»·¢Çé¿öÈ·ÊµÊÇÓÐÐ©Í»Ø£µÄ£¬¡°ºÇºÇ¡ª¡ªË¯µÃ»¹Õæ¹»¿ìµÄ£¡¿ÉÄÜÊÇÀÛÁË¡ª¡ªºÇºÇ£¬ºÙºÙ¡ª¡ª¡±
+
+    ¹âÊÇÌýÉùÒô¶¼¿ÉÒÔÏë¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611255" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚ¶þÊ®ËÄÕÂÓÚÎ°²©ÊÇÎÒµÄ" chapterorder="24" size="6094" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ¡°µ½Õâ¸öÊ±ºò»¹ÓÐ±ØÒªÑÚÊÎÂð£¿ÒªÉ±Òª¹ÐËæ±ã°É£¡¡±ÎÒËµÍê¾Í²»ÔÙ·¢³öÒ»ÑÔ£¬ÈÎÆ¾ÐìÁÕ²»ÑáÆä·³µÄÈ°Ëµ¡£
+
+    ¡°ÄãÌýÎÒËµ£¬ÕâÐ©¶¼ÊÇÎªÄãºÃ£¬ÄãÒªÖªµÀ£¬ÎÒÒ»Ö±¶¼ÊÇ´ÓÄãµÄÁ¢³¡³ö·¢µÄ¡ª¡ªËùÒÔÕâ´Î¼´Ê¹Äã²»¿ªÐÄÕâÑùÒ²Ã»ÓÐ°ì·¨£¬ÎÒÕâÑù×öÒ²ÍêÈ«ÊÇÎªÁËÄãºÃ¡ª¡ª¡±
+
+    ÎÒÕæÊÇÔ½ÌýÔ½ÆøÁË£¬Ã¿Ò»¾äÌýÈÃÈË¸Ð¾õÄÇÃ´µÄ¶ñÐÄ£¬ÐéÎ±µÄÎ±ÉÆµÄ¼Ò»ï£¡ÎÒÒ²²»ÖªµÀÄÄÀïÀ´µÄÁ¦Æøà²µÄÒ»ÏÂ×øÁËÆðÀ´£º¡°ÄãÉ±ÎÒÒ²ÊÇÎªÎÒºÃµÄ»°¶¯ÊÖ°É£¡±ðÁôÇé£¡£¡¡±
+
+    ÎÒÕö¿ªÑÛ¾¦±ÆÊÓ×ÅËýµÄÑÛ¾¦¡£¼ÈÈ»Äã¶¼¿ÉÒÔÎÞ³ÜÖÁ´Ë£¬ÎÒ»¹ÓÐÊ²Ã´ºÃËµµÄÄØ£¿£¡ÎÒ¿´×ÅËý£¬ÎÞ»ÚµÄÖ±½ÓÄýÊÓËý¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611256" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚ¶þÊ®ÎåÕÂ³öÈ¥Í¸Í¸Æø" chapterorder="25" size="6252" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ÎÒÇáÇáµÄÏÂ´²£¬ËÄÏÂ¹Û²ìÁËÒ»È¦£¬ÃÅ¿Ú´°×ÓÍâÃæ¶¼Ã»ÓÐ·¢ÏÖÊ²Ã´¿ÉÒÉµÄÈË¡£¶øÇÒÎÒÒ²ÕæÅå·þ×Ô¼ºµÄºÃÉíÌå£¬¸Ð¾õ³ýÁËÓÐµãÆ®Ö®Íâ£¬Ã»ÓÐÊ²Ã´´ó°­µÄ¡£ÓÚÊÇÎÒ¶«·­Î÷ÕÒÁËÒ»Õó£¬×îºóÖÕÓÚÔÚ¹ñ×ÓµÄµÚ¶þ¸ö¸ñ×ÓÀïÕÒµ½ÁËÒ»Ì×ÐÝÏÐÍâÒÂ¡£ÎÒÂíÉÏ»»ÉÏ£¬¿´ÁËÒ»ÑÛÉíÉÏµÄ²¡ºÅ·þ£¬Æ²×Å×ìÍÑÏÂÀ´Ñ¸ËÙ¶ªµ½Ò»±ß£¬ÎÒÊÇ²»»áÉµµ½´©×Å²¡ºÅ·þµ½´¦ÂÒ»ÎÓÆµÄ¡£
+
+    ÈýÏÂÎå³ý¶þ»»ºÃÒÂ·þ£¬ÇÄÇÄµÄ´ò¿ªÃÅ£¬È»ºóË½ÏÂ¹Û²ìÁËÒ»»á¶ù£¬Íû·ç¹¤×÷Ò»ÇÐË³Àû£¬Ã»ÓÐ·¢ÏÖÈÎºÎÒì³£Çé¿ö£¬ÓÚÊÇÎÒ²ÅÑ¸ËÙÉÁÉí³öÃÅ£¬±Ü¿ªÒ½ÔºµÄ»¤Ê¿Ò½ÉúÊ²Ã´£¬×ÜÖ®´©°×É«ÒÂ·þµÄÒ»ÂÉÍËÉ¢¡£Å¶²»£¬ÊÇÎÒÍËÉ¢¡£
+
+¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611257" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚ¶þÊ®ÁùÕÂÇó»é" chapterorder="26" size="6230" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ¡°ÄãÈ¥°ÑËýÃÇÁ½¸ö¶¼½Ð½øÀ´£¬ÎÒÓÐ»°ÒªËµ£¡¡±
+
+    ¡°¿ÉÊÇ¡ª¡ªÄã¸Õ¸Õ²Å°Ñ¡ª¡ªËýÃÇÁ½¸ö¸Õ¸Õ²Å³öÈ¥°¡£¡¡±¿´À´ËûÊÇÁ¬Ò»¸öÓÐ¿ÉÄÜµÃ×ïÎÒµÄ×Ö¶¼²»¸ÒËµ¡£
+
+    ÎÒ°×ËûÒ»ÑÛ£º¡°Äã½Ð²»½Ð£¿¡±
+
+    ÓÚÎ°²©³åËûÊ¹ÁËÒ»¸öÑÛÉ«¡£ËûÂíÉÏµÀ£º¡°½Ð£¬½Ð£¬Õâ¾ÍÈ¥£¡¡±
+
+    ¼¸·ÖÖÓ¹ýÈ¥ºó£¬ÃÅ»º»ºµÄ´ò¿ª£¬ÏÈ½øÀ´µÄÈËÊÇÍõÁÕ£¬È»ºó²ÅÊÇÀáºÛÎ´¸Éæ©æ©À´³ÙµÄÐìÁÕ¡£ËýÕ¾ÔÚÃÅ±ßµÄÎ»ÖÃ£¬·Â·ðºÜ²»ÇéÔ¸×ß½øÀ´µÄÑù×Ó¡£
+
+    ¡°ÐìÁÕ£¬½øÀ´µã£¬°ÑÃÅ¹ØÉÏ¡£¡±ÓÚÎ°²©ËµµÀ£¬¿´×ÅËý²»¶¯£¬×ß¹ýÈ¥Ë«ÊÖ°â¹ýÀ´ËýµÄ¼ç°ò½«ËýÍÆÏòÀïÃæÒ»µã¶ùµÄµØ·½£¬È»ºóÇáÇáµÄ½«ÃÅÑÚÉÏ¡£¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611258" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚ¶þÊ®ÆßÕÂÊÖÊõÖ®ºó" chapterorder="27" size="6217" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ËùÓÐµÄÈË¶¼ÔÚÅÜÀ´ÅÜÈ¥£¬´©×Å°×´ó¹ÓµÄÒ½ÉúºÍ»¤Ê¿£¬ÎÒÕ¾ÔÚ°ë¿ÕÖÐ¿´×ÅµØÉÏµÄÎ»ÖÃ£¬ËûÃÇÔÚÎÒµÄÉíÉÏ²åÁËºÜ¶àµÄ¹Ü×Ó¡£
+
+    ÓÚÎ°²©×ß½øÀ´¶äÀ­×ÅÄÔ´ü£º¡°Ò½Éú¡ª¡ª¡±
+
+    ¡°¾èÔùÈËÀ´ÁËÃ»ÓÐ£¿¡±
+
+    ¡°Ëý½ñÌì»Ø¼ÒÁË£¬ÔÚ¼¸°ÙÀïÍâµÄ¼ÒÏç£¬¶øÇÒ»¹¸ÐÃ°ÁË¡ª¡ªÒ½Éú£¬ÎÒÃÇÄÜ²»ÄÜÏëÏë±ðµÄ°ì·¨£¿¡±
+
+    ¡°ÏÖÔÚÈ¥ÄÄÀïÏë°ì·¨£¿ÎÒÃÇÒÑ¾­¾¡Á¦ÁË£¬½ÓÏÂÀ´Ö»ÄÜ¿´²¡ÈËµÄÔì»¯ÁË£¬ÄÜ³Åµ½Ê²Ã´Ê±ºòËãÊÇÊ²Ã´Ê±ºò°É£¡¡±
+
+    ¡°ÎªÊ²Ã´»áÕâÑù°¡£¿ÎªÊ²Ã´£¿ÎªÊ²Ã´£¿ÀÏÌìÒ¯ÄãÎªÊ²Ã´ÒªÕâÑù³Í·£Ò»¸öÅ®ÈËÄØ£¿ÄãºÃ²»¹«Æ½Ñ½£¡¡±ÓÚÎ°²©×øÔÚ´²Í·Í´¿àµÄ×¥×ÅÍ··¢¡£¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611259" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚ¶þÊ®°ËÕÂ¶ÔÐìÁÕµÄÐßÈè" chapterorder="28" size="5995" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ¹ûÈ»ËýÂíÉÏ½«Ò»Ö±µÍ×ÅµÄÄÔ´üÄÃÁËÆðÀ´£¬²¢ÇÒ¶ÑÆðÁËÒ»Ë¿ºÜÃãÇ¿ÓÖºÜÄÑ¿´µÄÐ¦ÈÝ£º¡°Ã»ÎÊÌâ£¬ÎÒËÍ»ØÈ¥°É£¡¡±
+
+    ¡°ÕæÊÇÄÑÎª½ã½ãÁË£¡½ã½ãÊÇ²»ÊÇºÜ²»ÇéÔ¸Ñ½£¿¡±ÎÒËµµÄÒõÑô¹ÖÆø£¬ËýÐÄÀï¿Ï¶¨»áºÜ²»Êæ·þ¡£
+
+    ¡°ÊµÔÚ²»·½±ã£¬ÎÒÈÃÆëÄÈ°ïÎÒÄÃ»ØÈ¥ºÃÁË¡£¡±ÎÞÐÎÖÐÎÒ±äµÃÈç´Ë¶ñ¶¾£¬¶ñ¶¾µÄÓïÑÔ¶ñ¶¾µÄÕÐÊ½¶¼ÊÇÐÅÊÖÄéÀ´£¬Á¬ÎÒ¶¼ÓÐÐ©²»ÈÏÊ¶ÎÒ×Ô¼ºÁË¡£ÎÒ¾ÍÕâÑùÄÃ¹ýÀ´ÆëÄÈÀ´µ²Ëý£¬Õâ¾ÍÊÇÃ÷°××Å¸æËßËý£¬ÆëÄÈÊÇ±ÈÎÒÇ×½ã½ã»¹ÒªÇ×µÄÈË£¬Õâ¾ÍÃ÷°××ÅÊÇÒªºÍËý»®Çå½çÏÞÁË£¬ËýÊÇÎÒ½ã½ã£¬ÎÒÁË½âËý£¬Ëý¿ÉÄÜÏëµÄ±ÈÕâÐ©»¹ÒªÑÏÖØµÃ¶à£¡
+
+    ÆëÄÈÂíÉÏºÜ´ó·½¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611260" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚ¶þÊ®¾ÅÕÂÎÒ¼±ÓÃ" chapterorder="29" size="6075" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ÕÅÐ¡º£ÊÇ×î³Á²»×¡ÆøµÄ¡£µ±ÎÒÆøÊÆÐÚÐÚµÄ³öÏÖÔÚÆøÏ¢ÑÙÑÙµÄÐìÁÕÃæÇ°£¬²¢ÇÒµÚÒ»¾ä»°¾ÍÒªÐÐÀîµÄÊ±ºò£¬ÕÅÐ¡º£ÓÀÔ¶É±³öÀ´ÁË£º¡°ÄãÔõÃ´»ØÊÂ£¿Ã»¿´µ½Äã½ã½ã³ÉÁËÊ²Ã´Ñù×ÓÁËÂð£¿ÄãÈ´»¹µÚÒ»²½¾ÍÏÈ¹ØÐÄ×ÅÄãÐÐÀî£¿Äã»¹ÊÇÈË²»ÊÇ°¡£¿£¡¡±
+
+    ¡°ºÃ£¡¡±ÎÒÅÄ×ÅÊÖÕÆ¿ä½±Ëû£¬¡°ÄãÏ²»¶Ó¢ÐÛ¾ÈÃÀÊÇ°É£¿Ã¿´Î¶¼ÊÇÄãµÚÒ»¸öÌø³öÀ´¾ÈÃÀÈË¶ù£¡µ«ÊÇÄÄ¸öÃÀÈË¼Ç×ÅÄãµÄºÃ£¿×îºóÒÔÉíÏàÐíÁËÄØ£¿£¡ËùÒÔÎÒÈ°Äã»¹ÊÇ¸Ä¸ÄÄãµÄ³ôÃ«²¡°É£¡¡±
+
+    ÎÒºúÂÒÖßÀ´µÄÀíÓÉËäÈ»Ã»Ê²Ã´Á¦µÀ£¬µ«ÊÇÈ´ÊÇÕýÖÐÁËÕÅÐ¡º£µÄÈíÀß£¬Õâ¸ö¼Ò»ï¾Í°®³ö·çÍ·£¬µ«ÊÇÈ´ÔÚÁµ°®·½ÃæÊÇ¸ö´À»õ¡£Ò»µã¶ùÅ®¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611261" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚÈýÊ®ÕÂÔçË¯ÔçÆð¶ÍÁ¶ÉíÌå" chapterorder="30" size="6002" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ÕÅÐ¡º£Ò»ÏÂ×Ó¸ßÐËÁËÆðÀ´£º¡°¼ÈÈ»ÎÒÃÇÏë·¨¶¼ÊÇÒ»ÑùµÄ£¬ÄãÎªÊ²Ã´»¹ÒªÕâÑù¶ÔËýÄØ£¿¡±
+
+    ¡°ÒòÎª¡ª¡ªÎÒ²»ÊÇÒÔÇ°µÄÎÒÁË¡£¡±
+
+    ¡°ÎÒ²»Ã÷°×£¡¡±ÕÅÐ¡º£µÄÒÉ»óºÜÏÔÈ»¡£
+
+    ¡°ÒÔÇ°£¬ÎÒºÍÄãÒ»Ñù¡ª¡ª¡±ÎÒËµµ½ÕâÀï£¬Í£×¡£¬ÄÔ×ÓÀïÃæÊÇ¿ñÂÒ·ÉÎèµÄË¼Ð÷¡£Ò»Æ¬Æ¬µÄ¶ÌÆ¬ÔÚÎÒµÄÄÔ×ÓÃæ¾À²øÕù¶á£¬ÎÒ²»ÖªµÀ¾¿¾¹ÄÄÒ»¸öÊÇÕæÊµµÄ¡£
+
+    ¡°ÏÖÔÚ²»Ò»ÑùÁËÂð£¿ÄãÊÇ²»ÊÇ¾õµÃÄãÏÖÔÚ±ÈÎÒ´ÏÃ÷ÁË£¿¡±
+
+    ÎÒËÍ¸öËûÒ»¼ÆÎÀÉúÇò£¬ËµµÀ£º¡°ÎÒÒ»Ö±¶¼±ÈÄã´ÏÃ÷£¡¡±
+
+    ¡°ÎÒ¡ª¡ªÎÒÎÒ¡ª¡ªÎÒ³ÐÈÏ£¡µ«ÊÇÄãÒ²±ÈÒÔÇ°µÄÄã»µÁË£¡¡±ÕÅÐ¡º£µÄÉùÒôÀïÃæÓÐÒ»Ð©±»²ð¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611262" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚÈýÊ®Ò»ÕÂµ²²»×¡Á÷ÑÔòãÓï" chapterorder="31" size="6288" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    Ìýµ½ËûÃÇ×¼±¸³öÃÅµÄÉùÒô£¬ÎÒÔÚ×½Ãþ×Å½ñÌì¸Ã×öµã¶ùÊ²Ã´Î°´óµÄ×³¾Ù¡£
+
+    ÎÒÏë½Ð×¡ÓÚÎ°²©¸úËýËûËµËµ½á»éµÄÊÂÇé¡£Ëû·Â·ð¸úÎÒÐÄÓÐÁéÏ¬Ò»°ãÔÚÎÒ³öÏÖÕâ¸öÄîÍ·µÄÊ±ºò£¬Ëû¼°Ê±µÄ³öÏÖÔÚÎÒµÄÃæÇ°¡£»¹ºÃ£¬Ì¬¶ÈºÜºÃ£¬Á³ÉÏÊÇÎÂÎÄ¶ûÑÅµÄÐ¦ÈÝ£¬Õâ¸öÄÐÈËÊÇ×î»á×°µÄ£¬ËùÒÔÎÒÃ»Ð¦£¬ÒòÎªÎÒ²»ÖªµÀËûÐ¦ÈÝÏÂÃæÊÇÊ²Ã´ÑùµÄÕæÊµÐ´ÕÕ¡£
+
+    ¡°ÄÇ¸ö¡ª¡ª¡±
+
+    ¡°ÄÇ¸ö¡ª¡ª¡±
+
+    ÎÒÃÇÁ½¸öÈËÍ¬Ê±¿ª¿Ú¡£È»ºóÏàÊÓ¶øÐ¦£¬ËûÄÓÄÓÍ·£¬Ëµ£º¡°ÄãÏÈËµ¡£¡±
+
+    ¡°»¹ÊÇÄãÏÈËµ£¡¡±ÎÒ²Å²»ÒªÏÈËµÄØ£¡³ý·ÇÎÒÄÔ×ÓÐã¶ºÁË¡£ËùÎ½Öª¼ºÖª±Ë°ÙÕ½°ÙÊ¤Âï£¡ÎÒÏÈËµÁËÎÒÆñ²»¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611263" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚÈýÊ®¶þÕÂÒ¹²»¹éËÞ" chapterorder="32" size="6176" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    µÚÒ»ÌìÉÏ°à£¬ÕâÊÇË­¶¼Ã»ÓÐÏëµ½µÄÊÂÇé¡£µ«ÊÇ¸ÃÀ´µÄ×ÜÊÇ»áÀ´µÄ£¬ÍÏ×Å²¢²»ÊÇ½â¾öÎÊÌâµÄ°ì·¨¡£Õâ»°ÊÇÓÚÎ°²©ËµµÄ¡£
+
+    µ±È»ÄÇÌìÍíÉÏËùÎ½µÄ¶©»éÑç»áÒ²×ÔÈ»¶øÈ»µÄÅÝÌÀÁË£¬ÅÝÌÀµÄÔ­Òò»¹ÊÇ´¦ÓÚÐìÁÕ¡£
+
+    ÒÑ¾­ÍíÉÏÊ®Ò»µã¶àÁË£¬Ëý¶¼»¹Ã»ÓÐ»ØÀ´¡£²»Ö¹ÊÇÓÚÎ°²©×ø²»×¡ÁË£¬ÎÒÒ²¿ªÊ¼ÓÐÁËÒ»Ë¿µÄµ£ÐÄ£¬ÉõÖÁÓÐÒ»Ð©ÇÀ×ßÓÚÎ°²©¡£µ«ÊÇÏëµ½ÕâÐ©ÄêÀ´ÎÒ¶ÔËûÃÇÄÇÃ´µÄÐÅÈÎËýÈ´ÊÇÒ»Â·¶ÔÎÒËã¼Æ£¬ÉõÖÁ¸¸Ç×ËÀÑ¶¶¼²»¸æËßÎÒ£¬¶øÇÒÎÒ¶¼¼¸ºõÍÆ¶Ï³öÁË¸¸Ä¸³öÊÂ¾ÍÊÇËýÒ»ÊÖ²ß»®µÄ£¡ÒòÎªËýÊÇ³ðÈËµÄº¢×Ó°¡£¡»¹ÓÐÊ²Ã´±ÈÕâ¸öºÜÄÜËµ·þÈËµÄÄØ£¿¿ÉÊÇÎÒ²¢Ã»ÓÐ²ð´©Ëý£¬ÎÒÅÂ¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611264" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚÈýÊ®ÈýÕÂÏÂÒ»¸ö" chapterorder="33" size="6192" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ÌìÉ«½¥½¥°µÁËÏÂÀ´£¬ÎÒÒ»¸öÈËÉÏÁËÌìÌ¨¡£ÌìÌ¨ÉÏµÄ·ç´µÆðÎÒµÄÒÂ½Ç¡£
+
+    ¡°ÎÒÃÇÒª²»Òª½ÓÐìÁÕ»ØÀ´×¡£¿¡±ÓÚÎ°²©µÄÉùÒô´ÓÎÒÉíºóÏìÆðÀ´¡£ÎÒÍ·¶¼²»»Ø£¬ÀäÄ®µÀ£º¡°ÄãÒªÊÇÏë£¬ËæÊ±¿ÉÒÔÈ¥½Ó¡£¡±
+
+    ºÜÃ÷ÏÔµÄ£¬ËûÌý³öÁËÎÒ»°ÖÐµÄÒâË¼¡£Ã»ÓÐÔÙËµÏÂÈ¥¡£ÇáÇáµÄ×ßµ½ÎÒµÄ±³ºó£¬Ò»Ë«ÊÖ´ÓºóÃæ»·ÈÆÁË¹ýÀ´¡£½«ÎÒÕû¸öÈËÓµÔÚËûµÄ»³Àï£¬ÊªÈÈµÄ±ÇÏ¢ÅçÔÚÎÒµÄÁ³ÉÏ£¬½ÁµÃÎÒÐÄÀïÑ÷Ñ÷µÄ¡£
+
+    ¡°½ÓÏÂÀ´£¬»áÔõÃ´ÑùÄØ£¿¡±ÎÒ±ÕÉÏÑÛ¾¦à«à«×ÔÓï¡£
+
+    ¡°¶÷£¿¡±Ëû±¾ÄÜµÄÒÉ»óµÀ¡£
+
+    ¡°ÎÒËµ£¬Äã½«Ëý½Ó»ØÀ´Ö®ºóÄØ£¿¡±ÎÒ×ª¹ýÉí£¬ÔÚÒ¹É«ÏÂ£¬Ö±ÊÓ×ÅËûµÄÑÛ¾¦¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611265" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚÈýÊ®ËÄÕÂÔ­À´ÄãÔÚÕâ¶ùµÈ×ÅÎÒ" chapterorder="34" size="6213" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ×î½üÒ»Ö±ÔÚÃ¦»éÀñµÄÊÂÇé£¬»éÀñµÄÊÂÇé×¼±¸µÄÈÈ»ð³¯ÌìµÄ¡£ÕâÌìÌì¸ÕÁÁ£¬ÓÚÎ°²©¾Í½«Ð´ºÃµÄÇëÌû¶¼½»¸øÎÒÈÃÎÒ¹ýÄ¿¡£ÎÒÒ»ÕÅÕÅ·¢¹ýÈ¥¡£×îºóÃæÎÞ±íÇé½«ÄÇÐ©ÇëÌû·ÅÔÚÁË×À×ÓÉÏ¡£
+
+    ÓÚÎ°²©¶Ë×ÅÒ»±­Ë®×ß¹ýÀ´µÝµ½ÎÒµÄÊÖÉÏ£º¡°À´£¬Å¯Å¯ÊÖ£¬ÇÆÕâÐ¡ÊÖÃ¿Ìì±ùµÄ¡£¡±
+
+    ÎÒ²»½Ó¡£Ò²²»Àí»áËû¡£
+
+    ¡°ÓÖÔõÃ´ÁËÕâÊÇ£¿±¦±´£¿¡±ÓÚÎ°²©½«ÎÒµÄÁ³ÅõÆðÀ´¡£
+
+    ÎÒÍÆ¿ªËû£¬Ò»Éù²»¿ÔµÄÆðÉí£¬´©ÒÂ·þ£¬³öÃÅ¡£
+
+    ¡°ÎÒ´íÁË£¬¶Ô²»Æð£¬ÎÒÖªµÀÎÒ´íÁË£¬ÎÒÕæµÄÖªµÀÎÒ´íÁË¡£¡ª¡ª¡±ÓÚÎ°²©×·×ÅÎÒÈÏ´í£¬¡°Äã²»ÒªÉúÆø¡ª¡ª¡±
+
+    ÎÒÔÚÃÅ¿Ú´ò¿ªÃÅÖ®ºóÍ£ÁË¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611266" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚÈýÊ®ÎåÕÂ»¹µÃÌýÎÒµÄ°É" chapterorder="35" size="6074" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ÎÒÕö¿ªÑÛ¾¦¡£
+
+    Ò½Ôº£¬ÓÖÊÇÒ½Ôº¡£ÈëÑÛÊÇÒ»É«µÄÑ©°×¡£±Ç×ÓÀïÃæ³ä³â×Å´Ì±ÇµÄÒ©Ë®¶ùÎ¶µÀ¡£ÎÒÌÖÑáËÀÁËµÄÒ½Ôº¡£¶øÇÒ²»ÖªµÀÎÒÌÉÁËµ½µ×ÓÐ¶à¾Ã£¬ÎÒµÄ¼¹±³ÉúÌÛµÄ£¬ÌØ±ðÄÑÊÜ¡£
+
+    ÎÒ·´Éí¾ÍÒªÏÂ´²¡£·¿¼äÀïÃ»ÓÐ±ðÈË£¬ËùÒÔÒ²¸ù±¾Ã»ÓÐÈË×èÖ¹ÎÒµÄÐÐÎª¡£¿ÉÊÇÎÒ¸Õ¸Õ·­¹ýÒ»¸öÉí£¬Í·ÉÏµÄÌÛÍ´¾ÍÇ¿ÁÒµÄ´«µ½ÁËÄÔ²¿£¬ÎÒ¼¸ºõÔÙ´ÎÔÎ¹ýÈ¥¡£
+
+    ÕâÊ±ºòÒ»¸öÈËÑ¸ËÙ³å¹ýÀ´½«ÎÒ±§×¡¡£ÒòÎªÌÛÍ´£¬ÎÒÎÞÏ¾¹Ë¼°±§×¡ÎÒµÄÈËÊÇË­¡£²»¹ý²»¹ÜÊÇË­£¬ÎÒ¶¼²»»áÓÐºÃÆ¢Æø¸øËûµÄ£¬ÎÒÉí×Ó¸Õ¸ÕÎÈ×¡£¬¾ÍÒ»°Ñ½«ËûÍÆ¿ª£º¡°±ðÅöÎÒ¡£¡±
+
+    ÕÅÐ¡º£¹Ô¹ÔµÄ·Å¿ª±§×ÅÎÒµÄÊÖ£¬¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611267" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚÈýÊ®ÁùÕÂÄÖ¾ç" chapterorder="36" size="6381" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ¡°³ö·¢£¡¡±
+
+    ÕÅÐ¡º£ÄÃ×ÅÒ»°ÑÐ¡Æì×ÓÏñÊÇµ¼ÓÎÒ»°ãÕ¾ÔÚÄÇÀïº°µÀ¡£ÎÒ¾­¹ýËû¸úÇ°¹ÊÒâ×°×÷ÎÞÊÓËû¡£È»ºó¸úËûÉíºóµÄÐìÁÕºÍÍõÁÕ´ò×ÅÕÐºô£º¡°ÄãÃÇºÃ£¬¶¼À´ÁË¡£¡±
+
+    ÎÒÁ³ÉÏµÄÐ¦ÈÝ´ó´óµÄ£¬ËûÃÇËÆºõ¶¼±»¸ÐÈ¾µ½ÁË£¬Ò»¸ö¸öÐ¦µÄºÜ¿ªÐÄµÄ×£¸££º¡°ÐÂ»é¿ìÀÖ£¡¡±
+
+    ¡°Äã½ñÌìºÃÆ¯ÁÁ°¡£¡íµíµ£¡¡±ÆëÄÈËµµÀ¡£
+
+    ¡°½ñÌìÓ¦¸ÃÊÇÄã×îÅ®ÈËµÄÒ»Ìì°É£¡¡±ÕÅÐ¡º£µÍ×ÅÍ·¿´×Å×Ô¼ºµÄ½Å¼âºÜÐ¡ÉùµÄËµµÀ¡£
+
+    µ«ÊÇºÜ²»ÇÉµÄÊÇ£¬»¹ÊÇ±»ÎÒ¸øÌýµ½ÁË£¬ÎÒÎûÎûÐ¦×Å£º¡°ºÙºÙ¡ª¡ªÎÒÔ­ÁÂÄãµÄ×ì¼ú£¡¡±
+
+    ¡°²»ÓÃ¿ÍÆøÀ²£¡¡±Ëû´ò×Å¹þ¹þ¡£
+
+    ¡°ÎÒ²»»á¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611268" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚÈýÊ®ÆßÕÂÂÃÓÎ½á»é" chapterorder="37" size="6128" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ¡°ºÃÀ²£¡Îó»áÎó»á£¡ÏÂÃæÎÒÃÇµÄÂÃÓÎÕýÊ½¿ªÊ¼£¡µÚÒ»Õ¾¡ª¡ª¶ÔÁË£¬ÔÞÖú·½£¬µÚÒ»Õ¾ÊÇÈ¥ÎÒÃÇÈ¥ÄÄÀï£¿¡±
+
+    ÕÅ´óº£µÄÉùÒôÏìÆð£¬ÄÖºåºåµÄÒ»°ïÈËÓÉÔ¶¼°½ü£¬ÒÑ¾­ÔÚÉÏ³µÁË¡£
+
+    ÕÅ´óº£æÒÆ¤Ð¦Á³µÄ¿´×ÅÓÚÎ°²©Ñ¯ÎÊ×Å¡£
+
+    ¡°¹ö£¡¡±ÎÒ³åËûºð×Å¡£¿´×ÅËûÄÇ±íÇé¾Í¸Ð¾õºÜÇ·×á£¡ËûµÄÁ³ÉÏÃ÷Ã÷°×°×´ó´óµÄÐ´×ÅËÄ¸ö×Ö£º¡°´ËÈËÇ·×á£¡¡±Èç¹û·ÇµÃ»»ËÄ¸ö×ÖµÄ»°Ëµ£¬ÄÇ¾ÍÊÇ£¬ÐÒÔÖÀÖ»ö¡£ÔÚ»»ËÄ¸ö×Ö£¬½«Æä²È±â£¡ÎÒÏÖÔÚ¾ÍÊÇÌØ±ðÌØ±ðÏë½«ËûµÄÁ³²È±â£¬ÄÜÓÐ¶à±âÓÐ¶à±â¡£
+
+    ¡°ºÃºÃºÃ£¬ÎÒÊÇÔÞÖú·½£¡ÎÒÃÇÊÇÔÞÖú·½£¡ÄÇ¡ª¡ªÎÒÄÜ²»ÄÜËµÈ¥ÄÄÀïÄØ£¿ÈõÈõµÄÎÊÒ»¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611269" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚÈýÊ®°ËÕÂÏàË¼ºþ¶È¼Ù´å" chapterorder="38" size="6451" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ÆëÄÈ±¾À´¶¼ÓÐÐ©»è»èÓûË¯ÁË£¬Õý¿¿ÔÚºó±³ÉÏ´ò×Åíï¶ù£¬Ìýµ½¶¯¾²ºóÈàÁËÈàÑÛ¾¦ÀÁÑòÑòµÄËµµÀ£º¡°¸ÉÂï£¿Íæ¶ùÊ²Ã´ÓÎÏ·ÄØ¶¼²»ÖªµÀ½ÐÉÏÎÒ£¿¡±
+
+    ÎÒî©ÁËËýÒ»ÑÛ£¬Ëµ£º¡°Ã»ÊÂ¶ù¡£Äú½Ó×ÅË¯£¡ÎÒÃÇ¿ÉÒÔ£¬¾Í²»ÀÍ·³Äú´ó¼ÝÁË£¡¡±
+
+    ¡°ÄÇ¿É²»ÐÐ£¡¡±Ëý±È¸Õ²ÅËµ»°ÇåÎúÁËÒ»Ð©£¬¼á³Ö×Å×Ô¼ºµÄÒâ¼û£¬´óÓÐÒ»¸±¼ûÒåÓÂÎªµÄ×÷·ç¡£
+
+    ¡°ºÃÀ²£¡ÄãÃÇ¾Í±ðÕÛÌÚÁË£¡¡±ÍõÁÕ³öÉùÖÆÖ¹µÀ¡£
+
+    ¡°¶Ô£¬ÍæÐ¦ÓÐµã¶ù¹ýÁË°¡£¡¡±ÕýÔÚ¿´±¨Ö½µÄÐìÁÕÖÕÓÚÒ²ÎÞ·¨ÔÙ¼ÌÐøÄÃ±¨Ö½×÷Îªµ²¼ýÅÆÁË£¬³öÉù²åÁËÒ»¾ä¡£
+
+    ¡°àÍ¡ª¡ª¡±³µ×Ó·¢³ö¼âÀûÓÖ´Ì¶úµÄÉùÒô¡£
+
+    ¡°Äã¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611270" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚÈýÊ®¾ÅÕÂÏàË¼ºþóô»ðÊ¢Ñç" chapterorder="39" size="5892" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ¡°¿ì¿´£¡ÐÂµÄÒ»ÂÖÑÌ»¨ÓÖ¿ªÊ¼ÁË£¡¡±ÐìÁÕÖ¸×ÅÌìÉÏÎåÑÕÁùÉ«µÄÂúÌìÐÇËµµÀ¡£
+
+    ¡°Ç®¶àÉÕµÄ°¡£¿ÓÐÕâÐ©Ç®¸øÎÒÂò³É±ù¼¤Áè²»ÖªµÀÄÜ³Ô¶àÉÙÄØ£¡¡±ÎÒÆ²Æ²×ì¿¹Òé×Å£¬È»ºóÐÄÌÛµÄ´·ÐØ¶Ù×ãµÀ£º¡°ÄãÃÇ¼òÖ±¾ÍÊÇÉÕÇ®£¡¡±
+
+    ¡°ÎÒ²Å²»ÉáµÃ¸øÄãÉÕÇ®ÄØ£¡¡±
+
+    ¡°×ÔÈ»ÓÐÈËÉáµÃ¾ÍÐÐÁË£¡¡±
+
+    ¼¸¸öÈËÓÐÒ»¾äÃ¿Ò»¾äµÄÌ¸ÂÛ×ÅÕâ¸öÉÕÇ®ÎÊÌâ¡£
+
+    ¡°ÐÂÀÉÈ¥ÄÄ¶ùÁË£¿¡±ÕÅÐ¡º£ºöÈ»ºÜ°×³ÕµÄÎÊÁËÒ»¾ä£º¡°»á²»»áÊÇÁÙÊ±ÇÓ³¡ÁË£¿Òª²»ÎÒ´úÌæµÃÁË£¿¡±
+
+    ¼¸¸öÅ®ÈËµÄ°×ÑÛ¶¼ËÍ¸øÁËËû¡£
+
+    ¡°Î¹¡ª¡ªÄÇÀïÔõÃ´×Å»ðÁË£¿¿ì¾È»ðÑ½¡ª¡ª¾È»ðÑ½£¡¡±ÎÒºöÈ»¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611271" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚËÄÊ®ÕÂÕâ·ÝÀñÎïºÜºÃ" chapterorder="40" size="6133" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ¡°Éµ¹Ï£¬Õâµã¶¼¿´²»³öÀ´Âð£¿ËýÄÄÀïÊÇ²»Ï²»¶£¿ËýÊÇÔÚÐÄÌÛËýÎ´À´µÄ³®Æ±ÄØ£¡¡±ÆëÄÈ¿Ú¿ìµÄ²ð´©ÁËÎÒµÄÐÄÀí¡£
+
+    ÓÚÎ°²©¿´×ÅÎÒ£¬Á³ÉÏÊÇ¿ÞÐ¦²»µÃµÄ±íÇé£º¡°ÀÏÆÅ£¬Ç®Ê²Ã´Ê±ºò¶¼¿ÉÒÔÕõµÃ£¬¿ÉÊÇÎÒÃÇÏÖÔÚÊÇ½á»é°¥¡ª¡ª½á»éµÄ´óÊÂÒ»±²×Ó½ö½ö¾Í´ËÒ»´ÎÔõÃ´¿ÉÒÔËæ±ãÄØ£¿¡±
+
+    ¡°ÄÇÄã°ÑÄÇÐ©Ç®Ö±½Ó¸øÁËÎÒ²»¸üÊµ»Ý¡±ÎÒÐ¡ÉùµÄàÖ¹¾×Å¡£
+
+    ¡°²»ÊÇ°É£¿Äã¡ª¡ªÄÇÑùµÄ»°¶àË×Ñ½£¡¡±
+
+    ¡°²»ÊÇÄãÕæµÄµ±×Ô¼ºÊÇÂÛ½ïÂôµÄÑ½£¿ÎÒËµ£¬ÒªÊÇÄÇÑùµÄ»°£¬ÓÚÎ°²©Ö±½ÓÈ¥ÂòÁ½Í·¡ª¡ª¡±¹«Ö÷·¶¶ùÍõÁÕ¿ªÊ¼¿Ú²»ÔñÑÔÆðÀ´¡£
+
+    ¡°ÕÆ×ì£¡Äã¸Ò°ÑÎÒÃÃÃÃ¸úÄÇ¸öÊ²Ã´¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611272" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚËÄÊ®Ò»ÕÂÔ®Öú" chapterorder="41" size="6557" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ¡°ºÇºÇ¡ª¡ª¹þ¹þ¡ª¡ª¡±´õÍ½Í»È»¿ñÐ¦×Å£¬ÄÃµ½µÄÊÖ²»ÓÉ×ÔÖ÷µÄ²ü¶¶ÁËÒ»ÏÂ£¬ÎÒ²±×ÓÉÏÃæµÄÆ¤·ô¸Ð¾õÁ¹Á¹µÄ£¬ËÆºõÊÇ±»´ÌÆÆÁË£¬ÒòÎªÓÖÍ»È»¸Ð¾õÑ÷Ñ÷µÄ¡£ËÆºõÊÇÓÐÊ²Ã´¶«Î÷ÔÚÈä¶¯¡£¿ÉÊÇÎÒ¾¹È»ÂéÄ¾µÄÒ»µã¶ù¿Ö¾å¶¼Ã»ÓÐ¡£ÎÒ²»ÖªµÀÊÇ×Ô¼º¸Ð¾õ²»µ½ÁË£¬»¹ÊÇÑ¹¸ù¶ù¾ÍÃ»ÓÐ¡£ÎÒ´ô´ôµÄ¿´×ÅÓÚÎ°²©¡£
+
+    ÕâÒ»¿Ì£¬ËÀÉñÀëÎÒÊÇÈç´ËÖ®½ü£¬¾ÍÈÃÎÒ¿´×ÅËû±ÕÉÏÑÛ¾¦°É¡£Õâ¶Î³¾ÊÀÎ´ÁËµÄ²»±»Àí½âµÄÇéÔµ¡£
+
+    ¡°ÄãÌý×Å¡ª¡ªÒªÏë»»ËýµÄÃüÖ»ÓÐÒ»¸ö°ì·¨£¡ÄÇ¾ÍÊÇ°´ÕÕÎÒËµµÄÈ¥×ö£¡¡±°ó·Ë¿´×ÅÓÚÎ°²©Ò»×ÖÒ»¶ÙµÄËµµÀ£¬ËûÖÕÓÚÅ×³öÁËÌõ¼þ¡£
+
+    ÎÒÓÃ±ÇÒôËµµÀ£º¡°ºß¡ª¡ª¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611273" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚËÄÊ®¶þÕÂ¾¡Çé¿ñ»¶°É" chapterorder="42" size="6196" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ¡°¸É±­£¡¡±ÓÚÎ°²©¾ÙÆð¾Æ±­¸ú´ó¼Ò¸É±­¡£
+
+    ÕÅÐ¡º£Ò»±ß¸øÖÚÈËÉ¢×Å¿¾ºÃµÄÈâ´®¶ù£¬Ò»±ßËµµÀ£º¡°Ã»Ïëµ½ÕâµØ·½ÕâÃ´Î£ÏÕÄØ£¡²»ÖªµÀ»¹ÓÐÃ»ÓÐÇ±·üÔÚ¸½½üµÄÎ£ÏÕ·Ö×Ó°¡£¡¡±
+
+    »¹¸ÕÂäµØ£¬»¹Ã»·´Ó¦¹ýÀ´£¬Í·ÉÏÒÑ¾­°¤ÁËÒ»¼ÇÖØÖØµÄ±¬Àõ£¬ÆëÄÈÒÑ¾­ÇÃÔÚÁËËûµÄÄÔ´üÉÏ£¬Å­³å³åµÀ£º¡°±Õ×ì£¡ÎÚÑ»×ì£¡¡±
+
+    ¡°Äã¡ª¡ªÄãÆ¾Ê²Ã´´òÎÒ£¿¡ª¡ªÄãÒÔÎªÎÒÊÇË­Ïë´ò¾Í¿ÉÒÔ´òµÃÂð£¿¡±ÕÅÐ¡º£Á³±ïµÃÍ¨ºì£¬Ëû±¾À´¾ÍÊÇÒ»¸ö¼«Æä°®Ãæ×ÓµÄÈË£¬ÏÖÔÚ±»ÆëÄÈµ±×ÅÕâÃ´¶àÈË£¬ÖÚÄ¿î¥î¥Ö®ÏÂÇÃÁËËûµÄÄÔ´ü£¬Ëûµ±È»ÊÇ²»·þÆøÁË¡£
+
+    ÆëÄÈÈ´ÊÇÒ»Á³µÄÀíÖ±Æø×³£¬Ò»µã¶ù¶¼²»¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611274" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚËÄÊ®ÈýÕÂ±»Ëã¼ÆÁË" chapterorder="43" size="6059" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    â«Ëö´óÊå¼ûËû»¹ÔÚÓÌÔ¥£¬ÅÂÅªÔÒÁË£¬ÂíÉÏËµµÀ£º¡°Äã¾ö¶¨ÁË£¿¡±
+
+    ¡°¶÷¡ª¡ª¡±ÕÅÐ¡º£Ð¡ÉùµÄ»Ø´ð£¬È»ºó²¹³äµÀ£º¡°²»¹ý¡ª¡ª¡±
+
+    â«Ëö´óÊå¹Ê×÷ÉúÆø×´£º¡°ÓÌÓÌÔ¥Ô¥£¬†ªÁ¨†ªàÂ£¡»¹ÊÇ¸öÄÐÈËÂð£¿²»¸Ò¾ÍËãÁË£¡¡±
+
+    ¡°Ï¹Ëµ£¡ÎÒËµ²»¹ýÔ¼Ëý³öÀ´ºóÎÒ×Ô¼ºËµ£¬²»ÓÃÄãËµÁË£¡¡±ÕÅÐ¡º£±»¼¤½«·¨¸ø¼¤ÁËÆðÀ´¡£
+
+    ¡°ºÃ¡£¡±â«Ëö´óÊåÑÛÖé×ÓÒ»×ª£¬ÐÄµÀ£¬¿´À´Ò²Ö»ÄÜ×ßÒ»²½ËµÒ»²½ÁË¡£
+
+    ËûÃÇÒ»°ïÈËÆäÊµËµºÃÁËÒªÈ¥µÏÌü¿ªÐÄÒ»ÏÂµÄ£¬ÒòÎª·´ÕýÕÅÐ¡º£Ò²²»»áÌø£¬ËùÓÐ¾Í²»×¼±¸´øËûÁË¡£ÎÒÆäÊµÒ²²»»á£¬±¾À´²»ÏëÈ¥µÄ£¬µ«ÊÇ½ñÌìÎÒÊÇÖ÷½Ç²»È¥ÓÐÐ©Ëµ¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611275" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚËÄÊ®ËÄÕÂÇ§¾ûÒ»·¢Ö®¼Ê" chapterorder="44" size="6188" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ¡°×¡ÊÖ£¡Äã·èÁËÂð£¿ÔÛÃÇËµµÄÊ±ºòÃ»ÓÐÕâÒ»³öµÄ£¡¡±ÕÅÐ¡º£¿Ú²»ÔñÑÔµÄ×èÖ¹×Å¡£
+
+    ÎÒÀäÐ¦£º¡°¹ûÈ»ÊÇÄãÃÇÉÌÁ¿ºÃµÄ°¡£¡ÕÅÐ¡º££¡ÎÒÕæÊÇ¿´´íÄãÁË£¡¡±
+
+    ¡°Ï¹Ëµ£¡ÎÒÃÇÃ»ÓÐÉÌÁ¿£¡Äã¿´´íµÄ²»ÊÇÎÒ¶øÊÇËû£¡¡±ÕÅÐ¡º£½âÊÍ×Å£¬µ«ÊÇËÆºõÃ¿Ò»¾ä¶¼Ã»Ëµµ½µã×ÓÉÏ£¬ËûµÄ±íÇéÀïÃæÈ«ÊÇ½¹Ôê²»°²¡£
+
+    ¡°Éµ¹ÏÒ»×Å¼±¾Í»ÅÁËÊÖ½Å£¬ÕâÑùÖ»»áÈÃÎÒÔ½À´Ô½±ÉÊÓÄã£¡Ç×°®µÄ£¡¡±ÎÒ¹ÊÒâ¹Õ×ÅÉùµ÷ËµµÀ¡£
+
+    ËµÍêÓÌÔ¥²±×Ó±»ÀÕµÄÄÑÊÜ£¬ÈÌ²»×¡¡°¿È¿È¡±ÁË¼¸Éù¡£
+
+    ¡°Äã¿ì±Õ×ì£¡±ð·Ï»°ÁË£¡¶àÂîÎÒÁ½¾äÒªÊÇÄÜ½â¾öÎÊÌâµÄ»°Äã¾ÍÂî£¡¡±ÕÅÐ¡º£ËµµÀ£¬È»ºó×ªÏòâ«¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611276" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚËÄÊ®ÎåÕÂ²»Òª¶¯" chapterorder="45" size="6011" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ¡°²»Òª¶¯£¡¡±â«Ëö´óÊåÌýµ½¶¯¾²Í»È»´óºÈÒ»Éù£¬×ª¹ýÉíÀ´³å×ÅÎÒ¡£
+
+    È»ºóËûÊÖÖÐÄÃ×ÅµÄÒ»¸öÊ²Ã´¶«Î÷¾ÍµôÂäÔÚÁËµØÉÏ£¬Ëû¶×ÏÂÀ´»Å»ÅÕÅÕÅµÄ¼ñÁËÆðÀ´£¬Ò»°Ñ´§½øÁË»³Àï£¬Õ¾ÆðÉíÀ´µÄÊ±ºòÎÒ¿´µ½ËûÂúÍ·´óº¹¡£
+
+    ÎÒ¿´µ½ÁËÄÇÊÇÒ»°ü°×É«µÄ¶«Î÷£¬ÄÔ×ÓÀïÃæÆßÉÁ°ËÉÁµÄÉÁ¹ýºÃ¶àµÄÆ¬¶Î£¬×îºó¾ÍÍ£ÔÚÁËÁ½¸ö×ÖÉÏÃæ²»¶¯ÁË¡£°×·Û¡£ÎÒ»ÐÈôÃÎÖÐµÄ´ôÕú×Å¡£
+
+    ËÆºõ¹ýÁËºÜ³¤Ê±¼ä£¬ÎÒÃÍÈ»ÐÔÇåÐÑ¹ýÀ´£¬²»ÄÜ¾ÍÕâÑùÏÂÈ¥£¬²»ÄÜÈÃËû·¢ÏÖÎÒÒÑ¾­¿´µ½ÁËÄÇ¸ö¶«Î÷£¬·ñÔò¾ÍÍêµ°ÁË¡£
+
+    ÎÒÇåÁËÒ»ÏÂÉ¤×Ó£¬ÌðÌðµÀ£º¡°ÄÇ¸ö£¬´óÊå£¬ÄãºÜÀÛÂð£¿Òª²»ÒªÎÒ°ïÄãµ¹Ë®¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611277" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚËÄÊ®ÁùÕÂÅû×ÅÑòÆ¤µÄÀÇ" chapterorder="46" size="6065" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ½«¾¯²ìÍ¬Ö¾ËÍ×ßºó£¬ÎÒ·¢³öÒ»ÉùÀäÐ¦¡£ÔõÃ´¿´¶¼¾õµÃÓÚÎ°²©ÏÖÔÚÊÇ¼«¶ÈµÄ¶ñÐÄ¡£ÎÒÏñÊÇÒ»¾ßÐÐÊ¬×ßÈâ°ã×ß»Øµ½·¿¼äÀï£¬Íû×ÅÒ»µØµÄÀÇ½å³Õ³Õ·¢´ô¡£
+
+    ¡°Äã×øÏÂ°É£¡±ð×ÜÕ¾×Å£¬¶àÀÛÑ½£¡¡±ÓÚÎ°²©×ß¹ýÀ´·ö×ÅÎÒÒª×øÔÚ´²ÉÏ£¬ÎÒ²¢²»Àí»áËû£¬²»·´¿¹Ò²²»ÅäºÏµÄ¾¶×Ô×øÔÚÁËÊá×±Ì¨Ç°¡£
+
+    ¡°íµíµ¡ª¡ªµ½µ×ÔõÃ´»ØÊÂ£¿ÕÅÐ¡º£ºÍÄÇ¸öË¾»úÊÇ²»ÊÇÒ»»ï¶ùµÄ£¿µ½µ×·¢ÉúÁËÊ²Ã´ÊÂÇé£¿¡±ÓÚÎ°²©à©à©²»ÐÝµÄ×·ÎÊ×Å¡£
+
+    ÎÒ·³²»Ê¤·³£¬µ«ÊÇÒÑ¾­µ½ÁË²»Ïë·´²µÒ»¾äµÄµØ²½ÁË£¬¾Íµ±ËûÊÇ¿ÕÆøºÃÁË£¬Ò»¸öÈË¶¢×Å¾µ×ÓÀïÃæÁ³É«±ùÁ¹µÄÈË·¢´ô¡£
+
+    ¡°¶Ô²»Æð£¬ÄãËµ¾ä»°¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611278" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚËÄÊ®ÆßÕÂ±ð¸úËû½âÊÍ" chapterorder="47" size="6172" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ¡°²»ÊÇÄãÏëµÄÄÇÑù£¡ÎÒÃÇÊÇÄÖ×ÅÍæ¶ùµÄ£¡¡±ÆëÄÈÂíÉÏ×Å¼±×Å½âÊÍ¡£
+
+    ¡°±ð¸úËû½âÊÍ£¡¡±ÎÒÒ»°Ñ×¥×¡ÆëÄÈµÄ¸ì²²£¬¡°½ñÌìÍíÉÏ£¬ÎÒÏëºÍËýË¯Ò»¸ö·¿¼ä£¬Äã²»½éÒâ°É£¿£¡¡±
+
+    Õâ¾ä»°ÎÒÊÇ¶ÔÓÚÎ°²©ËµµÀ¡£
+
+    ³ÁÄ¬ÁËÒ»»á¶ù¡£ºÚ°µÖÐ£¬¿´²»ÇåºÚÉ«ÈËÓ°µÄ±íÇé£¬¹ýÁËºÃ³¤Ê±¼ä£¬Ò»¸öÉùÒô´«¹ýÀ´£º¡°ÎÒµ±È»²»½éÒâ¡£ÄãÃÇºÃºÃÍæ¡£¼ÙÆÚ»¹ÓÐºÃ¼¸Ìì¡£ÎÒÏÈ»ØÈ¥ÁË¡£¡±ËµÍê£¬Ëû¾Í×ªÉíÀë¿ªÁË£¬´øÆðµÄ·ç´µÏòÎÒµÄÉíÌå£¬±È¸Õ²Å¸ü¼ÓµÄÀäÁË¡£
+
+    ¡°ÄãÎªÊ²Ã´ÒªÕâÑùÆøËû£¿¡±ÆëÄÈ²»½âµÄÎÊµÀ¡£
+
+    ¡°Ã»ÓÐ°¡£¡¡±ÎÒ¹Ê×÷Àä¾²£¬¡°ÎÒÃÇ»ØÈ¥°É£¡¡±ÎÒÀ­ÆðËýµÄ¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611279" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚËÄÊ®°ËÕÂÎó»áÖØÖØ" chapterorder="48" size="4005" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ¡°Äã¡ª¡ª¡±ÆëÄÈ±»ÆøµÃÖ±·­°×ÑÛ£¬¡°ÄãÕæÊÇ²»¿ªÇÏµÄÓÜÄ¾¸í´ñ£¡Ã©¿ÓÀïµÄÊ¯Í·ÓÖ³ôÓÖÓ²£¡¡±
+
+    ¡°Ëæ±ãÄãÔõÃ´Ëµ¶¼ºÃÀ²£¡¡±ÎÒ²»ÄÍ·³µÄÍù±»×ÓÀïÃæ×êÁË×ê£¬Ë÷ÐÔ½«Í·Ò²ÃÉÁËÆðÀ´¡£ÍâÃæÃ»ÓÐÉùÏì£¬µ«ÊÇÒ²Ã»ÓÐÌýµ½ÆëÄÈÉÏ´²»òÕß³öÈ¥µÄÉùÒô¡£
+
+    ¾ÍÕâÑù¹ýÁËºÜ¾Ã£¬ÆëÄÈµÄÉùÒôÔÙ´ÎÏìÆðÀ´£º¡°²»ÈçÔÛÁ©´ò¸ö¶Ä°É£¡¡±
+
+    ÎÒÎÞÉùÌ¾Ï¢£¬¾ÍÖªµÀÕâ¸ö¼Ò»ï²»»áÉÆ°Õ¸ÊÐÝµÄ£¬Õæ²»ÖªµÀËý²»µ½»ÆºÓÐÄ²»ËÀµÄÆøÊÆÊÇÄÄÀïÀ´µÄ¡£
+
+    ÎÒ²»Àí»áËý¡£ÎÒÖªµÀËý×Ô¼º»áËµÏÂÈ¥µÄ£¬²¢ÇÒ»áÒ»µãÒ»µãÅÜ³öÐåÇòÀ´ÒýÓÕÎÒ£¬»òÕßÊ¹³ö»ëÉí½âÊýÀ´¼¤ÎÒ¡£
+
+    ÎÒ±ÕÉÏÑÛ¾¦£¬¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611280" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚËÄÊ®¾ÅÕÂ¶Ô²»Æð£¬´òÈÅÁË" chapterorder="49" size="6174" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ¡°½øÀ´°É£¡¡±
+
+    ¡°ÄÇ¸ö¡ª¡ªÎÒ¾Í²»½øÈ¥ÁË£¬ÎÒÊÇÏëÀ´ËµÒ»Éù£¬ÈÃËû¼ÇµÃÈ¥°ìÊÖÐø¡£¡ª¡ª¶÷£¬¾ÍÕâÑù£¬¶Ô²»Æð£¬´òÈÅÁË¡£¡±ÎÒºÜ·ÑÁ¦µÄËµÍê£¬×ªÉíÀë¿ª¡£ÍêÈ«²»Àí»áÔçÏÈ¸úÆëÄÈÌ¸ºÃµÄÊÂÇé£¬Ò»¸öÈË²Ö»ÊÌÓÀë¡£ÏñÊÇÒ»¸ö±»×¥×¡ÏÖÐÐµÄÐ¡Íµ¡£
+
+    ¡°íµíµ¡ª¡ªÄãÎó»áÁË¡ª¡ª¡±ÐìÁÕµÄÉùÒô´Óºó±ß×·¹ýÀ´¡£
+
+    ¡°íµíµ£¬Äã¡ª¡ª¡±ÆëÄÈ²»ÇéÔ¸µÄ×·ÉÏÀ´£¬²»½âÆøµÀ£º¡°Äã²ÅÊÇÕý¹¬Ñ½£¡¡±
+
+    ÎÒ»ØÍ·¿´Å­ÊÓËý£¬ÎÒÏàÐÅÎÒµÄÑÛÉñ¶ùÊÇ´øÑªµÄµ¶¡£ÒòÎªÎÒÄ¿¶ÃÁËËýµÄ²ü¶¶¡£¿ÉÊÇÎªÊ²Ã´£¿ÎªÊ²Ã´ÎÒÒªÕâÑù¶ÔËý£¿¿´µ½ÁË²»ÊÇ¿ÉÒÔÕýºÃ½âÍÑÂð£¿ÃûÕýÑÔË³µÄ½âÍÑ¡£
+
+¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611281" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚÎåÊ®ÕÂÎÒ¸øÄã×öÁË´ßÃß" chapterorder="50" size="6098" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ¡°ÄãÊ²Ã´£¿Äã×ÔË½Å³Èõ£¡Ð¡Æø¹í£¡ÈÝ²»µÃÈË£¡ÄãµÈ×ÅÒÔºóºó»ÚÂð£¿ÔìÏÂµÄÅ°ÒÔºó¶¼Òª×Ô¼ºÀ´³¢¿à¹û£¡¡±
+
+    ¡°ÄãÔõÃ´ÖªµÀÎÒÃÎÀïËµµÄ»°£¿¡±ÎÒÖÕÓÚ·¢ÏÖÁËÎÊÌâµÄËùÔÚ£¬ÎÒÃÎÀïËµµÄ»°ÔõÃ´Ëý»áÖªµÀµÄÕâÃ´Çå³þ£¿¼´Ê¹ÊÇËµÃÎ»°£¬ÄÇÒ²²»¿ÉÄÜÒ»×Ö²»Â©µÄÍêÍêÈ«È«µÄËµ³öÀ´Ñ½£¡
+
+    ¡°Êµ»°¸æËßÄã°É¡ª¡ªÆäÊµÎÒ¡ª¡ª¡±ÔÚÎÒÒÉ»óµÄ×¢ÊÓÖ®ÏÂ£¬ÆëÄÈ¿ªÊ¼ÓÌÓÌÔ¥Ô¥µÄ¡£
+
+    ¡°ÄãÔõÃ´£¿¡±ÎÒßÍßÍ±ÆÈËµÄ×ßµ½ËýµÄ¸úÇ°×·ÎÊ£¬¿´ÕâÑ¾Í·µÄÑù×Ó£¬ËýÐÄÀï¾ø¶ÔÊÇÓÐ¹í¡£
+
+    ¡°Ã»Ê²Ã´£¡¡±
+
+    ¡°Ëµ£¡Äã»¹ÏëÂ÷×ÅÎÒ£¿£¡¡±
+
+    ¡°°¥Ñ½£¡¸æËßÄã¾Í¸æËßÄã£¡¸æËßÄã¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611282" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚÎåÊ®Ò»ÕÂ×îµ£ÐÄµÄÊÂÇé·¢ÉúÁË" chapterorder="51" size="6171" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    Ö±µ½Ìýµ½ËýÔÚÆÀ¼ÛÎÒµÄ´ò¹ÕË®Æ½£¬²¢ÇÒÒ»Ö±ÔÚÈ¡Ð¦ÎÒµÄËÀÍö×ËÊÆµÄÊ±ºò£¬ÎÒ²Å»ÅÃ¦È¥ÕÒÊó±ê£¬È»ºó½«ÄÇ¸öÞÏÞÎµÄËÀÍö×ËÊÆ¸ø½áÊø¡£ÈÃÀúÊ·Ëæ·ç¶øÈ¥°É¡£°¢ÃÅ£¡
+
+    ¡°ÎûÎûºÇºÇ¡ª¡ªÄã¼ÌÐøÍæ¶ù¡ª¡ª¡±
+
+    ¡°²»Òª×ÜÊÇ¾¾×¡±ðÈËµÄÐ¡±è×Ó¾Í²»·ÅºÃ²»ºÃ£¿¡±ÎÒ²»ÂúÒâµÄà½àì×Å¡£ËýÈ´Ð¦¶ø²»Óï¡£
+
+    ÆëÄÈ²»ÔÙÀíÎÒ£¬ÎÒÖ»ÄÜÐÄ²»ÔÚÑÉµÄ´ò×Å¹ÖÎï£¬ÕâÑù¶ÈÈÕÈçÄêµÄ¹ýÁË¼¸·ÖÖÓ£¬ÎÒÖÕÓÚÈÌ²»×¡ÎÊµÀ£º¡°ÔõÃ´ÑùÁË£¿¡±
+
+    ¡°°¡£¿¡±ÆëÄÈÏñÊÇ¸Õ´ÓÃÎÖÐÐÑ¹ýÀ´Ò»°ã£¬¡°ÄÇ´òµÄºÃ¶àÁË£¬×¨ÐÄµã¶ù£¬Ó¦¸Ã²»ÊÇÄÇÃ´ÈÝÒ×ËÀÁË¡ª¡ª¶÷¡ª¡ª¡±
+
+    Ìýµ½Ëý´ð·ÇËùÎÊ£¬ÎÒ¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611283" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚÎåÊ®¶þÕÂÒ»µã¶¼²»ºÃÍæ" chapterorder="52" size="6110" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ÓÚÎ°²©¿à×ÅÁ³¿´Ëý£º¡°Äã¾Í²»Òª¿´ºÃÏ·ÁË£¬¿ìµã°ïÎÒÈ°È°Ñ½£¡¡±
+
+    ¡°ÎÒ¿ÉÈ°²»ÁË£¬ÈË¼ÒÊÇÌúÁËÐÄµÄÒªºÍÄã°ìÊÖÐø£¬ÕâÖÖÊÂÇé£¬ÎÒÈ°ÁË¼´Ê¹ÏÖÔÚËýÌýÎÒµÄ£¬ÒÔºó»¹²»ÊÇÒªÔ¹ºÞÎÒÒ»±²×Ó£¿¡±ÆëÄÈÒ¡×ÅÊÖºóÍË¡£
+
+    ÎÒÆøµÄÖ±¶å½Å£¬ÐÄµÀ£º¡°Õâ¸öºÚÐÄµÄ¼Ò»ï£¡¡±¾­ÀúÁËÕâ´ÎµÄÊÂÇéÎÒºöÈ»¾õµÃËû¶ÔÓÚÎÒÀ´Ëµ»¹ÊÇÌØ±ðÖØÒª£¬ÒòÎªÎÒÒ»µã¶ù¶¼²»ÏëÈ¥°ìÄÇ¸öÊÖÐø¡£
+
+    ÆëÄÈ²»°ïËý£¬ÓÚÎ°²©À­×¡ÎÒµÄ¸ì²²£º¡°ÎÒÓÐÊÂÇéÒª¸úÄãËµ£¬ÎÒÕæµÄ²»ÒªÀë»é£¬ÎÒÏëÍ¨ÁË£¬ÎÒ²»ÄÜÃ»ÓÐÄã£¡¡±
+
+    ÎÒµÄÐÄÀïÇÔÏ²×Å£¬µ«ÊÇÓÖÅÂËûÊÇÔÚË£×ì£¬¶øÇÒ»¹ÒªÕÒ¸öÌ¨½×ÏÂ²Å³ÉÑ½£¡¡°Äã¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611284" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚÎåÊ®ÈýÕÂ¶¼À´ÁËºÃ" chapterorder="53" size="6110" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ¡°ÄÇ¡ª¡ªºÃ°É¡ª¡ª¡±ÓÚÎ°²©ËäÈ»ÓÌÔ¥»¹ÊÇ´ðÓ¦ÁËÎÒ£¬¸ú×ÅÎÒ×ßÁË³öÀ´¡£
+
+    ÎÒÃÇÁ©Ò»Ç°Ò»ºóÉÏÁËµçÌÝ¡£Ëû¸úÔÚÎÒÉíºóËµµÀ£º¡°ÒªÈ¥ÄÄÀï£¿¡±
+
+    ÎÒ´ð·ÇËùÎÊ£º¡°ÎÒÔÙÎÊÒ»´Î£¬ÄãËµµÄ¶¼ÊÇÕæµÄ£¿¡±
+
+    ¡°¶÷¡£¡±ËûµÄÉùÒôÊÇÑÏËàµÄ¡£
+
+    ¡°´ó¸Å»áÊÇÊ²Ã´ÑùµÄºó¹ûÄØ£¿¡±ÎÒÎÊµÀ¡£µÈ´ý×Å½á¹ûµÄÍ¬Ê±ÎÒÒÑ¾­×öºÃÁË×î»µµÄ´òËã¡£
+
+    ¡°²»ÖªµÀ£¬¿ÉÄÜ»áÅÐ¼¸Äê°É£¡¡±
+
+    ÏÂÁËÂ¥£¬ÎÒ¾¶×Ô×ßÏòÄÇÁ¾Í£ÔÚÂ¥ÏÂµÄ¾¯³µ£¬¶Ô×ÅÒ»Î»´ø´ó¸ÇÃ±µÄ¾¯²ìÊåÊåËµµÀ£º¡°ÄãºÃ£¬ÇëÎÊÄãÃÇÊÇÔÚµÈÓÚÎ°²©Âð£¿¡±
+
+    ¡°ÄãÔõÃ´ÖªµÀ£¿¡±ËûÎÊ¡£
+
+    ¡°ÄãÃÇÕâÑù¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611285" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚÎåÊ®ËÄÕÂ»éÀñ¼ÌÐø" chapterorder="54" size="2936" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ÓÚÎ°²©×ß¹ýÀ´±§×¡ÎÒ£º¡°Ðìíµ£¡ÄãÀä¾²µã¶ù£¡²»¿ÉÄÜÊÇËýÃÇµÄ£¡ÄãÔÚÒ½ÔºµÄÊ±ºòÊÇÍõ½ã±ÆÍõÁÕºÍÄã×ö¹ÇËèÒÆÖ²ÊÖÊõµÄ£¡ÄãÖ®ËùÒÔÄÜ»îÏÂÀ´£¬¶¼ÊÇÍõÁÕ³ÉÈ«µÄ¡ª¡ªËùÒÔËýÊÇ²»»áº¦ÄãµÄ¡£¡±
+
+    ÎÒã¶ÁËÒ»ÏÂ£¬Ò»Ë²¼äÎÒÉõÖÁÏ£ÍûÎÒËùÓÐµÄÍÆ¶Ï¶¼ÊÇ´íÎóµÄ£¬µ«ÊÇÏëµ½ÄÇÃ´¶àµÄÖ¤¾ÝÔø¾­ÕæÕæÊµÊµµÄ°ÚÔÚÎÒµÄÑÛÇ°£¬ÎÒÖªµÀÎÒ²»ÄÜÔÙ×ÔÆÛÆÛÈËÁË¡£
+
+    ¡°ºÇºÇ¡ª¡ªÄãÕæÊÇ´¦ÐÄ»ýÂÇ°¡£¡·´ÕýÎÒÏÖÔÚÊ²Ã´¶¼Ã»ÓÐ²»ÊÇÂð£¿²»ÈÃÎÒËÀÊÇÎªÁËÈÃÎÒ»î×Å¼ÌÐøÊÜÄãÃÇµÄÕÛÄ¥Âð£¿ºÇºÇ¡ª¡ª¡±
+
+    ¡°ºÃ£¬ÎÒ¶¼¸æËßÄã¡ª¡ªÄÇÆð³µ»öÈ·ÊµÊÇÎÒÔì³ÉµÄ¡£µ«ÊÇ²»¹ØÍõÁÕºÍÐìÁÕµÄÊÂÇé¡ª¡ª¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611286" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚÎåÊ®ÎåÕÂÎÒÊÇÔõÃ´ÁË£¿" chapterorder="55" size="6147" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    »éÉ´£¬Ñ©°×µÄÍÏÒ·ÔÚËýµÄÉíºó¡£Á³ÉÏÑóÒç×ÅÇà´ºö¦ÀöµÄÐ¦ÈÝ¡£ÅÎÍû×ÅÕâÒ»ÌìÅÎÍûÁËÎÞÊýÌìÁË°É£¿£¡ÖÕÓÚ£¬ÕâÊÂÒ»³¡ÕæÕýµÄ»éÀñÁË°É£¡
+
+    ¾¹È»ÊÇ»ÐÈôÈçÃÎ¡£
+
+    ÓÚÎ°²©£¬ÎÒÕæµÄÒª¼Þ¸øÄãÁËÂð£¿
+
+    ÓÚÎ°²©£¬ÐìíµÕæµÄÒª¼Þ¸øÄãÁËÂð£¿
+
+    ÀÏÌìÒ¯£¬ÐìíµÕæµÄÒª¼Þ¸øÓÚÎ°²©ÁËÂð£¿
+
+    ºÇºÇ£¬ºÇºÇ£¬¹þ¹þ¡ª¡ªÎÒÈÌ²»×¡µÍ×ÅÍ··¢³öÉµÉµµÄÐ¦ÉùÀ´¡£
+
+    ¡°Î¹Î¹¡ª¡ªÉµÐ¦Ê²Ã´ÄØ£¿¡±ÉíÅÔµÄÈË×§ÁË×§ÎÒµÄÈ¹°Ú¡£
+
+    ÖÜÎ§¾¡ÊÇÈ¡Ð¦µÄÁ³ÅÓÍûÏòÎÒ¡£
+
+    ÎÒË²¼äÐßºìÁËÁ³£º¡°Ã»ÓÐÐ¦Ê²Ã´Ñ½£¡ÈË¼ÒÍµÍµµÄ¿ªÐÄÒ»ÏÂ×Ó²»¿ÉÒÔÂð£¿¡±ËµÍêà½×Å×ì°ÍÌ§¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611287" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚÎåÊ®ÁùÕÂËýÓÐ¼äÐªÐÔÊ§Òä" chapterorder="56" size="6168" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ÎÒÖ»ºÃÌ§ÆðÍ·£¬¹Ô¹ÔµÄÌýËûËµÏÂÈ¥¡£
+
+    ¡°ÕâÐ©ÕæµÄÊÇÄãÑ¡ÖÐµÄ¡£ÔÛÃÇÂíÉÏ¾Í½á»éÁË¡£Äã¿ÉÒÔ²»´©ÕâÐ©¶«Î÷£¡µ«ÊÇÄã²»ÄÜ¼Ù×°¶ÔÎÒÕâÃ´ÀäÄ®ºÃ²»ºÃ£¿·Â·ðÊÇÓÖ»Øµ½ÁË¶ÁÊéÊ±¡ª¡ª¡±
+
+    ¡°¶ÁÊéÊ±£¿¡±ÎÒÒÉ»óµÀ×·ÎÊÁËÒ»¾ä¡£
+
+    ¡°¶÷¡£¡±ËûµãÍ·¡£
+
+    ¡°ÄÇÃ´ÎÒÃÇ¸ú¶ÁÊéµÄÊ±ºòÓÐÊ²Ã´²»Ò»ÑùµÄµØ·½Âð£¿¡±ÎÒÈÔÈ»²»½âµÄ×·ÎÊ×Å¡£
+
+    ¡°Õâ¸ö£¡Äãµ½µ×ÏëÒªÈÃÎÒÔõÃ´ÑùÀ´¸úÄãËµÇå³þÄØ£¿£¡¡±Ëû¿´×ÅÎÒ£¬ÑÛ¾¦ÀïÊÇ½¹ÔêµÄ²»°²µÄÎÞ·¨ÐÎÈÝµÄÍ´¿à±íÇé¡£Ú¤Ë¼¿àÏëÁËÁ¼¾Ã£¬ËûËÆºõÖÕÓÚÕÒµ½ÁËÒ»¸ö¿ÉÒÔËµ·þÎÒµÄÀíÓÉ£º¡°ÎÒÃÇÒÑ¾­¶©»éÁË¡£¡±
+
+    Ëû°Í°Í¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611288" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚÎåÊ®ÆßÕÂÇÀ»é" chapterorder="57" size="5952" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ÎÒÕæµÄÈÌ²»×¡ÁË¡£
+
+    ¼¦Æ¤¸í´ñÔÙ´ÎÆËóùóùµÄÍùÏÂµô¡£
+
+    Õâ×÷ËÀµÄ½Ú×à¡£ÔÝÍ£ÔÝÍ£ÇëÔÝÍ£¡£
+
+    »¹ºÃ£¬¿ÉÄÜÊÇÎÒµÄÆíµ»ÉúÐ§ÁË£¬¼°Ê±µÄÍì¾ÈÁËÎÒ¡£
+
+    ËûµÄÊÖÕÆËÉ¿ª£¬ÎÒµÄÏÂ°ÍË³ÊÆµÍ´¹ÁËÏÂÀ´¡£
+
+    »¹ÊÇÕâ¸ö×ËÊÆ±È½ÏÊæ·þ¡£²»ÖÁÓÚÃæ¶ÔÄ³ÈËË§³ÉÑýÄõµÄÁ³ÅÓ£¬Ò²²»ÖÁÓÚÈÃÎÒ³ÐÊÜ×ÅÕäÖéÉÀµÄÊæ·þ¡£¸ü²»ÓÃ¡ª¡ªÄÇ¸öÊ²Ã´Ê²Ã´£¬·´ÕýÊÇÒª¶àÊæ·þ¾ÍÓÐ¶àÊæ·þ¡£
+
+    Êæ·þµÄÎÒ½¡ÍüÁË£¬Êæ·þµÄÎÒÕÒ²»×Å±±ÁË¡£
+
+    À§ÒâÔÙ´ÎÏ®À´µÄÊ±ºò£¬ÎÒÈÌ²»×¡À­×¡ËûµÄÊÖÎÊµÀ£º¡°ÎÒÊÇ²»ÊÇÉú²¡ÁË£¿¡±
+
+    ¡°°¡£¿¡±Ëû¿ÉÄÜÊÇ¶ÔÓÚÎÒÍ»È»Ã°³öÀ´µÄÎÊÌâ¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611289" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚÎåÊ®°ËÕÂ´²±ßµÄÈË²»ÊÇËû" chapterorder="58" size="6113" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ÎÒ¾­¹ý²»Ð¼µÄÅ¬Á¦ÖÕÓÚÕö¿ªÁËÑÛ¾¦£¬ÊÊÓ¦ÁËÊÒÄÚÈáºÍµÄ¹âÁÁÖ®ºó¡£ÎÒ¿´Çå³þÁËÑÛÇ°µÄÈË£¬¾¹È»²»ÊÇÓÚÎ°²©£¬ÄÇÕÅÁ³ÊìÏ¤ÓÖÄ°Éú¡£
+
+    ÎªÊ²Ã´ÎÒ¾¹À´×ÜÊÇ»áÓÐÕâÑùµÄ¸Ð¾õ£¿
+
+    ÊìÏ¤ÓÖÄ°Éú£¿
+
+    ³ý´ËÖ®ÍâÄØ£¿²»¿ÉÒÔÓÐ±ðµÄ¸Ð¾õÂð£¿
+
+    ÎÒÒ¡ÁËÒ¡ÄÔ´ü£¬ÓÐÁËÁíÍâµÄÒ»¸ö¸Ð¾õ£¬Ä°ÉúÓÖÊìÏ¤¡£
+
+    ËûÕö¿ªÑÛ¾¦£¬°²¾²µÄ¿´×ÅÎÒ£¬ÎÂÈáµÄ¿ª¿Ú£º¡°ÄãÐÑÁË£¿¡±
+
+    ÇáÇáµÄÒ»¾äÎÊºò£¬ÏñÊÇÖØ¸´ÁËÇ§Íò±éÒ»°ãµÄ×ÔÈ»¶øÈ»µÄËµ³ö¿Ú¡£
+
+    ÎÒ¿´×ÅËûµÄÁ³£¬ËûµÄÁ³ËäÈ»Ò²ËãµÄÉÏÓ¢¿¡£¬µ«ÊÇÓÉÓÚÏßÌõ¹ýÓÚ´Ö¿ñ¶ø²»ÊÇºÜÑøÑÛ£¬ËäÈ»ÎÒ²¢²»ÏñÒ»Ö±¿´×Å¡£
+¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611290" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚÎåÊ®¾ÅÕÂ×¥Ð¡ÍµµÄÓ¢ÐÛ" chapterorder="59" size="6010" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ³µ×Ó»º»ºÊ»¹ý²½ÐÐ½Ö¡£ÒòÎª²½ÐÐ½ÖµÄÈËÌØ±ð¶à£¬ËùÒÔ¸ù±¾¾Í×ß²»¿ì£¬ÎÒÃÇÁ½¸öÓÐÒ»´îÃ»Ò»´îµÄËµ×Å»°¡£
+
+    ËûÍ»È»²»Ëµ»°ÁË£¬ÑÛ¾¦×¨×¢µÄ×¢ÊÓ×Å³µ´°ÍâÃæ¡£ÎÒÏë¿ÉÄÜÊÇÒòÎªÕâµØ·½µÀÂ·±È½ÏÕ­µÄÔµ¹Ê£¬Ëûº¦ÅÂÓë±ðµÄ³µ·¢ÉúÇ×ÎÇÊÂ¼þ¶øÌØ±ðµÄ×¨×¢°É£¡ËùÒÔÎÒ¾Í°²°²·Ö·ÖµÄ×ø×Å£¬²»ÔÙ´òÈÅËûµÄ×¢ÒâÁ¦¡£
+
+    ¡°ÄãµÈÎÒÒ»ÏÂ¡£¡±ËûÍ»È»½«³µ×Ó¿¿±ß¶ùÍ£ÏÂ¡£È»ºó´ò¿ª³µÃÅÏÂÁË³µ¡£
+
+    ÎÒµÄÊÓÏßÒ»Ö±ºÃÆæµÄ×·Ëæ×ÅËû¡£
+
+    Ö»¼ûËû¸ß¸ß×³×³µÄÉíÓ°´©¹ýÂíÂ·£¬È»ºó¾­¹ýÒ»Á¾Í¬ÑùÊÇÍ£¿¿ÔÚÂ·±ß¶ùµÄ³µ×Ó¡£
+
+    ÄÇÁ¾³µ×ÓÅÔ±ßÓÐÒ»¸öÈË£¬Õý¾Ù×Å¸ì²²ÖØ¸´×ÅÒ»¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611291" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚÁùÊ®ÕÂÄÄÀïÀ´µÄÍâ¹úÈË£¿" chapterorder="60" size="5795" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ¿ÉÊÇÎÒµÄºðÉùÈÔ¾ÉÃ»ÓÐÄÜ¹»Ó°Ïìµ½ËûÎÒµÄÎÞÀí¡£°¡£¬ÎÒÒª·èÁË¡£±ÕÉÏÑÛ¾¦º°£º¡°À´ÈËÄÄ£¡¡±
+
+    ¡°¹ÃÄï£¡ÄãÏûÏûÆø£¡¡±Ô­À´Ëû»áËµÖÐ¹ú»°°¡£¡
+
+    ËûÉì³öË«ÊÖ·ö×¡ÎÒµÄ¼ç°ò¡£
+
+    ÕâÊ±ºòÃÅ´ò¿ªÁË£¬ÕÅÐ¡º£Éì½øÀ´¸öÄÔ´ü£º¡°ÔõÃ´ÁË£¿·¢ÉúÊ²Ã´ÊÂÁË£¿¡±
+
+    ¡°Ã»ÊÂ¡£ÕâÎ»¹ÃÄï»¹Éú»îÔÚ×Ô¼ºµÄÒÜÏëµ±ÖÐ¡£¡±Ëû×ªÍ·£¬Ïò×ÅÕÅÐ¡º£½âÊÍµÀ¡£
+
+    ¡°Äã²ÅÒÜÏëÄØ£¡ÄãÃÇÈ«¼Ò¶¼ÒÜÏë£¡Äã»¹ÒâÒùÄØ£¡£¡£¡¿¿£¡¡±ËµÍêÖ®ºó£¬ÎÒÒ²×ÔÈÏÓÐÐ©¹ý·Ö£¬ÐÄÖÐàÖ¹¾×ÅÏ£ÍûÕâ¸öÍâ¹úÀ´µÄ¼Ò»ïÌý²»¶®ÎÒµÄ¹úÂî¡£»òÕß½«ÒâË¼Àí½â³ÉÎª±ðµÄÄÚÈÝ¾ÍºÃÁË¡£
+
+    ¡°íµíµ£¬Äã¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611292" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚÁùÊ®Ò»ÕÂÌ°Íæ¶ùµ½±ð´¦£¬±ðÓ°ÏìÎÒ×öÉúÒâ" chapterorder="61" size="6495" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ¡°ÕâÑùµÄ»°£¬ÎÒ¸øÄã¸öÓÅ»Ý¼Û¾ÅÊ®°ËÔª¡£¡±ËûºÜÈÏÕæµÄÉì³öÒ»¸ö°ËµÄÊÖÊÆ¡£
+
+    ¡°ÊÇ°Ë¿éÇ®Âð£¿¡±ÎÒ¹ÊÒâÎÊµÀ¡£
+
+    ËûÒ¡×ÅÍ·£¬Ë»×ÅÆø¶ù£º¡°Ð¡¹ÃÄï£¬Äã¾Í²»Òª¶ºÎÒÁË£¡°ËÊ®¶¼Âò²»ÁË°¡£¡ÔõÃ´¿ÉÄÜÊÇ°ËÔªÄØ£¡¡±ËûËµ×Å¾ÍÒªÍù»ØÊÕÄÇ¼þÒÂ·þ¡£
+
+    ¡°ÄÇ¸ö£¬ÀÏ°å£¬Äú±ð½éÒâ£¬Ëý¾ÍÊÇÌ°Íæ¶ù£¬ºÇºÇ¡ª¡ª±ð½éÒâ¡±ÕÅÐ¡º£¸ÏÃ¦¸øÎÒ´ò×ÅÔ²³¡¡£
+
+    ÀÏ°åÓÃºÜÆæ¹ÖµÄÑÛÉñ¶ù¿´ÁËÎÒÒ»ÑÛ£¬Ð¡ÉùàÖ¹¾×Å£º¡°Ì°Íæ¶ùµÄ»°µÀ±ð´¦Íæ¶ùÈ¥£¬±ðÓ°ÏìÎÒ×öÉúÒâ¡£¡±
+
+    ¡°´óÊå£¬²»ÒªÄÇÃ´Ð¡ÆøÂï£¡ÎÒÖ»ÊÇ¿´¸öÍæÐ¦£¡ÍæÐ¦£¡ºÇºÇ¡­¡­¡±ÎÒºð×ÅÁ³Æ¤ËµµÀ¡£ÎÒ´ÓÄÇ±ß¹ýÀ´¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611293" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚÁùÊ®¶þÕÂÊ²Ã´Ê²Ã´µÄ¶¼Ã»ÒâË¼" chapterorder="62" size="6030" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ÎÒ¿´×ÅËýµÄÒ»ÏµÁÐÑÔÐÐ¾ÙÀý£¬¸Ð¾õËý¾ÍÊÇÈÝæÖæÖµ÷½Ì³öÀ´µÄ¡£²»£¡Ëý¼òÖ±¾ÍÊÇÈÝæÖæÖ£¬Ã¿Ò»¸ö¶¯×÷ÓïÑÔ¶¼×öµÄÏàµ±µ½Î»£¬ºÁÎÞ·ÖºÁµÄ²î´í¿ÉÑÔ¡£ÕâÒªÊÇÈÃËýÀ´µ÷½ÌÎÒÕâÐ©¹æ¾Ø£¬ÎÒ¹À¼Æ±ÈÐ¡Ñà×ÓÒ²ºÃ²»µ½ÄÄ¶ùÈ¥°¡£¡ÈË¼ÒÐ¡Ñà×ÓÅÄÆ¬¶ùµÄÊ±ºòÊÇÓÃÁËÌØ¼¼µÄ£¡ÕâÒªÊÇÈÃÎÒÉúÉúµÄÊÜ×Å£¬¿ÉÊÇ²ÒÁË¡£Ïëµ½ÕâÀï²»ÓÉµÃ´òÁËÒ»¸ö¶ßàÂ¡£
+
+    ¡°ºÃµÄ£¬ÖªµÀÁË¡£ÂíÉÏÏÂÀ´¡£¡±ÕÅÐ¡º£ºÜÓÐÀñÃ²µÄ¶ÔËûËµÍê£¬È»ºó³¯×ÅËý»ÓÁË»ÓÊÖ±Û¡£
+
+    ÕÅÂèÍËÏÂÁË¡£
+
+    ÎÒÊ§È¥ÁË¹Û²ìµÄ¶ÔÏó£¬×îºó°Ñ¾«Á¦¼¯ÖÐÔÚÕÅÐ¡º£µÄÉíÉÏ£¬àÍàÍµÄ¿´×ÅËû¿ªÊ¼ÁËÎÒµÄºúË¼ÂÒÏëÚ¤Ë¼¿àÏë¡£
+
+    ¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611294" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚÁùÊ®ÈýÕÂÓÖ±»×·É±ÁË£¡" chapterorder="63" size="6154" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ¡°ÄãÔÚÕâÀï×öÊ²Ã´ÄØ£¿¡±ÕÅÐ¡º£ÈáºÍµÄÉùÒô´ÓÉíºóÏìÆðÀ´¡£
+
+    ÎÒÑöÆðÍ·£¬ÀÁÀÁµÄ»Ø´ð£º¡°¿´Ì«Ñô°¡£¡¡±
+
+    ¡°ÊÇÂð£¿¡±Ëû½«ÎÒÄ«¾µÕªÏÂÀ´£¬¡°ÄÄÀïÓÐÌ«ÑôÄØ£¿¡±ËÆÐ¦·ÇÐ¦µÄ¿´×ÅÎÊµÀ¡£
+
+    ¡°ÎÒ½«ËüËÍ»Ø¼ÒÁË°¡£¡¡±ÎÒÀíËùµ±È»µÄËµµÀ¡£
+
+    ¡°ÊÇÂð£¿ÎÒÃÇ¼ÒíµíµÔ½À´Ô½À÷º¦ÁË°¡£¡¡±
+
+    ËûÍ»È»´Ó¹«ÎÄ°üÀïÄÃ³öÒ»¸öÐ¡ºÐ×ÓµÝ¸øÎÒ£º¡°¿´¿´£¬Æ¯ÁÁ²»£¿¡±
+
+    ÎÒ´ò¿ªÀ´£¬ÀïÃæºÕÈ»ÊÇÒ»¸öÁÁ¾§¾§µÄË®¾§µõ×¹¡£¿ÉÊÇÎÒ»¹ÊÇ¿ªÐÄ²»ÆðÀ´£¬½«ÄÇ¸ö¶«Î÷ÖØÐÂ·Å»Øµ½ËûµÄÊÖÀï¡£
+
+    ¡°ÎÒÖªµÀÄã²»¿ªÐÄ£¬µ«ÊÇÎÒÒ²ÊÇÎªÁËÄãºÃ¡£¡±ÕÅÐ¡º£¿ªÊ¼ÁËËûµÄ¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611295" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚÁùÊ®ËÄÕÂÁÔÈË¿¨¿¨" chapterorder="64" size="6103" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ¡°Äã×òÌìÍíÉÏ±»ÀÇÏ®»÷ÁË£¡ÄãÔõÃ´»áÒ»¸öÈË¿ª×Å¿ª³µµ½ÁÖ×ÓÀïÈ¥µÄÄØ£¿¡±
+
+    ÀÇ£¿ÀÇ£¿
+
+    ÎÒÌýµ½Õâ¸ö×ÖÑÛ¾ÍºóÅÂ¡£Ã¦²»µüµÄ¼ì²éÁËÈ«Éíºó²ÅËÉÁËÒ»¿ÚÆø£¬È«ÉíÃ»ÓÐÒ»¶¡µã¶ùµÄÉËºÛ¡£
+
+    ºöÈ»¾ÍÏëÆðÁË×òÌì¿´×Å×Ô¼ºµÄÄÇÒ»Ë«Ë«ÂÌÓÍÓÍµÄÑÛ¾¦¡£Ô­À´¶¼ÊÇÕæµÄ¡£
+
+    Ëû½«ÖàµÝ¸øÎÒ£º¡°¿ì³Ô°É£¡ÄãÒ»¶¨¶öÁË£¡´ý»á¶ùÎÒÈ¥¸øÄã´òÒ°ÍÃ×Ó³Ô£¡¡±
+
+    ÎÒÒ»ÌýÕâ¸ö¾ÍÐË·Ü¡£µ«ÊÇÄÃÆð¿ê×Ó¿´ÁËÒ»ÑÛ×Ô¼ººÚºõºõµÄ×¦×Ó£¬Ò»µã¶ùÊ³Óû¶¼Ã»ÓÐÁË¡£¿ÉÁ¯°Í°ÍµÄÌ§Í·¿´Ëû¡£
+
+    ¡°Äã²»Ï²»¶³ÔÕâ¸ö£¿¡±
+
+    ¡°ÎÒ»¹Ã»ÓÐÏ´Á³ÄØ£¡¡±
+
+    ¡°Å¶£¡¸úÎÒÀ´£¡¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611296" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚÁùÊ®ÎåÕÂ´åÖ§ÊéÀ´ÁË" chapterorder="65" size="6133" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ¡°ºÃ°¡£¡¡±ÎÒÀÖºÇºÇµÄ»Ø´ðµÀ¡£
+
+    È»ºóÓÐÎÊµÀ£º¡°¿ÉÊÇ¼¦ÔÚÄÄÀïÄØ£¿¡±
+
+    ¿´×ÅËûÁì×Å¼¦ÆøºôºôµÄ½øÁË³ø·¿£¬ÎÒàÖ¹¾×Å£º¡°Å¶£¬Ô­À´ÔÚË®¾®±ßµÄÅè×ÓÀï£¬Õâ´ÎÎÒÖªµÀÁË¡£¡±
+
+    ÎÒ½¥½¥µÄ²»Ì«ÊÈË¯ÁË¡£Ã¿Ìì¸ú×Å¿¨¿¨ÉÏÉ½´òÁÔ£¬ÏÂµØÖÖ²Ë£¬¾¹È»Ò²Ñ§»áÁËÏ´ÒÂ×ö·¹¡£Ã»ÓÐÒÂ·þ£¬¾Í´©ËûµÄÒÂ·þ£¬´ò°çµÄ¸ú¸ö¼ÙÐ¡×ÓËÆµÄ¡£
+
+    Ò»ÌìÍíÉÏ£¬³Ô¹ý·¹£¬ÎÒÃÇÒ»ÆðÔÚ·¿¶¥ÉÏ¿´ÔÂÁÁ¡£
+
+    ´ËÊ±´Ë¿Ì£¬ÌìÉÏµÄÔÂÁÁÓÖÔ²ÓÖ´ó¡£
+
+    ÎÒÌ§Í·ÑöÍû×ÅÕâÂÖ°×°×ÄÛÄÛµÄÔÂÁÁ£¬²»ÓÉµÃ¸ÐÌ¾£º¡°ÕâÔÂÁÁÀëÎÒÃÇºÃ½ü°¡£¡¡±ÕâÑù¸ÐÌ¾×ÅÎÒÎÒÈË²»³¯×ÅËüÉìÁËÉìÎÒ×ï¶ñµÄ×¦¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611297" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚÁùÊ®ÁùÕÂÄÇÄãÃÇ¾Í³ÉÇ×°É£¡" chapterorder="66" size="6019" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ºÃ²»ÈÝÒ×°¾µ½Î²ÉùÁË¡£
+
+    ´åÖ§Êé¾ÆÒ²ºÈµÃ²î²»¶àÁË£¬ÖÕÓÚËµÁËËû×Ô´ÓÉÏ×ÀÒÔÀ´µÄµÚÒ»¾ä»°£º¡°¼ÈÈ»¶¼ÕâÑùÁË£¬ÄÇÄãÃÇ¾Í½á»é°É£¡¡±
+
+    ¡°¿È¿È¿È¿È¡­¡­¡±ÎÒÂú×ìµÄÃ×·¹Á£¶ù¶¼ÅçÁË³öÀ´¡£ÎÒÊÇ×¢¶¨ÒªËÀÔÚÄãµÄÊÖÉÏÂð£¿
+
+    ¡°Äã¿´Õâº¢×Ó¼¤¶¯µÄ£¡Õ¦¾Í¸ßÐË³ÉÕâÑùÁËÄØ£¿¡±´åÖ§Êé¹ÖÐÄÌÛµÄ¿´×ÅÎÒ£¬¿´µÄÎÒÖ±ÄÑÊÜ£¬Ëû×£¸£¿¨¿¨£º¡°ÄÇ¸ö¡ª¡ª¿¨¿¨£¬Äã¿ì°ïËýÅÄÅÄ£¬Ë³Ë³Æø¶ù£¡Õâº¢×ÓÅÂÊÇÊÜÁËÌ«¶àµÄ¿Þ£¡ÒªÃ´Ò²²»ÖÁÓÚ¼Þ¸öÔÛÕâ¸öµÄ×¯»§ÈË¼Ò»¹ÄÜ¼¤¶¯³ÉÕâÑù£¡ÕâÃ´µÎ£¬ÕâÃ´Ë®ÁéµÄÃÃ×Ó£¬Äã¿ÉµÃ¶ÔËýºÃÄØ£¡¡±Ëûßëß¶¸öÃ»Íæ¶ù¡£
+
+    ¿¨¿¨Ð¦ÎûÎûµÄµãÍ·£¬¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611298" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚÁùÊ®ÆßÕÂÒ»ÇÐ¶¼²»Ò»ÑùÁË" chapterorder="67" size="6097" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    Ã»ÓÐ£¬Ã»ÓÐÄÇÃ´ÈËµÄÏûÏ¢£¬Ã»ÓÐÄÇ¸öÈËµÄÖëË¿Âí¼£¡£ÎªÊ²Ã´£¿ÊÇ´å³¤Ã»ÓÐÁªÏµµ½ËûÂð£¿»¹ÊÇËû²»Ïë¼ûÎÒÄØ£¿£¡²»»áµÄ£¡ÄÑµÀÊÇ£¿Î¨Ò»µÄ½âÊÍ¾ÍÊÇËûÏÖÔÚÊ§È¥ÁËÈËÉú×ÔÓÉ²»ÄÜÀ´¼ûÎÒÁË£¿
+
+    Ìì£¬²»»áÊÇÕæµÄ£¡ÕæÏà²»»áÊÇÕâÑùµÄ£¡
+
+    ÎÒÐÄÀï·­½­µ¹º£µÄÐÚÓ¿×Å¡£µ«ÊÇ½ÅÏÂ»¹ÊÇ±¾ÄÜµÄ¸ú×ÅËûÃÇÉÏ³µ£¬ÏÂ³µ£¬ÉÏÂ¥¡£»ØËûÃÇ¿ÚÖÐËùÎ½µÄ¼Ò¡£
+
+    ÕâÀïÊÇÒ»×ù¼«ÆäºÀ»ªµÄ±ðÊû£¬ÓÚÎ°²©´ÓÐ¬³÷ÀïÄÃ³öÒ»Ë«ÍÏÐ¬µÝ¹ýÀ´£¬¶Ô×ÅÉµã¶ÔÚÃÅ¿ÚµÄÎÒËµµÀ£º¡°¿ì»»ÉÏ°É£¡¡±
+
+    ÎÒ½á¹ûËýÊÖÖÐµÄÐ¬×Ó£¬Ì×ÔÚ½ÅÉÏ¡£
+
+    ¡°À´£¡¿ª·¹ÁË¡£´ó¼Ò¶¼ÔÚµÈÄã£¡¡±
+
+    ×À×Ó¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611299" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚÁùÊ®°ËÕÂÎÒÏëÀë¿ªÕâ¶ù" chapterorder="68" size="6255" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ¡°íµíµ£¬²»ÈçÄã»¹»Øµ½ÎÒµÄ¹«Ë¾À´ÉÏ°à°É£¡¡±³Ô·¹µÄÊ±ºò£¬ÓÚÎ°²©Í»È»ÏòÎÒ·¢³öÁËÑûÇë¡£ÆäÊµÎÒÒÔÇ°¼ÇÆðÁË¹ØÓÚÒÔÇ°µÄ×Ô¼ºµÄ¹¤×÷ºÍ×öµÄÊÂÇé¡£¿ÉÊÇÎÒÏÖÔÚÈ´¾õµÃÎÒ²»Ï²»¶ÄÇÑùµÄÉú»îÁË¡£
+
+    ÎÒÌ§ÆðÍ·£¬¿´×ÅËû£º¡°½ã·ò£¬ÎÒ²»»á×ÜÊÇ³ÔÏÐ·¹µÄ£¡¡±
+
+    ¡°ÎÒ²»ÊÇÄÇ¸öÒâË¼£¡¡±ÓÚÎ°²©Ã¦²»µüµÄ½âÊÍ×Å£¬¡°Äã¿´Äã£¬ÏÖÔÚÕ¦¾ÍÄÇÃ´¶àÐÄÑÛ¶ùÄØ£¡ÄãÊÇ²»Ô¸Òâ»Øµ½ÎÒµÄ¹«Ë¾ÉÏ°à»¹ÊÇÔõÃ´£¿¡±
+
+    ÎÒÒ¡Í·£º¡°ÎÒÖªµÀÎÒ¸Ã¹¤×÷ÁË£¬µ«ÊÇÎÒ»¹Ã»ÓÐÏëºÃÒª×öÊ²Ã´¡£¿öÇÒ£¬ÎÒÒ²²»ÄÜ×ÜÊÇ×¡ÔÚÕâÀï¡£¡±
+
+    ËµÍêÕâ¾ä£¬ÎÒÍ»È»·¢ÏÖÃ¿´Î¶¼ÊÇÃÆÉù²»Ïì³Ô·¹µÄÐìÁÕÍ»È»¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611300" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚÁùÊ®¾ÅÕÂÃ¿Ìì¸úº¢×ÓÃÇÔÚÒ»Æð" chapterorder="69" size="6183" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ÎÒ²ü²ü¶¶¶¶µÄÇ©ÁË×Ö¡£ÐÄÖÐ°Ù¸Ð½»¼¯¡£ÆäÊµÎÒÖªµÀ£¬Èç¹ûÎÒÏëÒªÉú´æÏÂÈ¥£¬ÊÖÖÐÒ»·ÖÇ®Ã»ÓÐ£¬ÓëÆäµ½Ê±ºòÔÙÈ¥ÇóÈËÔâÈË°×ÑÛ£¬²»Èç×¥×¡Õâ¸ö»ú»á¡£ÄÄÅÂµÈÒÔºó·­ÉíÔÙ»¹»ØÈ¥¶¼ÊÇ¿ÉÒÔµÄ¡£
+
+    ¡°¶÷£¬ÎÒ»áÔç×÷´òËãµÄ£¡¡±ÔÚÎÒÐÄÖÐÕâ¾ÍÊÇÒ»ÖÖ±äÏàµÄÇýÖðµÄÊÖ¶Î°É£¡ÎÒ²»Ó¦¸Ã×¡ÔÚÕâÀïÎÒÔç¾ÍÒÑ¾­ÖªµÀÁË¡£
+
+    ¡°ÄãËµµÄÊ²Ã´»°£¿ÂýÂýÕÒ°É£¡ÓÐÊ±¼ä£¬×îºóÈ¥Ò½Ôº¼ì²éÒ»ÏÂÉíÌå¡£¡±ÓÚÎ°²©¿íºñµÄÐ¦Ð¦ËµµÀ¡£
+
+    ¡°²»ÓÃ£¬ÎÒÉíÌå×³×ÅÄØ£¡¡±
+
+    ¡°¿ÉÊÇÄãÄÔ×ÓÂÒÔãÔãµÄ£¡¡±ÐìÁÕ´ò¶ÏÁËÎÒµÄ»°¡£
+
+    ¡°ÎÒ¡ª¡ª¡±ÎÒÎ¯ÇüµÄ¸ÕÏë±ç½â¡£
+
+    ÓÚÎ°²©ÒÑ¾­¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611301" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚÆßÊ®ÕÂ»éÀñ" chapterorder="70" size="5917" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    ×ªÑÛ¾ÍÒÑ¾­Õ¾ÔÚÁËÍõÁÕµÄ×¼ÐÂ·¿Àï¡£ËµÊ²Ã´·ÇµÃÀ­¹ýÀ´ÈÃÎÒÃÇ°ïËýÊÕÊ°ÐÂ·¿¡£ÆäÊµËµ°×ÁË°É£¬¾ÍÊÇÈÃÎÒÃÇÀ´¼à¶½ÈË¼ÒÄÇ¸öÈËÊÇ²»ÊÇºÏ¸ñµÎËµ¡£
+
+    Ê±¼ä¹ýµÃÕæ¿ì¡£ÎÒÕ¾ÔÚËý¿í³¨Ã÷ÁÁµÄ·¿Àï£¬»ØÏëÕâÐ©ÌìµÄÈÕ×Ó£¬»¹ÊÇºÜÐÒ¸£µÄ¡£ÎÒµÄÓ×¶ùÔ°°ìµÄ·çÉúË®ÆðµÄ£¬Ñ§ÉúÒÑ¾­ÊÕµ½ºÃ¼¸°Ù¡£ÀÏÊ¦Ò²ÓÐºÃ¼¸Ê®¡£Ã¿Ìì¿´×ÅÄÇÐ©º¢×Ó¿ª¿ªÐÄÐÄ±Ä±ÄÌøÌøµÄÑù×ÓÎÒ¾õµÃÊ²Ã´¶¼²»ÖØÒªÁË¡£
+
+    Íõ½ã£¬ÎÒÃÇÏÖÔÚÒÑ¾­²»½ÐËýÍõ½ãÁË£¬½ÐÍõ°¢ÒÌ°É¡£ÆäÊµ×Ô´ÓÎÒÖªµÀÎÒºÍÍõÁÕÊÇÇ×½ãÃÃÖ®ºó£¬ÎÒ¾ÍÒÑ¾­°ÑËýµ±×öÒÌÂèÁË£¬Ö»ÊÇÎÒ±íÃæÉÏÎÒ´ÓÀ´²»Ô¸Òâ³ÐÈÏÕâ¼þÊÂÇé¶øÒÑ¡£
+
+    Íõ°¢ÒÌ¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+<item chapterid="611302" siteid="0" sourceid="0" sourcecid="0" sourcecorder="0" articleid="1960" articlename="»é°®³Éñ«" volumeid="0" posterid="1" poster="admin" postdate="1521905673" lastupdate="1521905673" chaptername="µÚÆßÊ®Ò»ÕÂÎÒ¿Ï¶¨ÊÇºÈ¶àÁË" chapterorder="71" size="4162" saleprice="0" salenum="0" totalcost="0" attachment="" summary="    »éÀñ½Ó½üÎ²ÉùµÄÊ±ºò£¬´ó¼Ò¶¼ºÈµÃ²î²»¶àÁË¡£´Ó¾Æµê³öÀ´£¬Ò»°ïÈËºåÐ¦×ÅÒªÈ¥ÄÖ¶´·¿¡£
+
+    Àî·åºÈÁË¾ÆÁ³É«¸üºìÁË£¬Â§×ÅÍõÁÕ£¬ÏñÊÇÒ»¸öº¦ÐßµÄº¢×ÓÒ»°ã¡£
+
+    ¡°Ë­ÒªÊÇ¸ÒÈ¥ÄÖ£¡¡±ÍõÁÕÖÐÆøÊ®×ãµÄ·¢×Å¾Æ·è£¬Ò»µã¶ù¶¼²»ÏñÊÇ¸Õ¸Õ´ó²¡³õÓúµÄÑù×Ó£¬ÏÅµÃÈËÃÇ¶¼ÏòºóÍËÁË¼¸²½¡£È»ºóËýºÙºÙÒ»Ð¦£¬¡°ÎÒ¶¼»á»¶Ó­µÄÅ¶£¡¡±
+
+    ÎÒÐ¦×Å¸úÔÚºóÃæ¿´×ÅËûÃÇÆðºå×Å¡£ÏíÊÜ×ÅÈÈÄÖµÄ¸ÐÈ¾¡£
+
+    Í»È»´ÓÈËÈºµÄ·ìÏ¶ÖÐ£¬ÎÒ¿´µ½Ò»¸öÊìÏ¤µÄÁ³£¬Ëû´ô´ôµÄ¿´×ÅÎÒ£¬×ì½ÇÏòÉÏ³é¶¯£¬³¯ÎÒ·¢³öÎ¢Î¢Ò»Ð¦¡£ÎÒË²¼äÏñÊÇÊÜµ½ÁËÄ³ÖÖ¸ÐÕÙÒ»°ã£¬Ïò×ÅËûµÄ·½Ïò³å¹ýÈ¥£¬³å¹ýÈ¥¡­¡­" isimage="0" isvip="0" pages="0" chaptertype="0" power="0" display="0" />
+</chapters>
+</package>

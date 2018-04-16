@@ -1,0 +1,68 @@
+    <div class="footer">
+	<div class="section nav">
+		<p>
+			<a href="/">首页</a>
+			<a href="{?$jieqi_modules['article']['url']?}/articlefilter.php">书库</a>
+			{?if $jieqi_userid > 0?}
+			<a href="{?$jieqi_modules['pay']['url']?}/buyegold.php">充值</a>
+			<a href="{?$jieqi_modules['article']['url']?}/bookcase.php">我追的书</a>
+			<a href="/logout.php">退出</a>
+			{?/if?}
+			</p>
+	</div>
+	
+	<div class="section kefu">
+		<h4>联系客服</h4>
+		<p>
+		工作时间：周一到周日 9:00-22:00<br />
+		客服ＱＱ：2336060855<br />
+                电脑版链接: www.juziread.com <br />
+		</p>
+	</div>
+</div>
+
+<script>
+    var require = {
+        baseUrl: "/_res/js",
+        urlArgs: "bust=" + 201510091636,
+        waitSeconds: 15,
+        deps: ["mobile_index"]
+    }
+</script>
+        
+{?if $jieqi_thisfile|basename != 'top.php'?}
+    <script>
+        _inlineRun(function () {
+            require(["mo/ui/Tabs"], function (Tabs) {
+                new Tabs({
+                    eventType: "click",
+                    toggleItem: ".rank-switch ul",
+                    handles: ".rank-switch .item",
+                    handleCurrentClass: "active"
+                });
+            })
+        });
+		</script>
+    <script>
+        _inlineRun(function () {
+            require(["mo/ui/Tabs"], function (Tabs) {
+                new Tabs({
+                    eventType: "click",
+                    toggleItem: ".tab ul",
+                    handles: ".c3 .item",
+                    handleCurrentClass: "active"
+                });
+            })
+        });
+		</script>
+
+    <script>
+        $(function () {
+            $(".top .nav a").eq(0).addClass("active");
+            $(".headnavbar li").eq(1).addClass("active");
+        })
+	</script>
+
+{?/if?}
+
+<script src="/_res/components/requirejs/require.js"></script>

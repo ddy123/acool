@@ -1,0 +1,458 @@
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html >
+<html>
+	<head>
+		<meta name="Generator" content="TPSHOP v1.1" />
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+		<meta name="format-detection" content="telephone=no" />
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-touch-fullscreen" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black">
+		<meta name="applicable-device" content="mobile">
+		<link rel="shortcut icon" href="/Public/images/favicon.ico" />
+		<title><?php echo ($site_title); ?></title>
+		<meta http-equiv="keywords" content="<?php echo ($tpshop_config['shop_info_store_keyword']); ?>" />
+		<meta name="description" content="<?php echo ($tpshop_config['shop_info_store_desc']); ?>" />
+		<link rel="stylesheet" href="/Template/mobile/default/Static/css/public.css">
+		<link rel="stylesheet" href="/Template/mobile/default/Static/css/index.css">
+		<link rel="stylesheet" href="/Template/mobile/default/Static/css/user.css">
+		<script type="text/javascript" src="/Template/mobile/default/Static/js/jquery.js"></script>
+		<script type="text/javascript" src="/Template/mobile/default/Static/js/common.js"></script>
+		<script type="text/javascript" src="/Template/mobile/default/Static/js/modernizr.js"></script>
+		<script type="text/javascript" src="/Template/mobile/default/Static/js/layer.js" ></script>
+		<script type="text/javascript" src="https://res.wx.qq.com/open/js/jweixin-1.0.0.js" ></script>
+	</head>
+
+<body>
+<div class="tab_nav">
+    <div class="header">
+        <div class="h-left">
+            <a class="sb-back" href="<?php echo U('User/Index');?>" title="返回" target="_self"></a>
+        </div>
+
+        <div class="h-mid" style="width: 80%;float: left">
+            用户充值
+        </div>
+    </div>
+</div>
+
+<div id="tbh5v0" style="margin-top: 45px">
+    <div class="Personal">
+        <div id="tbh5v0">
+            <div class="innercontent1" >
+                <?php if($isweixin == 1): ?><form method="post" id="pay_info" >
+                <?php else: ?>
+                    <form method="post" action="<?php echo U('User/pay');?>" id="pay_info" ><?php endif; ?>
+                     <div  <?php if($isweixin != 1) echo 'style="border-bottom:0"'; ?> >
+                        <div class="<?php if($isweixin != 1) echo 'payetype1'; else echo 'curpayetype1'; ?> " onclick="javascript:void(0);" id="weixinpay">
+                            <!--<input type="radio" name="paytype" value ="weixinpay" checked="true">-->
+                            <img style="height:30%;width: 40%" src="/Template/mobile/default/Static/images/bottom_img/pay_weixin@3x.png"/>
+                            <span>
+                                    &nbsp;微信支付
+                            </span>
+                            <!--</input>-->
+
+                            <?php if($isweixin == 1): ?><input type="hidden" name="code" value ="<?php echo ($code); ?>" ><?php endif; ?>
+                        </div>
+
+                        <?php if($isweixin != 1): ?><div class="payetype1" onclick="javascript:void(0);" id="alipay">
+                                <!--<input type="radio" name="paytype" value ="alipay">-->
+                                <img style="height:28%;width: 37%;padding: 3px"  src="/Template/mobile/default/Static/images/bottom_img/pay_zhifubao@3x.png"/>
+                                <span>
+                                    &nbsp;支付宝</span>
+                                <!--</input>-->
+                            </div>
+
+                            <div class="payetype1" onclick="javascript:void(0);" id="weixinapppay">
+                                <!--<input type="radio" name="paytype" value ="weixinapppay">-->
+                                <img style="height:30%;width: 40%"  src="/Template/mobile/default/Static/images/bottom_img/pay_weixin@3x.png"/>
+                                <span>
+                                &nbsp;微信钱包</span>
+                                <!--</input>-->
+                            </div><?php endif; ?>
+                    </div>
+
+                    <input type="hidden" name="paytype" value ="weixinpay" id="paytype">
+
+                    <div style="width:100%;border-bottom:1px solid black;float: left"></div>
+
+                    <!--<div class="payegold">-->
+                        <!--<ul style=" word-break:break-all">-->
+                            <!--&lt;!&ndash;<li><input type="radio" name="egold" value="50000" class="radio">  30000+20000币（300元）<stong style="color:red">多送200元</stong></li>&ndash;&gt;-->
+                            <!--&lt;!&ndash;<li><input type="radio" name="egold" value="15000" class="radio"> 10000+5000币（100元）<stong style="color:red">多送50元</stong></li>&ndash;&gt;-->
+                            <!--&lt;!&ndash;<li><input type="radio" name="egold" value="7000" class="radio"> 5000+2000币（50元）<stong style="color:red">多送20元　</stong><span><img src="/Template/mobile/default/Static/images/bottom_img/re.gif"></span></li>&ndash;&gt;-->
+                            <!--&lt;!&ndash;<li><input type="radio" name="egold" value="4000" class="radio" checked="checked"> 3000+1000币（30元）<stong style="color:red">多送10元</stong></li>&ndash;&gt;-->
+                            <!--&lt;!&ndash;<li><input type="radio" name="egold" value="2000" class="radio"> 2000 小说币（20元）多送0元</li>&ndash;&gt;-->
+
+                            <!--&lt;!&ndash;<li><label><input type="radio" name="egold" value="50000" class="radio">  30000+20000币（300元）<stong style="color:red">多送200元</stong></label></li>&ndash;&gt;-->
+                            <!--&lt;!&ndash;<li><label><input type="radio" name="egold" value="15000" class="radio"> 10000+5000币（100元）<stong style="color:red">多送50元</stong></label></li>&ndash;&gt;-->
+                            <!--&lt;!&ndash;<li><label><input type="radio" name="egold" value="7000" class="radio"> 5000+2000币（50元）<stong style="color:red">多送20元　</stong><span><img src="/Template/mobile/default/Static/images/bottom_img/re.gif"></span></label></li>&ndash;&gt;-->
+                            <!--&lt;!&ndash;<li><label><input type="radio" name="egold" value="4000" class="radio" checked="checked"> 3000+1000币（30元）<stong style="color:red">多送10元</stong></label></li>&ndash;&gt;-->
+                            <!--&lt;!&ndash;<li><label><input type="radio" name="egold" value="2000" class="radio"> 2000 小说币（20元）多送0元</label></li>&ndash;&gt;-->
+
+                            <!--<div>-->
+                                <!--<li>-->
+                                    <!--<label>-->
+                                        <!--<input type="radio" name="egold" value="50000" class="radio">-->
+                                        <!--<p style="font-size: 20px">300元</p>-->
+                                        <!--<p>-->
+                                            <!--30000+20000币-->
+                                        <!--</p>-->
+                                        <!--<stong style="color:red">-->
+                                            <!--多送200元-->
+                                        <!--</stong>-->
+                                    <!--</label>-->
+                                <!--</li>-->
+                            <!--</div>-->
+                            <!--<div>-->
+                                <!--<li>-->
+                                    <!--<label>-->
+                                        <!--<input type="radio" name="egold" value="15000" class="radio">-->
+                                        <!--<p style="font-size: 20px">100元</p>-->
+                                        <!--<p>-->
+                                            <!--10000+5000币-->
+                                        <!--</p>-->
+                                        <!--<stong style="color:red">-->
+                                            <!--多送50元-->
+                                        <!--</stong>-->
+                                    <!--</label>-->
+                                <!--</li>-->
+                            <!--</div>-->
+                            <!--<div>-->
+                                <!--<li>-->
+                                    <!--<label>-->
+                                        <!--<input type="radio" name="egold" value="7000" class="radio">-->
+                                        <!--<p style="font-size: 20px">50元</p>-->
+                                        <!--<p>-->
+                                            <!--5000+2000币-->
+                                        <!--</p>-->
+                                        <!--<stong style="color:red">-->
+                                            <!--多送20元-->
+                                        <!--</stong>-->
+                                    <!--</label>-->
+                                <!--</li>-->
+                            <!--</div>-->
+                            <!--<div>-->
+                                <!--<li>-->
+                                    <!--<span>-->
+                                        <!--<img src="/Template/mobile/default/Static/images/bottom_img/re.gif">-->
+                                    <!--</span>-->
+                                    <!--<label>-->
+                                        <!--<input type="radio" name="egold" value="4000" class="radio" checked="checked">-->
+                                        <!--<p style="font-size: 20px">30元</p>-->
+                                        <!--<p>-->
+                                            <!--3000+1000币-->
+                                        <!--</p>-->
+                                        <!--<stong style="color:red">-->
+                                            <!--多送10元-->
+                                        <!--</stong>-->
+                                    <!--</label>-->
+                                <!--</li>-->
+                            <!--</div>-->
+                            <!--<div>-->
+                                <!--<li>-->
+                                    <!--<label>-->
+                                        <!--<input type="radio" name="egold" value="2000" class="radio">-->
+                                        <!--<p style="font-size: 20px">20元</p>-->
+                                        <!--<p>-->
+                                            <!--2000小说币-->
+                                        <!--</p>-->
+                                        <!--多送0元-->
+                                    <!--</label>-->
+                                <!--</li>-->
+                            <!--</div>-->
+                        <!--</ul>-->
+                    <!--</div>-->
+
+                    <div>    </div>
+
+                    <ul class="mainmenu">
+                        <li onclick="javascript:void(0);" id="150000">
+                            <a>
+                                <p style="font-size: 20px">500元</p>
+                                <p style="font-size: 12px">
+                                    50000+100000币
+                                </p>
+                                <span style="color:red;">多送200元</span>
+                            </a>
+                        </li>
+                        <li onclick="javascript:void(0);" id="50000">
+                            <a>
+                                <p style="font-size: 20px">200元</p>
+                                <p style="font-size: 12px">
+                                    20000+30000币
+                                </p>
+                                <span style="color:red;">多送300元</span>
+                            </a>
+                        </li>
+                        <li onclick="javascript:void(0);" id="20000">
+                            <a>
+                                <p style="font-size: 20px">100元</p>
+                                <p style="font-size: 12px">
+                                    10000+10000币
+                                </p>
+                                <span style="color:red;">多送100元</span>
+                            </a>
+                        </li>
+                        <li onclick="javascript:void(0);" id="13000">
+                            <a>
+                                <p style="font-size: 20px">80元</p>
+                                <p style="font-size: 12px">
+                                    8000+5000币
+                                </p>
+                                <span style="color:red;">多送50元</span>
+                            </a>
+                        </li>
+                        <li class="current" onclick="javascript:void(0);" id="8000">
+                            <a style="position: relative;">
+                                <img src="/Template/mobile/default/Static/images/bottom_img/re.gif" style="position: absolute; width: 19px;height: 23px; z-index: 1; margin:0px 20px;">
+                                <p style="font-size: 20px">50元</p>
+                                <p style="font-size: 12px">
+                                    5000+3000币
+                                </p>
+                                <span style="color:red;">多送30元</span>
+                            </a>
+                        </li>
+                        <li onclick="javascript:void(0);" id="3000">
+                            <a>
+
+                                <p style="font-size: 20px">30元</p>
+                                <p style="font-size: 12px">
+                                    3000小说币
+                                </p>
+                                <span>多送0元</span>
+                            </a>
+                        </li>
+                    </ul>
+
+                    <input type="hidden" name="egold" value="8000" id="egold">
+
+                    <?php if($isweixin != 1): ?><div class="field submit-btn">
+                            <input type="submit" value="确认支付" class="btn_big1" />
+                        </div>
+                    <?php else: ?>
+                        <div class="field submit-btn">
+                            <input type="submit" value="确认支付" class="btn_big1" onclick="weixinAppPay()"/>
+                        </div><?php endif; ?>
+                </form>
+
+            <span id="test"></span>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+
+    var appId     = '';
+    var timeStamp = '';
+    var nonceStr  = '';
+    var package   = '';
+    var signType  = '';
+    var paySign   = '';
+    var orderID   = '';
+
+    weixin = '<?php echo ($isweixin); ?>';
+
+    if(weixin != '1')
+    {
+        var myIntval = setInterval(function(){load()},1000);
+    }
+
+    function load()
+    {
+        //document.getElementById("timer").innerHTML = parseInt(document.getElementById("timer").innerHTML) + 1;
+
+//        alert('test');
+
+        var xmlhttp;
+
+        if (window.XMLHttpRequest)
+        {
+            // code for IE7+, Firefox, Chrome, Opera, Safari
+            xmlhttp = new XMLHttpRequest();
+        }
+        else
+        {
+            // code for IE6, IE5
+            xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+        }
+
+        xmlhttp.onreadystatechange = function()
+        {
+            if (xmlhttp.readyState == 4 && xmlhttp.status == 200)
+            {
+                trade_state = xmlhttp.responseText;
+
+                trade_state = trade_state.replace(/\ +/g,"");
+
+                trade_state = trade_state.replace(/[\r\n]/g,"");
+
+                trade_state = trade_state.replace(/[ ]/g,"");
+
+                if(trade_state == 'SUCCESS')
+                {
+                    alert('支付成功，点击按钮跳转到首页');
+
+                    //延迟3000毫秒执行tz() 方法
+                    clearInterval(myIntval);
+
+                    setTimeout("location.href='http://m.juziread.com/User/index.html'",0);
+                }
+            }
+        }
+
+        //文件返回订单状态，通过订单状态确定支付状态
+        xmlhttp.open("POST","http://m.juziread.com/User/weixinOrderQuery.html",false);
+
+        //下面这句话必须有
+        //把标签/值对添加到要发送的头文件。
+        xmlhttp.setRequestHeader("Content-type","application/x-www-form-urlencoded");
+
+        xmlhttp.send("out_trade_no=" + $('#out_trade_no').val());
+    }
+
+    function onBridgeReady()
+    {
+        WeixinJSBridge.invoke(
+            'getBrandWCPayRequest',
+            {
+                "appId"     : appId,     //公众号名称，由商户传入
+                "timeStamp" : timeStamp,         //时间戳，自1970年以来的秒数
+                "nonceStr"  : nonceStr, //随机串
+                "package"   : package,
+                "signType"  : "MD5",         //微信签名方式：
+                "paySign"   : paySign //微信签名
+            },
+            function(res)
+            {
+                if(res.err_msg == "get_brand_wcpay_request:ok" )
+                {
+                    window.location.href = 'http://m.juziread.com/User/index.html';
+                }
+                // 使用以上方式判断前端返回,微信团队郑重提示：res.err_msg将在用户支付成功后返回    ok，但并不保证它绝对可靠。
+            }
+        );
+    }
+
+    function weixinAppPay()
+    {
+        var xmlhttp;
+
+        if (window.XMLHttpRequest)
+        {
+            // code for IE7+, Firefox, Chrome, Opera, Safari
+            xmlhttp = new XMLHttpRequest();
+        }
+        else
+        {
+            // code for IE6, IE5
+            xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+        }
+
+        xmlhttp.onreadystatechange = function()
+        {
+            if (xmlhttp.readyState == 4 && xmlhttp.status == 200)
+            {
+                trade_state = xmlhttp.responseText;
+
+                trade_state = trade_state.replace(/\ +/g,"");
+
+                trade_state = trade_state.replace(/[\r\n]/g,"");
+
+                trade_state = trade_state.replace(/[ ]/g,"");
+
+                eval("var res =" + trade_state);
+
+//                alert('res.status = --' + res.status + '-');
+
+                if(res.status == 1)
+                {
+                    appId     = res.data.appId;
+                    timeStamp = res.data.timeStamp;
+                    nonceStr  = res.data.nonceStr;
+                    package   = res.data.package;
+                    paySign   = res.data.paySign;
+
+                    orderID   = res.data.orderid;
+
+                    document.getElementById('test').innerHTML = '';
+
+//                    onBridgeReady();
+
+//                    document.addEventListener('WeixinJSBridgeReady', function onpay() {
+//                        onBridgeReady();
+//                        // 通过下面这个API隐藏右上角按钮
+//                        //WeixinJSBridge.call('hideOptionMenu');
+//                        // 发送给好友
+//
+//                    }, false);
+
+                    if (typeof WeixinJSBridge == "undefined") {
+                        if (document.addEventListener) {
+                            document.addEventListener('WeixinJSBridgeReady', onBridgeReady,
+                                false);
+                        } else if (document.attachEvent) {
+                            document.attachEvent('WeixinJSBridgeReady', onBridgeReady);
+                            document.attachEvent('onWeixinJSBridgeReady', onBridgeReady);
+                        }
+                    } else {
+                        onBridgeReady();
+                    }
+                }
+                else if(res.status == -1)
+                {
+                    document.getElementById('test').innerHTML = 'false pay';
+
+                    location.href = "<?php echo U('User/Index');?>" + Math.random();
+                }
+            }
+        }
+
+        //文件返回订单状态，通过订单状态确定支付状态
+//        setTimeout(xmlhttp.open("POST","http://m.juziread.com/User/pay.html",false),2000);
+
+        xmlhttp.open("POST","http://m.juziread.com/User/pay.html",false);
+
+        //下面这句话必须有
+        //把标签/值对添加到要发送的头文件。
+        xmlhttp.setRequestHeader("Content-type","application/x-www-form-urlencoded");
+
+        xmlhttp.send($('#pay_info').serialize());
+    }
+
+//    王亚飞添加，2017-04-25
+    $("li").click(function ()
+    {
+        value = this.id;
+
+        if(value)
+        {
+            $('#egold').val(value);
+        }
+
+        $(this).addClass('current').siblings().removeClass('current');
+
+//        $(this).find("input").checked();
+    });
+
+    $("div").click(function ()
+    {
+        value = this.id;
+
+        if(value == 'alipay' || value == 'weixinpay' || value == 'weixinapppay')
+        {
+            $('#paytype').val(value);
+
+//            $(this).removeClass('payetype1');
+
+            $(this).addClass('curpayetype1').siblings().removeClass('curpayetype1');
+        }
+    });
+
+    //2017-04-26，burn添加
+
+</script>
+
+</body>
+</html>

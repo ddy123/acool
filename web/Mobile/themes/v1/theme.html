@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="{?$jieqi_charset?}"?>
+<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head> 
+    <title>{?$jieqi_pagetitle?}</title>
+    <meta content="zh-cn" http-equiv="Content-Language">
+    <meta name="keywords" content="{?$meta_keywords?}">
+	<meta name="description" content="{?$meta_description?}">
+    <meta http-equiv="Cache-Control" content="no-cache" />
+    <meta http-equiv="Content-Type" content="application/xhtml+xml; charset={?$jieqi_charset?}" />
+    <meta http-equiv="Cache-Control" content="no-cache" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="-1" />
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0, maximum-scale=1.0, user-scalable=1" />
+    <meta name="format-detection" content="telephone=no" />
+	<link rel="shortcut  icon" href="{?$jieqi_url?}/favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" type="text/css" href="/_res/css/heiyan/mobile/base.css?bust=20151021003" media="all" />
+    <link rel="stylesheet" href="/_res/components/swiper/dist/css/swiper.min.css?1" media="all" />
+	<script src="http://cdn.bootcss.com/jquery/2.1.4/jquery.min.js"></script>
+    <script type="text/javascript" src="/_res/layer/jquery.js"></script>
+	<script type="text/javascript" src="/_res/layer/layer.m.js"></script>
+    <script type="text/javascript" src="/_res/layer/bootstrap.min.js"></script>
+    <script type="text/javascript" src="/_res/layer/pagewap.js"></script>
+        
+    <script type="text/javascript">
+        var _Profile = {
+            id: "0",
+            type: "basic",
+            icon: "",
+		    name: '',
+		    site: "{?$jieqi_url|str_replace:'http://':''?}"
+	    }
+        var _inlineCodes = [];
+        var _inlineRun = function (fn) {
+            _inlineCodes.push(fn);
+        };
+        var isLogin = false;
+		   {?if $jieqi_userid > 0?}isLogin = true;{?/if?}
+
+		
+		function checkLogin(){
+			if(!isLogin){
+				//alert("请先登录");
+				location.href="{?$jieqi_url?}/login.php";
+			}
+			return isLogin;
+		}
+		
+    </script>
+    </head>
+{?include file="tpl/header3.html"?} 
+      <div class="container">
+
+{?if $jieqi_top_bar != ""?}<div class="row"><div class="col12">{?$jieqi_top_bar?}</div></div>{?/if?}
+
+{?if $jieqi_sideblocks|empty == false?}
+<div class="container">
+				<div class="container-bd">
+	{?if $jieqi_sideblocks['7']|empty == false?}
+	<div class="row">
+		<div class="col12">
+		{?section name=i loop=$jieqi_sideblocks['7']?}
+		{?if $jieqi_sideblocks['7'][i].title != ""?}
+		<div class="block">
+		<div class="blocktitle">{?$jieqi_sideblocks['7'][i].title?}</div>
+		<div class="blockcontent">{?$jieqi_sideblocks['7'][i].content?}</div>
+		</div>
+		{?else?}
+		<div class="blockc">{?$jieqi_sideblocks['7'][i].content?}</div>
+		{?/if?}
+		{?/section?}
+		</div>
+	</div>
+	{?/if?}
+
+	{?if $jieqi_sideblocks['2']|empty == false || $jieqi_sideblocks['3']|empty == false?}
+	<div class="row">
+		<div class="col6">
+			{?section name=i loop=$jieqi_sideblocks['2']?}
+			{?if $jieqi_sideblocks['2'][i].title != ""?}
+			<div class="block">
+			<div class="blocktitle">{?$jieqi_sideblocks['2'][i].title?}</div>
+			<div class="blockcontent">{?$jieqi_sideblocks['2'][i].content?}</div>
+			</div>
+			{?else?}
+			<div class="blockc">{?$jieqi_sideblocks['2'][i].content?}</div>
+			{?/if?}
+			{?/section?}
+		</div>
+		<div class="col6 last">
+			{?section name=i loop=$jieqi_sideblocks['3']?}
+			{?if $jieqi_sideblocks['3'][i].title != ""?}
+			<div class="block">
+			<div class="blocktitle">{?$jieqi_sideblocks['3'][i].title?}</div>
+			<div class="blockcontent">{?$jieqi_sideblocks['3'][i].content?}</div>
+			</div>
+			{?else?}
+			<div class="blockc">{?$jieqi_sideblocks['3'][i].content?}</div>
+			{?/if?}
+			{?/section?}
+		</div>
+	</div>
+	{?/if?}
+
+	{?if $jieqi_sideblocks['9']|empty == false?}
+		<div class="col2">
+			{?section name=i loop=$jieqi_sideblocks['9']?}
+			{?if $jieqi_sideblocks['9'][i].title != ""?}
+			<div class="block">
+			<div class="blocktitle">{?$jieqi_sideblocks['9'][i].title?}</div>
+			<div class="blockcontent">{?$jieqi_sideblocks['9'][i].content?}</div>
+			</div>
+			{?else?}
+			<div class="blockc">{?$jieqi_sideblocks['9'][i].content?}</div>
+			{?/if?}
+			{?/section?}  
+		</div>
+		{?if $jieqi_sideblocks['1']|empty == false?}<div class="col7">{?else?}<div class="col10 last">{?/if?}
+	{?elseif $jieqi_sideblocks['0']|empty == false?}
+		<div class="col3">
+			{?section name=i loop=$jieqi_sideblocks['0']?}
+			{?if $jieqi_sideblocks['0'][i].title != ""?}
+			<div class="block">
+			<div class="blocktitle">{?$jieqi_sideblocks['0'][i].title?}</div>
+			<div class="blockcontent">{?$jieqi_sideblocks['0'][i].content?}</div>
+			</div>
+			{?else?}
+			<div class="blockc">{?$jieqi_sideblocks['0'][i].content?}</div>
+			{?/if?}
+			{?/section?}  
+		</div>
+		{?if $jieqi_sideblocks['1']|empty == false?}<div class="col6">{?else?}{?/if?}
+	{?else?}
+		{?if $jieqi_sideblocks['1']|empty == false?}{?else?}<div class="col12">{?/if?}
+	{?/if?}
+		{?if $jieqi_sideblocks['4']|empty == false?}
+			{?section name=i loop=$jieqi_sideblocks['4']?}
+			{?if $jieqi_sideblocks['4'][i].title != ""?}
+			<div class="block">
+			<div class="blocktitle">{?$jieqi_sideblocks['4'][i].title?}</div>
+			<div class="blockcontent">{?$jieqi_sideblocks['4'][i].content?}</div>
+			</div>
+			{?else?}
+			<div class="blockc">{?$jieqi_sideblocks['4'][i].content?}</div>
+			{?/if?}
+			{?/section?}
+		{?/if?}
+		{?if $jieqi_sideblocks['5']|empty == false?}
+		<div class="c-left">
+			{?section name=i loop=$jieqi_sideblocks['5']?}
+			{?if $jieqi_sideblocks['5'][i].title != ""?}
+           <h1 class="page-title">
+			<i class="icon icon-rank"></i>{?$jieqi_sideblocks['5'][i].title?}</h1>
+           <div data-collect-id="2550" class="mod mod-clean pattern-update-list">
+							<div class="bd">
+                             {?$jieqi_sideblocks['5'][i].content?}</div>
+			{?else?}
+			<div class="blockc">{?$jieqi_sideblocks['5'][i].content?}</div>
+			{?/if?}
+			</div>
+</div>
+
+			{?/section?}
+		{?/if?}
+
+			{?if $jieqi_contents != ""?}<div class="c-left">{?$jieqi_contents?}</div>{?/if?}
+
+		{?if $jieqi_sideblocks['6']|empty == false?}
+			{?section name=i loop=$jieqi_sideblocks['6']?}
+			{?if $jieqi_sideblocks['6'][i].title != ""?}
+			<div class="block">
+			<div class="blocktitle">{?$jieqi_sideblocks['6'][i].title?}</div>
+			<div class="blockcontent">{?$jieqi_sideblocks['6'][i].content?}</div>
+			</div>
+			{?else?}
+			<div class="blockc">{?$jieqi_sideblocks['6'][i].content?}</div>
+			{?/if?}
+			{?/section?}
+		{?/if?}
+		
+
+		{?if $jieqi_sideblocks['1']|empty == false?}
+		<div class="c-right">
+						<div class="mod mod-block sidebar-menu">
+							<div class="hd"> 
+			{?section name=i loop=$jieqi_sideblocks['1']?}
+			{?if $jieqi_sideblocks['1'][i].title != ""?}
+			<h5><span>{?$jieqi_sideblocks['1'][i].title?}</span></h5>
+			</div>
+							<div class="bd">
+								<ul>{?$jieqi_sideblocks['1'][i].content?}</ul>
+
+			{?else?}
+			</div>
+							<div class="bd">
+								<ul>{?$jieqi_sideblocks['1'][i].content?}</ul>
+			{?/if?}
+			{?/section?}
+			</div>
+						</div>
+					</div>
+		{?/if?}
+		
+
+	{?if $jieqi_sideblocks['8']|empty == false?}
+	<div class="row">
+		<div class="col12">
+		{?section name=i loop=$jieqi_sideblocks['8']?}
+		{?if $jieqi_sideblocks['8'][i].title != ""?}
+		<div class="block">
+		<div class="blocktitle">{?$jieqi_sideblocks['8'][i].title?}</div>
+		<div class="blockcontent">{?$jieqi_sideblocks['8'][i].content?}</div>
+		</div>
+		{?else?}
+		<div class="blockc">{?$jieqi_sideblocks['8'][i].content?}</div>
+		{?/if?}
+		{?/section?}
+		</div>
+	</div>
+	{?/if?}
+</div>
+</div>
+{?else?}
+{?$jieqi_contents?}
+{?/if?}
+
+{?if $jieqi_bottom_bar != ""?}<div class="row"><div class="col12">{?$jieqi_bottom_bar?}</div></div>{?/if?}
+
+</div>
+
+{?include file="tpl/footer.html"?} 
+</body>
+</html>

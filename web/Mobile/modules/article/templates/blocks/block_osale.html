@@ -1,0 +1,3 @@
+{?section name=i loop=$osalerows?}
+<li><span class="fr">{?$osalerows[i].buytime|date:'m-d H:i'?}</span><a href="{?function jieqi_geturl:'system':'user':$osalerows[i].accountid?}" target="_blank">{?$osalerows[i].account?}</a>∂©‘ƒ¡À<a href="{?function jieqi_geturl:'article':'article':$osalerows[i].articleid:'info'?}" target="_blank">{?$osalerows[i].obookname?}</a></li>
+{?/section?}

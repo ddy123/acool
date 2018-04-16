@@ -1,0 +1,18 @@
+<div class="container-left">
+                    <div class="clearfix imgs">
+					 {?section name=i loop=$articlerows?}
+					 {?if $i['index'] == 0?}
+                        <a href="{?$articlerows[i].url_articleinfo?}" class="big-img"><img src="{?$articlerows[i].url_image?}" width="238" height="335"></a>
+                        <a href="{?$articlerows[i].url_articleinfo?}" class="small-img on" style="margin-top: 0;"><img src="{?$articlerows[i].url_image?}" width="36" height="50"></a>
+						{?else?}
+                        <a href="{?$articlerows[i].url_articleinfo?}" class="small-img"><img src="{?$articlerows[i].url_image?}" width="36" height="50"></a>
+						{?/if?}
+					{?/section?}	
+                    </div>
+					{?section name=i loop=$articlerows?}
+                    <div class="left-bot"{?if $i['order'] > 1?} style="display:none"{?/if?}>
+                        <h4><a href="{?$articlerows[i].url_articleinfo?}" class="c-333">{?$articlerows[i].articlename?}</a></h4>
+                        <p class="c-999">{?$articlerows[i].intro|truncate:166:'...'?}.... ...<a class="c-orange" href="{?$articlerows[i].url_articleinfo?}">È¥ÔÄ¶Á>></a></p>
+                    </div>
+					{?/section?}	
+                </div>

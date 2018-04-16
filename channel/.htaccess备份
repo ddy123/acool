@@ -1,0 +1,45 @@
+
+rewrite ^/user/myDynamic$ /user/myDynamic.php;
+rewrite ^/user/signin$ /user/signin.php;
+
+#burn 添加，登录接口
+rewrite ^/(.*)/(.*).html$ /index.php?s=/admin/$1.php;
+
+rewrite ^/user/showSignView$ /user/showSignView.php;
+rewrite ^/user/signin$ /user/signin.php;
+
+rewrite ^/reviews/([0-9]+)/$ /modules/article/reviews_js.php?aid=$1&ajax_request;
+rewrite ^/reviews/$ /modules/article/reviews_js.php;
+rewrite ^/showReplies/$ /modules/article/showReplies.php;
+rewrite ^/info/(.*).html$ /modules/article/articleinfo.php?id=$1;
+rewrite ^/read_(.*).html$ /modules/article/articleread.php?id=$1;
+rewrite ^/user/bookcase$ /modules/article/bookcase.php;
+rewrite ^/sort/(.*)/(.*).html$ /modules/article/articlelist.php?sortid=$1&page=$2;
+rewrite ^/fullsort/(.*)/(.*).html$ /modules/article/articlelist.php?fullflag=1&sortid=$1&page=$2;
+rewrite ^/initial/(.*)/(.*).html$ /modules/article/articlelist.php?initial=$1&page=$2;
+rewrite ^/top/(.*)/(.*).html$ /modules/article/toplist.php?order=$1&page=$2;
+rewrite ^/fulltop/(.*?)/([0-9]+).html$ /modules/article/toplist.php?fullflag=1&order=$1&page=$2;
+rewrite ^/read/(.*)_(.*).html$ /modules/article/reader.php?aid=$1&cid=$2;
+rewrite ^/(.*)_(.*)_(.*)_(.*)_(.*)_(.*)_(.*)_(.*)_(.*)_(.*).html$ /modules/article/articlefilter.php?order=$1&sortid=$2&size=$3&update=$4&initial=$5&isfull=$6&isvip=$7&tag=$8&rgroup=$9&page=$10;
+rewrite ^/html(.*)/(.*)/index.html$ /modules/article/reader.php?aid=$2;
+rewrite ^/author/(.*).html$ /modules/article/authorpage.php?id=$1;
+rewrite ^/read/([0-9]+)_([0-9]+).html$ /modules/article/reader.php?aid=$1&cid=$2;
+rewrite ^/read/vip/([0-9]+)_([0-9]+).html$ /modules/obook/reader.php?aid=$1&cid=$2;
+rewrite ^/user/(.*).html$ /userinfo.php?id=$1;
+rewrite ^/page/(.*).html$ /userpage.php?id=$1;
+rewrite ^/users/login.html$ /login.php;
+rewrite ^/users/register.html$ /register.php;
+rewrite ^/users/logout.html$ /logout.php;
+rewrite ^/users/useredit.html$ /useredit.php;
+rewrite ^/users/setavatar.html$ /setavatar.php;
+rewrite ^/users/passedit.html$ /passedit.php;
+rewrite ^/vip_([0-9]+).html$ /modules/obook/buychapter.php?cid=$1;
+rewrite ^/news/([0-9]+).html$ /;
+set $rule_30 1;
+rewrite ^/book/list /api/iqiyi/?method=list&$args last;
+set $rule_31 1;
+rewrite ^/book/info /api/iqiyi/?method=info&$args last;
+set $rule_32 1;
+rewrite ^/book/structure /api/iqiyi/?method=structure&$args last;
+set $rule_33 1;
+rewrite ^/book/volume/chapter/info /api/iqiyi/?method=chapterinfo&$args last;

@@ -1,0 +1,28 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js ie6 oldie" lang="zh" xmlns:wb="http://open.weibo.com/wb"><![endif]-->
+<!--[if IE 7]><html class="no-js ie7 oldie" lang="zh" xmlns:wb="http://open.weibo.com/wb"><![endif]-->
+<!--[if IE 8]><html class="no-js ie8 oldie" lang="zh" xmlns:wb="http://open.weibo.com/wb"><![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js" lang="zh" xmlns:wb="http://open.weibo.com/wb"><!--<![endif]-->
+<head>
+<title>{?$jieqi_pagetitle?}</title>
+<meta http-equiv="Content-Type" content="text/html; charset={?$jieqi_charset?}"/>
+<meta name="keywords" content="{?$meta_keywords?}"/>
+<meta name="description" content="{?$meta_description?}"/>
+<meta http-equiv="Content-Type" content="text/html; charset={?$jieqi_charset?}">
+<script type="text/javascript" src="{?$jieqi_url?}/sink/js/jquery-1.8.3.min.js"></script>
+<script type="text/javascript" src="{?$jieqi_url?}/sink/js/layer/layer.js"></script>
+<script type="text/javascript" src="{?$jieqi_url?}/sink/js/page.js"></script>
+<script type="text/javascript" src="{?$jieqi_url?}/sink/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="{?$jieqi_url?}/scripts/common.js"></script>
+<script type="text/javascript" src="{?$jieqi_url?}/scripts/theme.js"></script>
+<script type="text/javascript" src="{?$jieqi_url?}/sink/js/ks-switch.pack.js"></script>
+<link rel="stylesheet" rev="stylesheet" href="{?$jieqi_url?}/sink/css/base.css?bust=201604081520" type="text/css" media="all"/>
+<link rel="stylesheet" href="{?$jieqi_url?}/sink/css/font-awesome-4.4.0/css/font-awesome.min.css" media="all"/>
+</head>
+<body{?if $jieqi_thisfile|basename == 'newchapter.php' || $jieqi_thisfile|basename == 'chapteredit.php' || $jieqi_thisfile|basename == 'newdraft.php'?} class="chapter-edit"{?elseif $jieqi_thisfile|basename == 'articlemanage.php'?} class="book-manange"{?elseif $jieqi_thisfile|basename == 'buyegold.php'?} class="pay-choose"{?elseif $jieqi_thisfile|basename == 'bookcase.php'?} class="my"{?else?} class="people"{?/if?}>
+<div id="header" class="header ">
+{?include file="sink/user.html"?}
+</div>
+{?if $jieqi_contents != ""?}
+{?$jieqi_contents?}{?/if?}
+{?include file="sink/footer.html"?} 

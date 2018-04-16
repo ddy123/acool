@@ -1,0 +1,527 @@
+{?set jieqi_blocks_module = "article"?}
+{?set jieqi_blocks_config = "infoblocks"?}
+{?set $jieqi_pagetitle = "{$articlename}-{$author}-{$jieqi_sitename}"?}
+{?set $meta_keywords = "{$articlename} {$author} {$sort}"?}
+<script type="text/javascript" src="{?$jieqi_url?}/scripts/rating.js"></script>
+					<div class="c-left">
+			    	    <div class="mod pattern-cover-detail">
+		    	        	<div class="hd">
+		    	        		<div id="followDiv" ><div class="collect"><a href="javascript:;" onclick="GPage.addbook('{?$url_bookcase?}');"><i></i><span><em>已</em>追<em class="b">书</em>(有<b>{?$goodnum?}</b>个人在追)</span></a></div></div>
+		    	        		{?if $fullflag =='连载'?}<i class="book-status is-serialize"></i>{?else?}<i class="book-status is-finished"></i>{?/if?}
+	    	        			<h2>{?if $backupname== ""?}{?else?}{?$backupname?}：{?/if?}{?$articlename?}</h2>
+								<p class="infos">
+									<span id="readVisitor">         <span class="click">{?$allvisit?}点击</span>         <span class="divide">|</span>     </span>
+					    	        <span class="cate"><a>{?$sort?}</a></span>
+					    	        <span class="divide">|</span>
+					    	        <span class="words">{?$size_c?}字</span>
+					    	        <span class="divide">|</span><span class="ex">{?$isvip?}作品</span><span class="divide">|</span>
+					    	        <span>{?$permission?}</span>
+					    	    </p>
+		    	        	</div>
+		    	        	<div class="bd column-2 bd-p">
+		    	        		<div class="left voteStaff" id="voteStaff" data-collect-id="201"><div class="pic"> <a data-collect-index="1" href="{?$url_limage?}"> <img src="{?$url_limage?}" alt="{?$articlename?}" class="book-cover" width="200" height="280"> </a> 
+
+<div class="vote boost-diamond">
+	    	        		            	<a href="#" target="_blank" class="what-the-diamond"></a>
+	    	        		            	<div class="now" title="当月钻数">
+		    	        		            	<img src="/sink/image/field.gif" width="80" height="53" alt="当月钻数">
+		    	        		            	<p class="num">{?$monthvipvote?}</p>
+	    	        		            	</div>
+	    	        		            	<a id="a_tip" href="javascript:;" onclick="openDialog('{?$jieqi_modules['article']['url']?}/tip.php?id={?$articleid?}&ajax_gets=jieqi_contents', false);" class="send" title="打赏钻石"></a>
+	    	        		            	<p class="total">总钻数：{?$allvipvote?}</p>
+	    	        		            </div>
+
+ </div><div class="vote support-vote"> <a href="javascript:;" onclick="GPage.addbook('{?$url_uservote?}');" class="support icon-cover" title="投票"></a> <span class="num">{?$allvote?}</span> </div> <div class="buttons clearfix"><a data-collect-index="2" href="{?$url_read?}" class="index"><i class="icon-cover"></i>目录</a>                  <a data-collect-index="3" href="{?$jieqi_url?}/modules/article/articleread.php?id={?$articleid?}" class="read"><i class="icon-cover"></i>开始阅读</a> </div></div>
+	    	        		    <div class="right">
+	    	        		        <div class="summary min-summary-height">
+									
+									<div style="text-align:center;margin:8px 0px;">
+									    <div class="ratediv"><b class="fl">评分：</b>
+									    <div class="rateblock" id="rate_star">
+									    <script type="text/javascript">
+									    showRating({?$ratemax?}, {?$rateavg?}, 'rating', '{?$articleid?}');
+									    function rating(score, id){
+									    Ajax.Tip('{?$article_dynamic_url?}/rating.php?score='+score+'&id='+id, {method: 'POST', eid: 'rate_star'});
+									    }
+									    </script>
+									    </div>
+									   <span class="ratenum">{?$rateavg?}</span> <span class="gray">({?$ratenum?}人已评)</span>
+									  </div>
+									</div>
+									
+									
+	    	        		           <pre class="note">{?$intro|htmlclickable?}</pre>
+	    	        		           <pre class="note"></pre>
+	    	        		           <div class="ext-login"><i></i>
+   	        		           			{?$jieqi_sitename?}支持第三方一键登录，包括腾讯QQ、新浪微博、微信、百度贴吧，实现极简登陆体验。登陆后可发言、投票、打赏等。
+	    	        		           </div>
+	    	        		           <div class="copy"><i></i>
+	    	        		           	《{?$articlename?}》为{?$jieqi_sitename?}签约作者“{?$author?}”原创作品，首发、独家签约于{?$jieqi_sitename?}。{?$jieqi_sitename?}为大家提供无弹窗、无广告、最新最快的阅读体验，欢迎各位支持正版。
+	    	        		           </div>
+	    	        		           <div class="notify"><i></i>
+    	        		           		《{?$articlename?}》为网站作者“{?$author?}”所著虚构作品，不涉及任何真实人物、事件等，请勿将杜撰作品与现实挂钩。
+	    	        		           </div>
+	    	        		        </div>
+	    	        		        </div>
+		    	        	</div>
+		    	        </div>
+		    	        
+		    	        <div data-collect-id="2203" class="mod pattern-cover-update mod-clean-inside">
+		    	        		<div class="bd column-2">
+		    	        			<div class="left">
+		    	        				<i class="icon icon-cover"></i>
+		    	        				最新章节
+		    	        			</div>
+		    	        			<div class="right">
+									{?if $isvip_n > 0?}
+		    	        				<a data-collect-index="1" href="{?$url_vipchapter?}" class="chapter-link"><i class="icon-cover"></i></a>
+		    	        				<h4>
+		    	        					<span class="time">{?$viptime|date:'Y-m-d h:i'?}</span>
+		    	        					<a data-collect-index="2" href="{?$url_vipchapter?}">
+		    	        					<span id="chapterStatus">
+											<img alt="vip" src="/sink/image/icon-chapter-vip.png">
+											</span>
+	    	        						{?if $vipvolume != ''?}{?$vipvolume?} {?/if?}{?$vipchapter?}&gt;&gt;</a>
+		    	        				</h4>
+			   	        		        <p class="word-break">{?if $vipsummary|strip_tags != ""?}{?$vipsummary|strip_tags|truncate:460:'..'?}{?else?}本章暂无预览{?/if?}</p>
+										{?else?}
+										<a data-collect-index="1" href="{?$url_lastchapter?}" class="chapter-link"><i class="icon-cover"></i></a>
+		    	        				<h4>
+		    	        					<span class="time">{?$lastupdate|date:'Y-m-d h:i'?}</span>
+		    	        					<a data-collect-index="2" href="{?$url_lastchapter?}">
+		    	        					<span id="chapterStatus"></span>
+	    	        						{?if $lastvolume != ''?}{?$lastvolume?} {?/if?}{?$lastchapter?} &gt;&gt;</a>
+		    	        				</h4>
+			   	        		        <p class="word-break">{?if $lastsummary|strip_tags != ""?}{?$lastsummary|strip_tags|truncate:460:'..'?}{?else?}本章暂无预览{?/if?}</p>
+										{?/if?}
+		    	        			</div>
+		    	        		</div>
+		    	        	</div>
+		    	        	<div data-collect-id="3202" class="mod mod-block pattern-cover-boost" id="bookBoost">
+		    	        	<div class="progress-wrap">
+	<div class="progress" style="width: 9.62567%;"></div>
+</div>
+<div class="hd column-2">
+	<h5 class="left">
+		<span>捧场</span>
+		<div class="total">
+			<a data-collect-index="1" href="/modules/article/donate.php?id={?$articleid?}" target="_blank" title="全部捧场记录">
+ 			<span class="count" data-count="{?$giftnums?}">{?$giftnums?}</span>
+			</a>
+		</div>
+	</h5>
+	<div class="exp right">
+		<div class="level-text">
+			<span{?if $giftnum < 2500?} class="active"{?/if?}>待字闺中</span>
+			<span{?if $giftnum >=25000 && $giftnum < 50000?} class="active" {?/if?}>小家碧玉</span>
+			<span{?if $giftnum >=50000 && $giftnum < 750000?} class="active" {?/if?}>名门闺秀</span>
+			<span>倾国倾城</span>
+			<span class="last{?if $giftnum > 750000?} active{?/if?}">绝色天后</span>
+		</div>
+	</div>
+</div>
+<div class="bd">
+	<div class="recent-list">
+		{?block bid="0" blockname="打赏记录" module="article" filename="block_actlog" classname="BlockArticleActlog" side="-1" title="打赏记录" vars="addtime,5,0,$articleid," template="block_actlog.html" contenttype="4" custom="0" publish="3" hasvars="1"?}
+	</div>
+	<div class="controls">
+		<div class="item-list">
+			<table>
+				<tbody>
+					<tr class="img">
+						<td class="items" title="魔法币1" data-type="20" data-unit="个" data-desc="多更多福气。哗啦啦的魔法币送上，祝大大早日立地成神！" data-value="1" data-icon="/sink/image/r-coin.png" data-name="魔法币1">
+ 								<div><a id="a_flower" href="javascript:;" onclick="openDialog('{?$jieqi_modules['article']['url']?}/gifts.php?id={?$articleid?}&rid=2&ajax_gets=jieqi_contents', false);">
+ 									<img src="/sink/image/field.gif" class="donate-item donate-item-20" alt="魔法币1">
+ 									<p class="name"><span class="count">{?$redrose?}</span>个</p> </a>
+ 								</div>
+ 							</td>
+							<td class="items" title="红玫瑰1" data-type="21" data-unit="朵" data-desc="爱的玫瑰，愿大大的妙笔在夜莺眼泪的浇灌下，开出更美妙的花！" data-value="100" data-icon="/assets/donate/r-flower.png" data-name="红玫瑰1">
+ 								<div><a id="a_flower" href="javascript:;" onclick="openDialog('{?$jieqi_modules['article']['url']?}/gifts.php?id={?$articleid?}&rid=2&ajax_gets=jieqi_contents', false);">
+ 									<img src="/sink/image/field.gif" class="donate-item donate-item-21" alt="红玫瑰1">
+ 									<p class="name"><span class="count">{?$yellowrose?}</span>朵</p></a>
+ 								</div>
+ 							</td>
+							<td class="items" title="葡萄酒1" data-type="22" data-unit="杯" data-desc="作者大大的文字醇郁芬芳，如同白雪公主饮过的葡萄酒！" data-value="500" data-icon="/sink/image/r-wine.png" data-name="葡萄酒1">
+ 								<div><a id="a_flower" href="javascript:;" onclick="openDialog('{?$jieqi_modules['article']['url']?}/gifts.php?id={?$articleid?}&rid=2&ajax_gets=jieqi_contents', false);">
+ 									<img src="/sink/image/field.gif" class="donate-item donate-item-22" alt="葡萄酒1">
+ 									<p class="name"><span class="count">{?$bluerose?}</span>杯</p></a>
+ 								</div>
+ 							</td>
+							<td class="items" title="巧克力1" data-type="23" data-unit="个" data-desc="丘比特派我给大大送来能量巧克力，保管您瞬间文思泉涌！" data-value="1000" data-icon="/assets/donate/r-cake.png" data-name="巧克力1">
+ 								<div><a id="a_flower" href="javascript:;" onclick="openDialog('{?$jieqi_modules['article']['url']?}/gifts.php?id={?$articleid?}&rid=2&ajax_gets=jieqi_contents', false);">
+ 									<img src="/sink/image/field.gif" class="donate-item donate-item-23" alt="巧克力1">
+ 									<p class="name"><span class="count">{?$whiterose?}</span>个</p></a>
+ 								</div>
+ 							</td>
+							<td class="items" title="水晶鞋1" data-type="24" data-unit="支" data-desc="谢谢作者大大满足了我们的最初幻想，梦幻的水晶鞋送上！" data-value="5000" data-icon="/assets/donate/r-shoes.png" data-name="水晶鞋1">
+ 								<div><a id="a_flower" href="javascript:;" onclick="openDialog('{?$jieqi_modules['article']['url']?}/gifts.php?id={?$articleid?}&rid=2&ajax_gets=jieqi_contents', false);">
+ 									<img src="/sink/image/field.gif" class="donate-item donate-item-24" alt="水晶鞋1">
+ 									<p class="name"><span class="count">{?$greenrose?}</span>支</p></a>
+ 								</div>
+ 							</td>
+							<td class="items" title="南瓜马车1" data-type="25" data-unit="辆" data-desc="大大的文字就像是坐上南瓜马车的灰姑娘的人生一般精彩！" data-value="10000" data-icon="/assets/donate/r-gharry.png" data-name="南瓜马车1">
+ 								<div><a id="a_flower" href="javascript:;" onclick="openDialog('{?$jieqi_modules['article']['url']?}/gifts.php?id={?$articleid?}&rid=2&ajax_gets=jieqi_contents', false);">
+ 									<img src="/sink/image/field.gif" class="donate-item donate-item-25" alt="南瓜马车1">
+ 									<p class="name"><span class="count">{?$blackrose?}</span>辆</p></a>
+ 								</div>
+ 							</td>
+							</tr>
+				</tbody>
+			</table>
+		</div>
+
+	</div>
+</div></div>
+		    	        <div class="space-20"></div>
+		    	        
+			    	    <div class="mod mod-block comments reviews">
+		    	            <div class="hd">
+		    	            	<a href="#write" class="add button-medium button-r-green">发表评论</a>
+
+		    	        		<h5>
+		    	        			<a href="{?$jieqi_modules['article']['url']?}/reviews.php?aid={?$articleid?}&type=all"><span>评论</span><em class="num">{?$reviewsnum?}</em></a>
+		    	        		</h5>
+		    	            </div>
+		    	            <div class="bd" id="book_manage">
+		    	           		<div class="review-item" id="bookNewReview">
+								  <ul id="reviewcontent">
+								     
+									 </ul>
+									 <p class="more-review" id="loadmore"><a href="{?$jieqi_url?}/modules/article/reviewsajax.php?aid={?$articleid?}" id="loadreview">加载更多评论...</a></p></div>
+		    	             	
+		    	            </div>
+		    	        </div>
+		    	       	<div id="write"><div class="mod mod-base comment-form book-comment-form">
+						<div class="bd">
+						{?if $jieqi_userid > 0?}
+						<div class="column-2"><div class="left"><p> <img src="{?function jieqi_geturl:'system':'avatar':$jieqi_userid:'s'?}" alt="评论" width="50" height="50" class="hy-is-placeholder"> </p> <span class="name">{?$jieqi_username?}</span>
+						</div> 
+						<div class="right">
+						<form class="form-base" name="review" id="review" method="post" action="{?$jieqi_modules['article']['url']?}/reviews.php?aid={?$articleid?}"  data-validator-option="{theme:'simple_right'}"> 
+						<div class="item"> 
+						<input type="text" class="text" name="ptitle" placeholder="标题" maxlength="100"> 
+						</div> 
+						<div class="item"> 
+						<textarea name="pcontent" class="text" placeholder="内容" style="overflow: hidden;"></textarea> 
+						<div style="position: absolute; display: none; word-wrap: break-word; font-weight: 400; width: 584px; font-family: Simsun; line-height: normal; font-size: 14px; padding: 10px;">&nbsp;</div>
+						</div> 
+						{?if $postcheckcode > 0?}
+						<div class="buttons">
+						<span class="codeimg"><img src="{?$jieqi_url?}/checkcode.php" style="cursor:pointer;" onclick="this.src='{?$jieqi_url?}/checkcode.php?rand='+Math.random();"></span>
+						<input type="text" class="text1 submit" name="checkcode" id="checkcode" size="8" maxlength="8" value="" /> 
+						</div>
+						{?/if?}
+						<div class="buttons"> 
+						<input type="hidden" name="act" id="act" value="newpost" />{?$jieqi_token_input?}
+						<input type="submit" value="提交" class="submit button-input button-red" id="btn_pcontent">
+						</div>
+						</form> 
+						</div>
+						</div>
+						{?else?}
+						<div class="alert alert-error">您只有<a href="{?$jieqi_user_url?}/login.php?jumpurl={?$jieqi_thisurl|urlencode?}" target="_blank" style="color:#09c">登陆</a>后才可以发表书评</div>
+						{?/if?}
+						</div></div></div>
+			        </div>
+		    	    
+		    	    <div class="c-right">
+					<div class="mod topic">
+	</div>
+		    	    	<div class="mod pattern-cover-author">
+						{?if $authorid > 0?}
+    	    				<div class="bd">
+    	    					<div class="author-zone column-2">
+    	    						<div class="left">
+    	    							<a href="{?function jieqi_geturl:'system':'user':$authorid?}" target="_blank"><img src="{?function jieqi_geturl:'system':'avatar':$authorid:'s'?}" alt="{?$author?}"></a>
+    	    						</div>
+					    	        <div class="right">
+					    	        	<span>作者：</span><br>
+					    	        	<a class="name" href="{?function jieqi_geturl:'system':'user':$authorid?}" target="_blank"><strong>{?$author?}</strong></a>
+					    	        </div>
+    	    					</div>
+    	    					<div id="bookCoper" class="blocks coper-zone"><h4>{?$author?}的助理 </h4>     <ul>
+								{?if $agentid > 0?}
+								<li data-uid="5058618" class=" "><a href="{?function jieqi_geturl:'system':'user':$agentid?}" target="_blank"><img src="{?function jieqi_geturl:'system':'avatar':$agentid:'s'?}" alt=""></a><p><a class="name" href="{?function jieqi_geturl:'system':'user':$agentid?}">{?$agent?}</a></p></li>
+								{?else?}
+								<li data-uid="5058618" class=" "><a href="#" target="_blank"><img src="/images/noavatar.jpg" alt=""></a><p><a class="name" href="#">暂无</a></p></li>
+								{?/if?}
+								</ul></div>
+   	    						</div>
+								{?else?}
+								<div class="bd">
+    	    					<div class="author-zone column-2">
+    	    						<div class="left">
+    	    							<a href="#" target="_blank"><img src="/images/noavatar.jpg" alt="{?$author?}"></a>
+    	    						</div>
+					    	        <div class="right">
+					    	        	<span>作者：</span><br>
+					    	        	<a class="name" href="#" target="_blank"><strong>{?$author?}</strong></a>
+					    	        </div>
+    	    					</div>
+    	    					<div id="bookCoper" class="blocks coper-zone"><h4>{?$author?}的助理 </h4>     <ul>{?if $agentid > 0?}
+								<li data-uid="5058618" class=" "><a href="{?function jieqi_geturl:'system':'user':$agentid?}" target="_blank"><img src="{?function jieqi_geturl:'system':'avatar':$agentid:'s'?}" alt=""></a><p><a class="name" href="{?function jieqi_geturl:'system':'user':$agentid?}">{?$agent?}</a></p></li>
+								{?else?}
+								<li data-uid="5058618" class=" "><a href="#" target="_blank"><img src="/images/noavatar.jpg" alt=""></a><p><a class="name" href="#">暂无</a></p></li>
+								{?/if?}</ul></div>
+   	    						</div>
+								{?/if?}
+    	    			</div>
+	    	    			
+	   	    			<div class="mod" id="recommendShelf0">
+		    	        <div class="pattern-rank">
+						 <div class="hd" boxid="ruoxiaHomeRankBody1"><h5><span>免费推荐</span></h5></div><div class="bd no-line"><ol data-collect-id="205" class="rank-list inside">{?$jieqi_pageblocks['3']['content']?}</ol></div></div></div>
+		    	        <div class="mod" id="recommendShelf1">
+		    	        <div class="pattern-rank"><div class="hd" boxid="ruoxiaBookDetailRecommend1"><h5><span>VIP精品</span></h5></div><div class="bd no-line"><ol data-collect-id="205" class="rank-list inside">{?$jieqi_pageblocks['4']['content']?}</ol></div></div></div>
+						<div class="mod mod-block fans-rank">
+	   	    				<div class="hd">
+	   	    					<h5><span>粉丝榜</span></h5>
+	   	    				</div>
+	   	    				<div class="bd">
+	   	    					<ul class="inside">
+		    	        			{?$jieqi_pageblocks['1']['content']?}
+	   	    				</div>
+	   	    			</div>
+	   	    			
+	   	    			</div>
+						<div class="cover-breadcrumb">
+		    		<a href="/" class="home"><i></i>{?$jieqi_sitename?}</a>
+		    		<span class="name">{?$articlename?}</span>
+		    		作者：<a href="{?function jieqi_geturl:'system':'user':$authorid?}" class="author" target="_blank">{?$author?}</a>
+		    		<span class="divide">|</span>独家首发<span class="divide">|</span>无广告<span class="divide">|</span>{?if $isvip_n > 0?}最新VIP章节：<a href="{?$url_vipchapter?}" class="chapter-name">{?if $vipvolume != ''?}{?$vipvolume?} {?/if?}{?$vipchapter?}</a>{?else?}最新章节：<a href="{?$url_lastchapter?}" class="chapter-name">{?if $lastvolume != ''?}{?$lastvolume?} {?/if?}{?$lastchapter?}</a>{?/if?}
+	    	    </div>
+<script type="text/javascript">	
+	layer.ready(function(){
+		//初始化最新评论
+		var listurl = "{?$jieqi_url?}/modules/article/reviewsajax.php?aid={?$articleid?}";
+		//GPage.loadpage('reviewcontent', listurl);
+				
+		//提交评论
+		$('#review').bind('submit', function(event){
+			event.preventDefault();
+			if(getUserId()<1){
+	         userLogin();
+			 }else{
+			var i = layer.load(0);
+			GPage.postForm('review', $("#review").attr("action"), function(data){
+					if(data.status=='OK'){
+							layer.msg(data.msg,1,{type:1,shade:false},function(){});
+							$.ajaxSetup ({ cache: false });
+							GPage.loadpage('reviewcontent', listurl);
+							document.getElementById("review").reset();			//清空输入框的文字
+							window.scrollTo(0,764);								//跳到最新评论处
+							layer.close(i);
+							checkMsgLen('pcontent');
+							$('.numb').html(parseInt($('.numb').html())+1);
+							$('#code_post').attr('src',$('#code_post').attr('src')+'?rand='+Math.random());							//刷新验证码
+					}else{
+					    layer.close(i);
+						layer.alert(data.msg, 8, !1);
+					}
+			   });
+			  }
+		});
+		
+	//初始化精华评论
+//	$('#goodli').bind('mouseenter',function tabgood(){
+//		var listurlgood = "";
+//		GPage.loadpage('goodreviewcontent', listurlgood);
+//	});
+	//鼠标滑过最新评论加载最新评论
+	$('#mostnew').bind('mouseenter',function tabgood(){
+		var listurl = "{?$jieqi_url?}/modules/article/reviewsajax.php?aid={?$articleid?}";
+		GPage.loadpage('reviewcontent', listurl);
+	});
+	//加载最新评论下一页
+	addLoad('loadreview','reviewcontent');
+	//加载精华评论下一页
+	addLoad('loadgoodreview','goodreviewcontent');
+	$(".tt").live({mouseenter:function(){
+		$(this).find(".tt_r").show();
+	},mouseleave:function(){
+		$(this).find(".tt_r").hide();
+	}});
+});
+
+//abelId 标签ID，ContainerId 容器ID
+function addLoad(abelId,ContainerId){
+	    var i = 1;
+		$('#'+abelId).live('click',function(event){
+			event.preventDefault();
+			var ii = layer.load(0);
+			var loadurl = this.href;
+			if (loadurl.indexOf("display=") < 0)
+			{
+				loadurl = this.href +"&page="+i;
+			}else{
+				loadurl = this.href +"&page="+i;
+			}
+			GPage.getJson(urlParams(loadurl,'ajax_gets='+ContentTag),function(data){
+				if ($.trim(data) != "")
+				{
+					$('#'+ContainerId).html($('#'+ContainerId).html()+data);
+					i++;
+					layer.close(ii);
+					if($("input[name='"+abelId+"_has_next_page']:last").val() == 0){
+						with($('#'+abelId)){
+							attr("href","javascript:;");
+							die();
+							text("亲,没有评论了");
+							attr("disabled",true);
+						}
+					}
+				}
+		  });
+	  });
+}
+
+//显示回复和分页显示回复
+function showReplies(_this, url, show)
+{
+    var relayid = "show"+_this.id;
+	if(show!='1') $("#"+relayid).toggle();
+	GPage.loadpage(relayid, url);
+}	
+
+function inface(str,tag){
+	if(str!=''){
+		var str = "["+str+"]";
+		var obj=document.getElementById(tag);
+	if(document.selection){
+		obj.focus();
+	var sel=document.selection.createRange();
+	document.selection.empty();
+	sel.text=str;
+	}else{
+		var prefix,main,suffix;
+		prefix=obj.value.substring(0,obj.selectionStart);
+		main=obj.value.substring(obj.selectionStart,obj.selectionEnd);
+		suffix=obj.value.substring(obj.selectionEnd);
+		obj.value=prefix+str+suffix;
+	}
+		obj.focus();
+	}
+		checkMsgLen(tag);
+}
+		
+//判定字数
+function checkMsgLen(tag){
+	var content=$('#'+tag).val();
+	try{
+			var len=GetLength(content);
+			var strTag = tag+'msgLen';
+			if(len>150){
+				$('#'+strTag).html('已超出<b style="color:red;">'+(len-150)+'</b>字');
+			}else{
+				var n=150-len;
+				$('#'+strTag).html('您还可以输入<b style="color:red;">'+n+'</b>字');
+			   
+			}
+		}catch(e){
+			return false;
+		}
+		
+	}
+
+//获取字符长度，中文为2个字符
+function GetLength(str){
+	var realLength=0;
+	var n=str.length;
+	var len=0;
+	for(var i=0;i<n;i++){
+		var ns=str[i];
+		if(ns==null){
+			ns=str.substring(i,i+1);
+		}
+		if(ns.match(/[^\x00-\xff]/ig)!=null){
+			len+=2;
+		}else{
+			len+=1;
+		}
+	}
+	len=parseInt(len/2);
+	return len;
+}
+
+//提交回复
+function submit_reply(_this){
+  var url = $(_this).attr("action");
+  if(getUserId()<1){
+	 userLogin();
+   }else{
+           GPage.postForm('reply'+_this.rid.value,url,
+		   function(data){
+				if(data.status=='OK'){
+					addreplise(_this.rid.value+'span');
+					GPage.loadpage('show'+_this.rid.value,_this.get_reply_url.value);
+				}else{
+					layer.alert(data.msg, 8, !1);
+				}
+		   }
+	);}
+	return false;
+}
+function addreplise(obj){
+
+ $('#'+obj).html(parseInt($('#'+obj).html())+1);
+}
+
+$(function(e){ 
+    /***不需要自动滚动，去掉即可***/ 
+/*    time = window.setInterval(function(){ 
+        $('.og_next').click();   
+    },5000); */
+    /***不需要自动滚动，去掉即可***/ 
+    linum = $('.mainlist li').length;//图片数量
+    w = linum*141.6;//ul宽度
+    $('.piclist').css('width', w + 'px');//ul宽度 
+    $('.swaplist').html($('.mainlist').html());//复制内容 
+     
+    $('.changes').click(function(){ 
+        if($('.swaplist,.mainlist').is(':animated')){ 
+            $('.swaplist,.mainlist').stop(true,true); 
+        }
+        if($('.mainlist li').length>5){//多于4张图片 
+            ml = parseInt($('.mainlist').css('left'));//默认图片ul位置 
+            sl = parseInt($('.swaplist').css('left'));//交换图片ul位置
+            if(ml<=0 && ml>w*-1){//默认图片显示时
+                $('.swaplist').css({left: '1416px'});//交换图片放在显示区域右侧
+                $('.mainlist').animate({left: ml - 708 + 'px'},'slow');//默认图片滚动             
+                if(ml==(w-708)*-1){//默认图片最后一屏时 
+                    $('.swaplist').animate({left: '0px'},'slow');//交换图片滚动 
+                } 
+            }else{//交换图片显示时
+                $('.mainlist').css({left: '1416px'})//默认图片放在显示区域右 
+                $('.swaplist').animate({left: sl - 708 + 'px'},'slow');//交换图片滚动 
+                if(sl==(w-708)*-1){//交换图片最后一屏时 
+                    $('.mainlist').animate({left: '0px'},'slow');//默认图片滚动 
+                } 
+            } 
+        } 
+    })    
+}); 
+ 
+$(function(){ 
+    $('.og_prev,.og_next').hover(function(){ 
+            $(this).fadeTo('fast',1); 
+        },function(){ 
+            $(this).fadeTo('fast',0.7); 
+    });
+	$('#zhan').toggle(function(){
+		$(this).parents("li").css("overflow","visible");
+		$(this).prev("p").css({overflow:"visible",height:"auto"});
+		$("div.book_top").css("height","auto");
+		$(this).html("-点击折叠");
+	},function(){
+		$(this).parents("li").css("overflow","hidden");
+		$(this).prev("p").css({overflow:"hidden",height:"110px"});
+		$("div.book_top").css("height","470px;");
+		$(this).html("+点击展开");
+	});
+//	layer.tips('点此投月票支持本书。',".vote", {
+//		style: ['background-color:#78BA32; color:#fff', '#78BA32'],
+//		maxWidth:185,
+//		guide:2,
+//		closeBtn:[0, true]
+//	});
+});
+</script>

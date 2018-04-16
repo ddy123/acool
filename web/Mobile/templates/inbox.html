@@ -1,0 +1,21 @@
+{?set jieqi_blocks_module = "system"?}
+{?set jieqi_page_rows = "30"?}
+{?set $jieqi_pagetitle = " ’º˛œ‰-{$jieqi_sitename}"?}
+<style>
+#pagelink{margin-top: -16px;}
+</style>
+<div class="mod block comments reply-list">
+				<div class="hd">
+					<h4>Ã·–—</h4>
+				</div>
+				<div class="bd">
+					<ul>
+					{?section name=i loop=$messagerows?}
+						<li><span class="count">{?$i['order']?}</span><!--a href="{?$jieqi_url?}/messagedetail.php?id={?$messagerows[i].messageid?}"-->{?$messagerows[i].title?}<!--/a--></li>
+					{?/section?}
+						</ul>
+				</div>
+			</div>
+
+
+			{?$url_jumppage?}

@@ -1,0 +1,164 @@
+
+$usecache = 
+$blockret = Array
+(
+    [side] => -1
+    [title] => 
+    [content] =>   
+
+)
+
+$usecache = 
+$blockret = Array
+(
+    [side] => -1
+    [title] => 
+    [content] => 
+
+	
+    <ul class="column">
+     <li><a href="http://www.mianfeidushu.com/user/"><em class="def b">首页</em></a></li>
+     <li id="row"><a href="javascript:void(0)"><em class="account">帐号管理</em></a>
+	 <dl class="list_menu" style="display:none">
+       <dd id="userhub_usereditView"><a href="http://www.mianfeidushu.com/useredit.php"><i>·</i>修改资料</a></dd>
+       <dd id="userhub_upaView"><a href="http://www.mianfeidushu.com/setavatar.php"><i>·</i>修改头像</a></dd>
+       <dd id="userhub_pwdview"><a href="http://www.mianfeidushu.com/passedit.php"><i>·</i>密码及安全</a></dd>
+      </dl>
+     </li>
+     <li id="row"><a href="http://www.mianfeidushu.com/modules/article/bookcase.php"><em class="trend">我的书架</em></a></li>
+     <li id="row"><a href="javascript:void(0)"><em class="fiscal">账务中心</em></a>
+      <dl class="list_menu" style="display:none">
+       <dd id="home_main"><a href="http://www.mianfeidushu.com/modules/pay/buyegold.php"><i>·</i>充值</a></dd>
+       <dd id="userhub_czView"><a href="http://www.mianfeidushu.com/modules/pay/paylog.php"><i>·</i>我的充值记录</a></dd>
+       <dd id="userhub_dyView"><a href="http://www.mianfeidushu.com/modules/obook/buylist.php"><i>·</i>订阅记录</a></dd>
+      </dl>
+     </li>
+     <li id="row"><a href="javascript:;"><em class="task">消息中心</em></a>
+      <dl class="list_menu" style="display:none">
+       <dd id="task_main"><a href="http://www.mianfeidushu.com/message.php?box=inbox"><i>·</i>收件箱</a></dd>
+       <dd id="task_czView"><a href="http://www.mianfeidushu.com/message.php?box=outbox"><i>·</i>发件箱</a></dd>
+	   <dd id="userhub_newmessage"><a href="http://www.mianfeidushu.com/newmessage.php"><i>&middot;</i>写新消息</a></dd>
+       <dd id="userhub_usermember"><a href="http://www.mianfeidushu.com/newmessage.php?tosys=1"><i>&middot;</i>写给管理员</a></dd>
+
+      </dl>
+     </li>     
+     	<li id="row"><a href="http://www.mianfeidushu.com/modules/article/applywriter.php"><em class="apply">申请作者</em></a></li>
+	  
+  </ul>
+
+)
+
+$usecache = 
+$blockret = Array
+(
+    [side] => -1
+    [title] => 
+    [content] =>       <dl>
+       <dt class="img"><img src="http://www.mianfeidushu.com/images/noavatars.jpg" onerror="javascript:this.src='/images/noavatars.jpg'"><span class="mask"></span></dt>
+	   <div class="infor_box">
+
+       <dd>admin
+       </dd>
+       <dd><a title="" href="#"><img src=""></a></dd>
+       <dd><a title="级" href="#"><img src="http://www.mianfeidushu.com/files/badge/image/2/0/6.gif"></a></dd>
+	   </div>
+      </dl>
+    </div>
+    <dl class="assets">
+     <dd><em>余额：</em>99689小说币<a href="http://www.mianfeidushu.com/modules/pay/buyegold.php" target="_blank" class="recharge2">充值</a></dd>
+     <dd><em>抵扣券：</em>0赠卷</dd>
+     <dd><em>月票：</em>张</dd>
+     <dd><em>包月：</em>尚未包月<a href="javascript:;" onclick="huodong('http://www.mianfeidushu.com/modules/article/monthly.php?id=1');" class="recharge2">开通</a></dd>
+    </dl>
+)
+
+$usecache = 
+$blockret = Array
+(
+    [side] => 1
+    [title] => 我的书架
+    [content] =>   
+
+)
+
+$usecache = 
+$blockret = Array
+(
+    [side] => -1
+    [title] => 
+    [content] =>   
+
+)
+
+$usecache = 
+$blockret = Array
+(
+    [side] => -1
+    [title] => 
+    [content] => 
+
+	
+    <ul class="column">
+     <li><a href="http://www.mianfeidushu.com/user/"><em class="def b">首页</em></a></li>
+     <li id="row"><a href="javascript:void(0)"><em class="account">帐号管理</em></a>
+	 <dl class="list_menu" style="display:none">
+       <dd id="userhub_usereditView"><a href="http://www.mianfeidushu.com/useredit.php"><i>·</i>修改资料</a></dd>
+       <dd id="userhub_upaView"><a href="http://www.mianfeidushu.com/setavatar.php"><i>·</i>修改头像</a></dd>
+       <dd id="userhub_pwdview"><a href="http://www.mianfeidushu.com/passedit.php"><i>·</i>密码及安全</a></dd>
+      </dl>
+     </li>
+     <li id="row"><a href="http://www.mianfeidushu.com/modules/article/bookcase.php"><em class="trend">我的书架</em></a></li>
+     <li id="row"><a href="javascript:void(0)"><em class="fiscal">账务中心</em></a>
+      <dl class="list_menu" style="display:none">
+       <dd id="home_main"><a href="http://www.mianfeidushu.com/modules/pay/buyegold.php"><i>·</i>充值</a></dd>
+       <dd id="userhub_czView"><a href="http://www.mianfeidushu.com/modules/pay/paylog.php"><i>·</i>我的充值记录</a></dd>
+       <dd id="userhub_dyView"><a href="http://www.mianfeidushu.com/modules/obook/buylist.php"><i>·</i>订阅记录</a></dd>
+      </dl>
+     </li>
+     <li id="row"><a href="javascript:;"><em class="task">消息中心</em></a>
+      <dl class="list_menu" style="display:none">
+       <dd id="task_main"><a href="http://www.mianfeidushu.com/message.php?box=inbox"><i>·</i>收件箱</a></dd>
+       <dd id="task_czView"><a href="http://www.mianfeidushu.com/message.php?box=outbox"><i>·</i>发件箱</a></dd>
+	   <dd id="userhub_newmessage"><a href="http://www.mianfeidushu.com/newmessage.php"><i>&middot;</i>写新消息</a></dd>
+       <dd id="userhub_usermember"><a href="http://www.mianfeidushu.com/newmessage.php?tosys=1"><i>&middot;</i>写给管理员</a></dd>
+
+      </dl>
+     </li>     
+     	<li id="row"><a href="http://www.mianfeidushu.com/modules/article/applywriter.php"><em class="apply">申请作者</em></a></li>
+	  
+  </ul>
+
+)
+
+$usecache = 
+$blockret = Array
+(
+    [side] => -1
+    [title] => 
+    [content] =>       <dl>
+       <dt class="img"><img src="http://www.mianfeidushu.com/images/noavatars.jpg" onerror="javascript:this.src='/images/noavatars.jpg'"><span class="mask"></span></dt>
+	   <div class="infor_box">
+
+       <dd>admin
+       </dd>
+       <dd><a title="" href="#"><img src=""></a></dd>
+       <dd><a title="级" href="#"><img src="http://www.mianfeidushu.com/files/badge/image/2/0/6.gif"></a></dd>
+	   </div>
+      </dl>
+    </div>
+    <dl class="assets">
+     <dd><em>余额：</em>99689小说币<a href="http://www.mianfeidushu.com/modules/pay/buyegold.php" target="_blank" class="recharge2">充值</a></dd>
+     <dd><em>抵扣券：</em>0赠卷</dd>
+     <dd><em>月票：</em>张</dd>
+     <dd><em>包月：</em>尚未包月<a href="javascript:;" onclick="huodong('http://www.mianfeidushu.com/modules/article/monthly.php?id=1');" class="recharge2">开通</a></dd>
+    </dl>
+)
+
+$usecache = 
+$blockret = Array
+(
+    [side] => 1
+    [title] => 我的书架
+    [content] =>   
+
+)

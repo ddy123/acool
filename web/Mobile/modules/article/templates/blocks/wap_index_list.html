@@ -1,0 +1,15 @@
+{?section name=i loop=$articlerows?}
+{?if $i['index'] == 0?}
+<li class="column-2">
+										<div class="left">
+											<a href="{?$articlerows[i].url_articleinfo?}"><img src="{?$articlerows[i].url_image?}" alt="{?$articlerows[i].articlename?}" width="80" height="112"></a>
+										</div>
+										<div class="right">
+											<h4><a href="{?$articlerows[i].url_articleinfo?}"  title="{?$articlerows[i].articlename?}">{?$articlerows[i].articlename?}</a></h4>
+											<div class="summary">
+												{?$articlerows[i].intro|truncate:166:'...'?}</div>
+										</div>
+									</li>
+									{?else?}
+								<li {?if $i['order'] % 2 == 0?}class="highlight"{?/if?}><a href="{?$articlerows[i].url_articleinfo?}"><span>[{?$articlerows[i].sort?}]</span></a><a href="{?$articlerows[i].url_articleinfo?}" title="{?$articlerows[i].articlename?}">{?$articlerows[i].articlename?}</a></li>{?/if?}
+{?/section?}

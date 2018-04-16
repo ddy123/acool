@@ -1,0 +1,19 @@
+Array
+(
+    [data] => Array
+        (
+            [quantity] => 1
+            [product_id] => FreeReading_Pay01
+            [transaction_id] => 1000000275119669
+            [original_transaction_id] => 1000000275119669
+            [purchase_date] => 2017-02-21 02:20:54 Etc/GMT
+            [purchase_date_ms] => 1487643654000
+            [purchase_date_pst] => 2017-02-20 18:20:54 America/Los_Angeles
+            [original_purchase_date] => 2017-02-21 02:20:54 Etc/GMT
+            [original_purchase_date_ms] => 1487643654000
+            [original_purchase_date_pst] => 2017-02-20 18:20:54 America/Los_Angeles
+            [is_trial_period] => false
+        )
+
+    [errNo] => 0
+)

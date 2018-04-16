@@ -1,0 +1,32 @@
+{?set jieqi_blocks_module = "article"?}
+{?set $jieqi_pagetitle = "{$articletitle}-{$jieqi_sitename}"?}
+{?set jieqi_page_rows = "30"?}
+<h1 class="page-title">{?$ordername?}</h1>
+<div class="mod block book-all-list">
+<div class="bd">
+				<ul>
+{?section name=i loop=$articlerows?}
+<li class="column-2 {?if $i['order'] % 2 == 0?}even{?/if?}">
+							<div class="left">
+								
+							</div>
+							<div class="right">
+							{?if $articlerows[i].isvip_n > 0?}
+								<img src="/_res/css/heiyan/img/vip.png" alt="vip">
+								{?/if?}
+                                <a class="name" href="{?$articlerows[i].url_articleinfo?}">{?$articlerows[i].articlename?}</a>
+								<p class="update">
+									最新{?if $articlerows[i].vipchapterid > 0?}<a href="{?$articlerows[i].url_vipchapter?}"  class="chapter">{?$articlerows[i].vipvolume?} {?$articlerows[i].vipchapter?}</a><span class="time">({?$articlerows[i].viptime|date:'Y-m-d'?})</span>{?else?}<a href="{?$articlerows[i].url_lastchapter?}"  class="chapter">{?$articlerows[i].lastvolume?} {?$articlerows[i].lastchapter?}</a><span class="time">({?$articlerows[i].lastupdate|date:'Y-m-d'?})</span>{?/if?}
+								</p>
+								<p class="info">
+									作者：<a href="{?$jieqi_modules['article']['url']?}/authorpage.php?id={?$articlerows[i].authorid?}" class="author">{?$articlerows[i].author?}</a>
+									<span class="words">字数：{?$articlerows[i].size_c?}</span>
+								</p>
+							</div>
+						</li>
+ {?/section?}
+
+		</ul>
+			</div>
+		</div>
+<div class="pages">{?$url_jumppage?}</div>
